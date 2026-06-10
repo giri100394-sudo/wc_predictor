@@ -1,0 +1,2501 @@
+date,home_team,away_team,home_score,away_score,tournament,neutral
+2018-01-01,Spain,Poland,3,1,Friendly,False
+2018-01-02,Ghana,Morocco,3,1,Friendly,False
+2018-01-03,Saudi Arabia,Spain,1,4,Friendly,False
+2018-01-04,USA,Serbia,3,1,Friendly,True
+2018-01-05,Germany,Poland,2,2,Friendly,False
+2018-01-07,Brazil,Poland,2,0,Friendly,False
+2018-01-08,Serbia,Germany,3,1,Friendly,False
+2018-01-09,Netherlands,Argentina,2,3,Friendly,False
+2018-01-10,Argentina,Senegal,2,0,Friendly,True
+2018-01-12,Saudi Arabia,Morocco,1,3,Friendly,False
+2018-01-13,Portugal,Italy,2,1,Friendly,True
+2018-01-14,Argentina,USA,2,0,Friendly,False
+2018-01-15,Spain,New Zealand,6,0,Friendly,False
+2018-01-16,Spain,England,1,1,Friendly,False
+2018-01-18,Portugal,Mexico,4,0,Friendly,False
+2018-01-19,Poland,Ghana,1,0,Friendly,True
+2018-01-20,England,Ecuador,3,0,Friendly,True
+2018-01-21,Senegal,Brazil,1,3,Friendly,False
+2018-01-23,Mexico,USA,2,2,Friendly,False
+2018-01-24,Belgium,Italy,1,3,Friendly,True
+2018-01-25,Denmark,New Zealand,2,1,Friendly,True
+2018-01-26,Netherlands,Germany,1,1,Friendly,False
+2018-01-28,France,Mexico,5,2,Friendly,False
+2018-01-29,Costa Rica,Morocco,0,2,Friendly,False
+2018-01-30,Spain,Ghana,3,2,Friendly,True
+2018-01-31,Morocco,Brazil,0,0,Friendly,True
+2018-02-01,Argentina,Ecuador,2,2,Friendly,False
+2018-02-03,Ghana,England,1,2,Friendly,True
+2018-02-04,Italy,Qatar,0,1,Friendly,False
+2018-02-05,Ghana,Belgium,2,4,Friendly,True
+2018-02-06,England,South Korea,2,2,Friendly,False
+2018-02-08,England,Serbia,3,0,Friendly,False
+2018-02-09,Qatar,Canada,0,1,Friendly,True
+2018-02-10,Serbia,Germany,0,2,Friendly,False
+2018-02-11,Brazil,Switzerland,0,0,Friendly,True
+2018-02-13,Ghana,England,1,4,Friendly,False
+2018-02-14,USA,Portugal,1,0,Friendly,True
+2018-02-15,Argentina,Netherlands,0,1,Friendly,False
+2018-02-16,Colombia,New Zealand,6,1,Friendly,False
+2018-02-17,England,Qatar,3,0,Friendly,False
+2018-02-19,Portugal,Morocco,1,1,Friendly,False
+2018-02-20,Panama,Netherlands,2,4,Friendly,False
+2018-02-21,South Korea,Canada,1,1,Friendly,False
+2018-02-22,Belgium,Qatar,1,1,Friendly,True
+2018-02-24,Qatar,New Zealand,3,1,Friendly,False
+2018-02-25,Poland,Mexico,2,3,Friendly,True
+2018-02-26,Denmark,Netherlands,0,0,Friendly,True
+2018-02-27,Costa Rica,USA,2,2,Friendly,False
+2018-03-01,Poland,Croatia,0,2,Friendly,True
+2018-03-02,Italy,Brazil,3,3,Friendly,False
+2018-03-03,Belgium,Saudi Arabia,2,1,Friendly,True
+2018-03-04,Morocco,Denmark,1,2,Friendly,False
+2018-03-05,Panama,Colombia,1,3,Friendly,False
+2018-03-07,Saudi Arabia,Ecuador,0,0,Friendly,True
+2018-03-08,Ghana,Poland,1,0,Friendly,False
+2018-03-09,Portugal,Germany,3,5,Friendly,False
+2018-03-10,Germany,Japan,3,1,Friendly,False
+2018-03-12,Argentina,England,2,1,Friendly,False
+2018-03-13,Costa Rica,Germany,0,2,Friendly,True
+2018-03-14,Ecuador,Switzerland,1,2,Friendly,False
+2018-03-15,Australia,Mexico,0,1,Friendly,False
+2018-03-16,New Zealand,South Korea,0,1,Friendly,True
+2018-03-18,Denmark,Morocco,1,0,Friendly,False
+2018-03-19,Senegal,Qatar,0,1,Friendly,False
+2018-03-20,Netherlands,Brazil,3,2,Friendly,False
+2018-03-21,Switzerland,Mexico,4,2,Friendly,False
+2018-03-23,Ghana,Mexico,0,1,Friendly,True
+2018-03-24,Spain,USA,1,1,Friendly,False
+2018-03-25,Morocco,Ghana,1,0,Friendly,False
+2018-03-26,Mexico,Ghana,4,1,Friendly,False
+2018-03-28,Uruguay,Argentina,0,0,Friendly,False
+2018-03-29,Germany,Morocco,3,1,Friendly,False
+2018-03-30,Uruguay,Spain,1,0,Friendly,False
+2018-03-31,Canada,Netherlands,0,1,Friendly,True
+2018-04-01,Qatar,Senegal,0,4,Friendly,True
+2018-04-03,Denmark,USA,2,3,Friendly,False
+2018-04-04,New Zealand,Morocco,0,2,Friendly,False
+2018-04-05,Argentina,Senegal,2,0,Friendly,False
+2018-04-06,Belgium,Argentina,1,0,Friendly,False
+2018-04-08,Morocco,Costa Rica,5,3,Friendly,False
+2018-04-09,Spain,England,4,2,Friendly,False
+2018-04-10,Argentina,Australia,5,1,Friendly,True
+2018-04-11,Germany,Switzerland,1,1,Friendly,False
+2018-04-13,Croatia,Poland,5,0,Friendly,False
+2018-04-14,Denmark,England,1,0,Friendly,True
+2018-04-15,Poland,Ghana,1,2,Friendly,False
+2018-04-16,Saudi Arabia,Italy,0,2,Friendly,False
+2018-04-17,Ecuador,Senegal,3,0,Friendly,False
+2018-04-19,Senegal,England,1,2,Friendly,False
+2018-04-20,England,Qatar,1,0,Friendly,True
+2018-04-21,New Zealand,South Korea,3,1,Friendly,False
+2018-04-22,Switzerland,Uruguay,2,1,Friendly,False
+2018-04-24,Netherlands,Ghana,3,1,Friendly,True
+2018-04-25,Saudi Arabia,Italy,4,1,Friendly,False
+2018-04-26,South Korea,Morocco,1,1,Friendly,False
+2018-04-27,Italy,New Zealand,0,0,Friendly,True
+2018-04-29,Belgium,Mexico,0,1,Friendly,True
+2018-04-30,Italy,Costa Rica,1,0,Friendly,True
+2018-05-01,Argentina,Brazil,0,1,Friendly,False
+2018-05-02,Argentina,England,3,0,Friendly,False
+2018-05-03,Costa Rica,USA,0,1,Friendly,True
+2018-05-05,USA,Ecuador,0,0,Friendly,False
+2018-05-06,Brazil,Italy,0,0,Friendly,True
+2018-05-07,Brazil,Costa Rica,4,2,Friendly,False
+2018-05-08,Saudi Arabia,Poland,2,3,Friendly,False
+2018-05-10,Ghana,Switzerland,0,1,Friendly,False
+2018-05-11,Serbia,Spain,0,2,Friendly,False
+2018-05-12,Argentina,Italy,2,0,Friendly,False
+2018-05-13,Australia,South Korea,1,0,Friendly,False
+2018-05-14,Portugal,Switzerland,1,2,Friendly,False
+2018-05-16,Portugal,Belgium,3,1,Friendly,False
+2018-05-17,France,Saudi Arabia,5,2,Friendly,False
+2018-05-18,Costa Rica,Mexico,1,0,Friendly,False
+2018-05-19,Argentina,Poland,3,0,Friendly,False
+2018-05-21,Costa Rica,Saudi Arabia,2,1,Friendly,True
+2018-05-22,Costa Rica,Spain,2,3,Friendly,False
+2018-05-23,Germany,Argentina,2,2,Friendly,True
+2018-05-24,Canada,Croatia,1,2,Friendly,False
+2018-05-26,Colombia,Uruguay,0,1,Friendly,True
+2018-05-27,Colombia,Argentina,0,3,Friendly,True
+2018-05-28,Portugal,Qatar,1,1,Friendly,False
+2018-05-29,Mexico,Netherlands,0,1,Friendly,False
+2018-05-30,Poland,Italy,3,0,Friendly,False
+2018-06-01,Qatar,Saudi Arabia,0,2,Friendly,False
+2018-06-02,Portugal,Mexico,3,1,Friendly,True
+2018-06-03,Netherlands,England,0,1,Friendly,False
+2018-06-04,Netherlands,Costa Rica,2,0,Friendly,False
+2018-06-06,Portugal,England,3,1,Friendly,False
+2018-06-07,Portugal,Italy,3,1,Friendly,False
+2018-06-08,Croatia,New Zealand,3,1,Friendly,True
+2018-06-09,Portugal,Belgium,2,1,Friendly,True
+2018-06-11,Argentina,Mexico,4,1,Friendly,True
+2018-06-12,Switzerland,France,3,3,Friendly,False
+2018-06-13,Uruguay,Switzerland,0,1,Friendly,False
+2018-06-14,Morocco,Brazil,2,2,Friendly,False
+2018-06-15,Spain,Denmark,1,2,Friendly,False
+2018-06-17,Japan,Qatar,5,1,Friendly,False
+2018-06-18,Saudi Arabia,Costa Rica,2,1,Friendly,False
+2018-06-19,Morocco,Ecuador,0,2,Friendly,True
+2018-06-20,Italy,Morocco,0,2,Friendly,False
+2018-06-22,Ecuador,Costa Rica,0,0,Friendly,False
+2018-06-23,Brazil,Belgium,1,3,Friendly,False
+2018-06-24,South Korea,Italy,1,0,Friendly,False
+2018-06-25,Switzerland,Italy,2,2,Friendly,False
+2018-06-27,USA,Ecuador,3,4,Friendly,False
+2018-06-28,South Korea,Denmark,1,1,Friendly,True
+2018-06-29,Morocco,Croatia,1,0,Friendly,False
+2018-06-30,France,Germany,2,0,Friendly,False
+2018-07-01,Colombia,England,0,4,Friendly,True
+2018-07-03,Panama,Qatar,2,0,Friendly,False
+2018-07-04,Australia,Ghana,2,4,Friendly,False
+2018-07-05,Portugal,Ecuador,2,0,Friendly,False
+2018-07-06,Croatia,Ecuador,3,2,Friendly,False
+2018-07-08,Uruguay,Netherlands,1,0,Friendly,True
+2018-07-09,Switzerland,Italy,0,2,Friendly,True
+2018-07-10,Spain,Uruguay,1,3,Friendly,False
+2018-07-11,Spain,France,2,2,Friendly,False
+2018-07-12,Morocco,Colombia,1,0,Friendly,True
+2018-07-14,Portugal,Uruguay,2,1,Friendly,False
+2018-07-15,New Zealand,Portugal,2,2,Friendly,False
+2018-07-16,Canada,Netherlands,2,0,Friendly,False
+2018-07-17,Switzerland,New Zealand,1,2,Friendly,False
+2018-07-19,Brazil,Colombia,2,0,Friendly,False
+2018-07-20,Croatia,Belgium,2,2,Friendly,True
+2018-07-21,New Zealand,Ghana,1,1,Friendly,True
+2018-07-22,Costa Rica,France,0,1,Friendly,True
+2018-07-24,Saudi Arabia,South Korea,0,1,Friendly,False
+2018-07-25,Italy,New Zealand,2,0,Friendly,True
+2018-07-26,England,France,5,1,Friendly,True
+2018-07-27,Denmark,Japan,1,2,Friendly,False
+2018-07-28,Belgium,Panama,1,0,Friendly,False
+2018-07-30,Germany,Croatia,2,1,Friendly,True
+2018-07-31,South Korea,Poland,1,1,Friendly,False
+2018-08-01,Colombia,Costa Rica,2,0,Friendly,False
+2018-08-02,England,Mexico,1,2,Friendly,False
+2018-08-04,Portugal,Mexico,2,3,Friendly,False
+2018-08-05,Qatar,Argentina,1,4,Friendly,False
+2018-08-06,France,Senegal,3,0,Friendly,False
+2018-08-07,Poland,Morocco,3,2,Friendly,False
+2018-08-09,England,USA,4,1,Friendly,False
+2018-08-10,England,Panama,3,1,Friendly,False
+2018-08-11,Poland,Morocco,1,1,Friendly,True
+2018-08-12,Senegal,Japan,0,0,Friendly,True
+2018-08-13,USA,Mexico,4,3,Friendly,True
+2018-08-15,Morocco,Brazil,2,1,Friendly,False
+2018-08-16,France,Mexico,2,0,Friendly,True
+2018-08-17,Argentina,Ghana,4,1,Friendly,False
+2018-08-18,Serbia,Brazil,1,6,Friendly,False
+2018-08-20,Serbia,Costa Rica,4,1,Friendly,False
+2018-08-21,Germany,Mexico,0,3,Friendly,True
+2018-08-22,France,Spain,1,3,Friendly,True
+2018-08-23,Senegal,Brazil,0,1,Friendly,True
+2018-08-25,New Zealand,Croatia,0,4,Friendly,False
+2018-08-26,England,Mexico,2,2,Friendly,True
+2018-08-27,Uruguay,Denmark,1,1,Friendly,False
+2018-08-28,South Korea,Australia,0,1,Friendly,True
+2018-08-29,Argentina,Mexico,3,1,Friendly,False
+2018-08-31,Morocco,Canada,3,0,Friendly,True
+2018-09-01,Poland,Ghana,3,1,Friendly,False
+2018-09-02,South Korea,Poland,1,3,Friendly,False
+2018-09-03,Mexico,Germany,0,3,Friendly,True
+2018-09-05,Senegal,Canada,0,0,Friendly,False
+2018-09-06,Italy,Colombia,2,1,Friendly,False
+2018-09-07,Serbia,Mexico,1,2,Friendly,False
+2018-09-08,USA,Morocco,3,1,Friendly,False
+2018-09-10,Netherlands,Poland,2,0,Friendly,False
+2018-09-11,Brazil,Croatia,1,3,Friendly,False
+2018-09-12,Morocco,Argentina,4,0,Friendly,False
+2018-09-13,Australia,Argentina,1,2,Friendly,False
+2018-09-14,Australia,Japan,4,1,Friendly,False
+2018-09-16,Serbia,Denmark,1,0,Friendly,False
+2018-09-17,Netherlands,New Zealand,4,0,Friendly,True
+2018-09-18,Germany,Serbia,2,0,Friendly,False
+2018-09-19,Qatar,Belgium,0,2,Friendly,False
+2018-09-21,Poland,Panama,2,2,Friendly,False
+2018-09-22,Germany,Canada,1,1,Friendly,False
+2018-09-23,Croatia,Brazil,1,4,Friendly,True
+2018-09-24,South Korea,Portugal,0,2,Friendly,False
+2018-09-25,Japan,Colombia,1,3,Friendly,True
+2018-09-27,Denmark,Germany,0,2,Friendly,False
+2018-09-28,Colombia,Saudi Arabia,0,2,Friendly,True
+2018-09-29,Colombia,Panama,2,1,Friendly,False
+2018-09-30,England,Denmark,5,3,Friendly,True
+2018-10-02,Morocco,Canada,2,1,Friendly,True
+2018-10-03,New Zealand,Panama,2,5,Friendly,False
+2018-10-04,Netherlands,Croatia,1,2,Friendly,False
+2018-10-05,Mexico,Serbia,3,3,Friendly,False
+2018-10-07,Japan,Croatia,2,2,Friendly,False
+2018-10-08,Colombia,Ghana,2,2,Friendly,True
+2018-10-09,New Zealand,Switzerland,0,1,Friendly,False
+2018-10-10,Qatar,Uruguay,2,2,Friendly,False
+2018-10-11,Australia,Argentina,0,1,Friendly,False
+2018-10-13,Panama,Belgium,1,1,Friendly,False
+2018-10-14,Portugal,Saudi Arabia,1,0,Friendly,True
+2018-10-15,Mexico,Ghana,4,1,Friendly,False
+2018-10-16,Portugal,Switzerland,2,0,Friendly,True
+2018-10-18,Poland,Ghana,1,1,Friendly,False
+2018-10-19,Poland,Uruguay,1,1,Friendly,False
+2018-10-20,Switzerland,Uruguay,1,3,Friendly,False
+2018-10-21,Poland,Denmark,0,1,Friendly,False
+2018-10-23,Serbia,Canada,2,3,Friendly,False
+2018-10-24,Netherlands,Qatar,1,1,Friendly,False
+2018-10-25,New Zealand,USA,2,1,Friendly,False
+2018-10-26,Senegal,USA,2,1,Friendly,False
+2018-10-27,England,Qatar,4,1,Friendly,False
+2018-10-29,Portugal,Panama,2,0,Friendly,False
+2018-10-30,Ecuador,Belgium,5,2,Friendly,False
+2018-10-31,Qatar,Senegal,3,1,Friendly,False
+2018-11-01,Switzerland,Spain,2,1,Friendly,False
+2018-11-03,Morocco,USA,1,2,Friendly,False
+2018-11-04,Uruguay,Qatar,1,0,Friendly,False
+2018-11-05,Portugal,New Zealand,2,0,Friendly,True
+2018-11-06,Japan,South Korea,1,0,Friendly,False
+2018-11-08,Spain,Denmark,1,2,Friendly,False
+2018-11-09,New Zealand,Qatar,1,0,Friendly,False
+2018-11-10,Canada,USA,1,2,Friendly,False
+2018-11-11,Denmark,Poland,0,1,Friendly,False
+2018-11-12,Australia,Serbia,0,1,Friendly,True
+2018-11-14,Portugal,Spain,1,0,Friendly,False
+2018-11-15,Serbia,Italy,0,5,Friendly,False
+2018-11-16,Saudi Arabia,Spain,1,2,Friendly,False
+2018-11-17,Denmark,Australia,2,2,Friendly,False
+2018-11-19,Portugal,Qatar,4,1,Friendly,False
+2018-11-20,Germany,Senegal,3,0,Friendly,False
+2018-11-21,South Korea,Ecuador,2,2,Friendly,True
+2018-11-22,Uruguay,Panama,2,1,Friendly,False
+2018-11-23,Brazil,Belgium,0,1,Friendly,False
+2018-11-25,Germany,Brazil,1,0,Friendly,False
+2018-11-26,Denmark,Ecuador,0,0,Friendly,False
+2018-11-27,Japan,Croatia,2,2,Friendly,False
+2018-11-28,Denmark,Mexico,0,2,Friendly,False
+2018-11-30,Uruguay,Panama,5,0,Friendly,False
+2018-12-01,New Zealand,Switzerland,1,2,Friendly,False
+2018-12-02,Argentina,Brazil,1,0,Friendly,False
+2018-12-03,Australia,Qatar,0,2,Friendly,False
+2018-12-05,Belgium,Panama,3,1,Friendly,False
+2018-12-06,Uruguay,Mexico,1,1,Friendly,True
+2018-12-07,Qatar,Australia,1,1,Friendly,True
+2018-12-08,Australia,Italy,2,2,Friendly,False
+2018-12-09,Senegal,Japan,0,1,Friendly,True
+2018-12-11,Italy,Serbia,4,1,Friendly,False
+2018-12-12,Serbia,New Zealand,0,1,Friendly,False
+2018-12-13,Belgium,France,0,0,Friendly,True
+2018-12-14,Croatia,England,1,1,Friendly,True
+2018-12-16,Uruguay,Spain,4,2,Friendly,True
+2018-12-17,Argentina,Canada,5,2,Friendly,False
+2018-12-18,South Korea,Belgium,3,1,Friendly,False
+2018-12-19,Saudi Arabia,France,0,3,Friendly,False
+2018-12-21,Ghana,Costa Rica,2,1,Friendly,False
+2018-12-22,Poland,Morocco,2,4,Friendly,False
+2018-12-23,Costa Rica,Mexico,1,1,Friendly,False
+2018-12-24,Portugal,Croatia,0,2,Friendly,False
+2018-12-25,Mexico,USA,0,2,Friendly,False
+2018-12-27,Panama,Belgium,1,1,Friendly,False
+2018-12-28,Australia,Panama,2,0,Friendly,False
+2018-12-29,Japan,Senegal,1,1,Friendly,False
+2018-12-30,Italy,Germany,1,0,Friendly,False
+2019-01-01,Saudi Arabia,England,1,3,Friendly,False
+2019-01-02,Ghana,Uruguay,1,1,Friendly,False
+2019-01-03,Ecuador,Croatia,0,1,Friendly,True
+2019-01-04,Netherlands,Croatia,3,2,Friendly,False
+2019-01-06,Australia,Mexico,2,1,Friendly,False
+2019-01-07,Poland,Ecuador,4,1,Friendly,False
+2019-01-08,USA,England,2,1,Friendly,True
+2019-01-09,Australia,Ecuador,2,2,Friendly,True
+2019-01-10,Germany,Senegal,1,1,Friendly,False
+2019-01-12,Saudi Arabia,Argentina,1,2,Friendly,False
+2019-01-13,Australia,Serbia,3,1,Friendly,False
+2019-01-14,Croatia,Canada,3,0,Friendly,True
+2019-01-15,Argentina,Belgium,2,0,Friendly,True
+2019-01-17,Senegal,Brazil,2,3,Friendly,False
+2019-01-18,USA,Switzerland,0,0,Friendly,True
+2019-01-19,Mexico,Canada,0,2,Friendly,False
+2019-01-20,Italy,Belgium,1,1,Friendly,True
+2019-01-21,Belgium,Serbia,3,2,Friendly,False
+2019-01-23,USA,New Zealand,2,1,Friendly,False
+2019-01-24,Ecuador,Italy,0,2,Friendly,False
+2019-01-25,Netherlands,Japan,1,0,Friendly,False
+2019-01-26,France,England,0,1,Friendly,False
+2019-01-28,Canada,Saudi Arabia,1,2,Friendly,False
+2019-01-29,Colombia,Germany,5,1,Friendly,False
+2019-01-30,Saudi Arabia,England,2,2,Friendly,False
+2019-01-31,Colombia,Netherlands,1,0,Friendly,True
+2019-02-02,Mexico,Poland,2,3,Friendly,True
+2019-02-03,Saudi Arabia,Australia,3,3,Friendly,False
+2019-02-04,Argentina,Senegal,2,1,Friendly,False
+2019-02-05,Senegal,Canada,3,1,Friendly,False
+2019-02-06,England,South Korea,2,1,Friendly,False
+2019-02-08,Argentina,Canada,4,1,Friendly,False
+2019-02-09,Uruguay,Serbia,1,2,Friendly,True
+2019-02-10,England,New Zealand,3,2,Friendly,False
+2019-02-11,Germany,Uruguay,3,2,Friendly,False
+2019-02-13,Denmark,Ecuador,1,3,Friendly,False
+2019-02-14,Costa Rica,New Zealand,0,0,Friendly,False
+2019-02-15,Netherlands,Ecuador,1,0,Friendly,True
+2019-02-16,Croatia,Serbia,3,4,Friendly,False
+2019-02-18,Denmark,South Korea,3,0,Friendly,True
+2019-02-19,Ecuador,Serbia,1,0,Friendly,False
+2019-02-20,Brazil,Mexico,1,0,Friendly,False
+2019-02-21,Croatia,Switzerland,2,1,Friendly,False
+2019-02-22,Belgium,Netherlands,3,2,Friendly,True
+2019-02-24,Canada,Japan,1,3,Friendly,False
+2019-02-25,Denmark,Brazil,0,1,Friendly,False
+2019-02-26,Ecuador,Italy,0,0,Friendly,True
+2019-02-27,Senegal,Japan,1,3,Friendly,True
+2019-03-01,Ghana,Uruguay,0,3,Friendly,False
+2019-03-02,Serbia,Ecuador,0,0,Friendly,False
+2019-03-03,Japan,Panama,3,1,Friendly,True
+2019-03-04,Belgium,Spain,5,3,Friendly,True
+2019-03-06,Croatia,USA,1,2,Friendly,False
+2019-03-07,Mexico,Ecuador,1,0,Friendly,False
+2019-03-08,Morocco,Australia,2,3,Friendly,False
+2019-03-09,Saudi Arabia,Portugal,2,3,Friendly,False
+2019-03-10,Poland,Qatar,2,3,Friendly,False
+2019-03-12,Senegal,Australia,2,1,Friendly,False
+2019-03-13,England,Japan,4,1,Friendly,False
+2019-03-14,Canada,Poland,1,5,Friendly,False
+2019-03-15,Netherlands,Serbia,3,1,Friendly,True
+2019-03-17,Australia,Switzerland,0,0,Friendly,False
+2019-03-18,Japan,Switzerland,1,0,Friendly,False
+2019-03-19,Argentina,Saudi Arabia,1,1,Friendly,False
+2019-03-20,Netherlands,New Zealand,1,2,Friendly,False
+2019-03-22,Brazil,Colombia,1,1,Friendly,True
+2019-03-23,Senegal,Saudi Arabia,3,1,Friendly,True
+2019-03-24,Germany,Poland,1,1,Friendly,False
+2019-03-25,Qatar,Croatia,1,5,Friendly,False
+2019-03-26,Morocco,South Korea,1,2,Friendly,True
+2019-03-28,Costa Rica,France,0,2,Friendly,False
+2019-03-29,Germany,Poland,2,0,Friendly,False
+2019-03-30,Serbia,Uruguay,1,4,Friendly,False
+2019-03-31,Mexico,Ghana,4,3,Friendly,False
+2019-04-02,Denmark,Spain,0,1,Friendly,False
+2019-04-03,Switzerland,Canada,0,2,Friendly,True
+2019-04-04,Japan,Portugal,1,2,Friendly,False
+2019-04-05,South Korea,Ecuador,3,2,Friendly,False
+2019-04-06,Saudi Arabia,France,2,2,Friendly,False
+2019-04-08,France,Senegal,2,1,Friendly,False
+2019-04-09,Senegal,Poland,1,2,Friendly,False
+2019-04-10,Poland,Mexico,2,1,Friendly,False
+2019-04-11,Germany,New Zealand,1,0,Friendly,True
+2019-04-13,Switzerland,South Korea,2,0,Friendly,True
+2019-04-14,New Zealand,Costa Rica,0,1,Friendly,True
+2019-04-15,Argentina,Mexico,2,0,Friendly,True
+2019-04-16,Morocco,Portugal,0,0,Friendly,False
+2019-04-18,Germany,Brazil,2,2,Friendly,False
+2019-04-19,Senegal,Qatar,3,2,Friendly,False
+2019-04-20,New Zealand,Colombia,0,2,Friendly,False
+2019-04-21,Uruguay,Switzerland,1,2,Friendly,True
+2019-04-22,Portugal,Saudi Arabia,3,1,Friendly,True
+2019-04-24,Senegal,South Korea,3,0,Friendly,False
+2019-04-25,Costa Rica,Netherlands,0,1,Friendly,False
+2019-04-26,Ecuador,Argentina,0,3,Friendly,False
+2019-04-27,Poland,Spain,1,1,Friendly,False
+2019-04-29,Uruguay,Brazil,2,1,Friendly,False
+2019-04-30,Switzerland,Costa Rica,1,1,Friendly,False
+2019-05-01,Belgium,Italy,3,3,Friendly,False
+2019-05-02,Canada,England,0,0,Friendly,True
+2019-05-04,Senegal,Qatar,3,1,Friendly,True
+2019-05-05,France,USA,1,2,Friendly,True
+2019-05-06,South Korea,Belgium,2,0,Friendly,True
+2019-05-07,Poland,Canada,2,2,Friendly,False
+2019-05-08,Senegal,Italy,1,2,Friendly,True
+2019-05-10,Brazil,Colombia,3,0,Friendly,False
+2019-05-11,Colombia,Belgium,2,0,Friendly,False
+2019-05-12,Switzerland,South Korea,4,2,Friendly,False
+2019-05-13,Croatia,Germany,3,1,Friendly,True
+2019-05-15,Ghana,Germany,1,3,Friendly,False
+2019-05-16,South Korea,Belgium,1,5,Friendly,False
+2019-05-17,Denmark,Argentina,0,0,Friendly,False
+2019-05-18,Senegal,Netherlands,1,1,Friendly,False
+2019-05-20,Canada,Switzerland,4,0,Friendly,False
+2019-05-21,Uruguay,Costa Rica,2,3,Friendly,False
+2019-05-22,Switzerland,Uruguay,1,1,Friendly,True
+2019-05-23,South Korea,Denmark,1,1,Friendly,False
+2019-05-24,Qatar,Belgium,1,1,Friendly,False
+2019-05-26,Portugal,Belgium,4,0,Friendly,True
+2019-05-27,Belgium,Canada,0,1,Friendly,False
+2019-05-28,Argentina,Canada,1,2,Friendly,True
+2019-05-29,Australia,Spain,0,2,Friendly,True
+2019-05-31,Colombia,Ghana,0,0,Friendly,False
+2019-06-01,New Zealand,Poland,1,3,Friendly,False
+2019-06-02,Spain,Italy,5,0,Friendly,True
+2019-06-03,England,Saudi Arabia,3,0,Friendly,True
+2019-06-04,Argentina,Croatia,2,0,Friendly,True
+2019-06-06,Italy,Germany,2,1,Friendly,False
+2019-06-07,Senegal,Argentina,5,0,Friendly,False
+2019-06-08,Spain,Netherlands,3,0,Friendly,True
+2019-06-09,England,Saudi Arabia,0,0,Friendly,False
+2019-06-11,Spain,Uruguay,2,2,Friendly,False
+2019-06-12,Belgium,Italy,1,1,Friendly,False
+2019-06-13,Portugal,USA,1,0,Friendly,False
+2019-06-14,Brazil,Ecuador,2,1,Friendly,False
+2019-06-16,Belgium,Serbia,3,0,Friendly,False
+2019-06-17,Saudi Arabia,Belgium,0,1,Friendly,True
+2019-06-18,Spain,Argentina,1,0,Friendly,True
+2019-06-19,USA,Ecuador,1,3,Friendly,False
+2019-06-20,Switzerland,Australia,2,1,Friendly,False
+2019-06-22,France,Serbia,2,1,Friendly,True
+2019-06-23,Morocco,Brazil,2,3,Friendly,False
+2019-06-24,Brazil,Uruguay,1,2,Friendly,False
+2019-06-25,France,Costa Rica,3,1,Friendly,False
+2019-06-27,USA,Argentina,0,0,Friendly,False
+2019-06-28,Italy,Poland,4,2,Friendly,False
+2019-06-29,Argentina,Spain,0,0,Friendly,False
+2019-06-30,Croatia,Morocco,2,1,Friendly,False
+2019-07-02,Croatia,Uruguay,2,2,Friendly,True
+2019-07-03,Saudi Arabia,France,0,3,Friendly,True
+2019-07-04,England,Senegal,1,1,Friendly,False
+2019-07-05,England,Uruguay,1,2,Friendly,False
+2019-07-06,Uruguay,Saudi Arabia,2,1,Friendly,True
+2019-07-08,Qatar,Italy,2,4,Friendly,False
+2019-07-09,Costa Rica,Belgium,1,2,Friendly,False
+2019-07-10,England,Australia,0,2,Friendly,False
+2019-07-11,Ecuador,France,1,1,Friendly,False
+2019-07-13,Poland,Ecuador,0,1,Friendly,False
+2019-07-14,Brazil,Morocco,0,2,Friendly,False
+2019-07-15,Ecuador,Belgium,1,4,Friendly,True
+2019-07-16,Colombia,Costa Rica,0,1,Friendly,True
+2019-07-18,Uruguay,Morocco,1,0,Friendly,False
+2019-07-19,Costa Rica,Argentina,0,4,Friendly,False
+2019-07-20,Serbia,Switzerland,4,3,Friendly,True
+2019-07-21,Colombia,Argentina,2,2,Friendly,False
+2019-07-22,USA,Japan,3,3,Friendly,False
+2019-07-24,Switzerland,Spain,3,1,Friendly,False
+2019-07-25,Italy,Senegal,1,3,Friendly,False
+2019-07-26,Argentina,Morocco,1,2,Friendly,False
+2019-07-27,USA,Canada,6,1,Friendly,False
+2019-07-29,Serbia,Spain,2,2,Friendly,False
+2019-07-30,Ecuador,England,1,0,Friendly,False
+2019-07-31,Argentina,Brazil,2,1,Friendly,True
+2019-08-01,Italy,Netherlands,1,1,Friendly,False
+2019-08-02,Morocco,Saudi Arabia,0,2,Friendly,False
+2019-08-04,Croatia,Belgium,4,3,Friendly,False
+2019-08-05,Mexico,Italy,3,1,Friendly,False
+2019-08-06,Netherlands,Italy,2,1,Friendly,False
+2019-08-07,Morocco,France,2,2,Friendly,False
+2019-08-09,Poland,Canada,2,0,Friendly,False
+2019-08-10,Italy,USA,3,0,Friendly,False
+2019-08-11,Argentina,Mexico,0,0,Friendly,False
+2019-08-12,Netherlands,Germany,1,1,Friendly,True
+2019-08-14,Argentina,Costa Rica,2,2,Friendly,False
+2019-08-15,Canada,Senegal,3,1,Friendly,False
+2019-08-16,Germany,England,2,1,Friendly,False
+2019-08-17,New Zealand,Belgium,0,0,Friendly,False
+2019-08-18,England,Ghana,2,0,Friendly,True
+2019-08-20,Portugal,Morocco,1,0,Friendly,False
+2019-08-21,Canada,Uruguay,2,1,Friendly,True
+2019-08-22,Spain,USA,2,0,Friendly,False
+2019-08-23,Colombia,Qatar,2,2,Friendly,False
+2019-08-25,Switzerland,New Zealand,0,1,Friendly,False
+2019-08-26,Qatar,Morocco,0,3,Friendly,True
+2019-08-27,Ecuador,USA,0,2,Friendly,False
+2019-08-28,Belgium,Italy,2,2,Friendly,True
+2019-08-30,Spain,France,4,7,Friendly,False
+2019-08-31,Portugal,South Korea,4,4,Friendly,False
+2019-09-01,USA,Ecuador,1,2,Friendly,True
+2019-09-02,Germany,South Korea,1,1,Friendly,False
+2019-09-03,Portugal,Saudi Arabia,1,1,Friendly,False
+2019-09-05,Brazil,Poland,1,1,Friendly,False
+2019-09-06,Japan,Brazil,0,1,Friendly,False
+2019-09-07,Morocco,Serbia,7,1,Friendly,False
+2019-09-08,USA,Serbia,0,2,Friendly,False
+2019-09-10,Croatia,Mexico,0,1,Friendly,False
+2019-09-11,Argentina,Costa Rica,0,0,Friendly,False
+2019-09-12,Switzerland,England,2,0,Friendly,False
+2019-09-13,Belgium,South Korea,1,0,Friendly,False
+2019-09-15,Japan,Ecuador,2,1,Friendly,False
+2019-09-16,Canada,Denmark,1,4,Friendly,False
+2019-09-17,Switzerland,Argentina,0,3,Friendly,False
+2019-09-18,Australia,Morocco,1,2,Friendly,False
+2019-09-19,Serbia,Canada,4,2,Friendly,False
+2019-09-21,Spain,Belgium,2,1,Friendly,False
+2019-09-22,Serbia,Croatia,0,1,Friendly,False
+2019-09-23,Morocco,Costa Rica,3,1,Friendly,False
+2019-09-24,Brazil,Croatia,0,2,Friendly,True
+2019-09-26,Germany,Brazil,3,2,Friendly,True
+2019-09-27,Panama,Switzerland,0,0,Friendly,False
+2019-09-28,Ghana,Panama,3,1,Friendly,False
+2019-09-29,Germany,Mexico,3,4,Friendly,False
+2019-10-01,Argentina,Brazil,2,2,Friendly,False
+2019-10-02,Morocco,Canada,2,1,Friendly,False
+2019-10-03,Germany,Canada,3,0,Friendly,True
+2019-10-04,USA,Senegal,2,0,Friendly,False
+2019-10-05,New Zealand,Belgium,1,2,Friendly,True
+2019-10-07,Ghana,Costa Rica,3,3,Friendly,False
+2019-10-08,France,Italy,0,1,Friendly,False
+2019-10-09,Croatia,Costa Rica,1,0,Friendly,False
+2019-10-10,Spain,South Korea,1,0,Friendly,True
+2019-10-12,Denmark,Germany,2,2,Friendly,True
+2019-10-13,Argentina,France,0,4,Friendly,True
+2019-10-14,Australia,Spain,0,0,Friendly,True
+2019-10-15,Saudi Arabia,Uruguay,0,3,Friendly,False
+2019-10-16,Italy,Switzerland,0,0,Friendly,False
+2019-10-18,Portugal,Netherlands,2,2,Friendly,False
+2019-10-19,Serbia,Japan,0,0,Friendly,False
+2019-10-20,Morocco,Spain,4,2,Friendly,False
+2019-10-21,South Korea,Canada,1,2,Friendly,True
+2019-10-23,Costa Rica,Mexico,0,2,Friendly,False
+2019-10-24,Netherlands,South Korea,5,1,Friendly,False
+2019-10-25,Belgium,Italy,3,1,Friendly,False
+2019-10-26,Brazil,Serbia,2,1,Friendly,False
+2019-10-28,Panama,Belgium,1,1,Friendly,True
+2019-10-29,Japan,Costa Rica,3,1,Friendly,False
+2019-10-30,Brazil,Croatia,0,2,Friendly,True
+2019-10-31,Netherlands,Brazil,3,2,Friendly,False
+2019-11-01,Uruguay,Panama,4,2,Friendly,True
+2019-11-03,Poland,Uruguay,2,5,Friendly,False
+2019-11-04,Belgium,France,4,2,Friendly,False
+2019-11-05,Mexico,England,2,0,Friendly,False
+2019-11-06,France,Ghana,1,1,Friendly,False
+2019-11-08,Spain,Morocco,2,0,Friendly,False
+2019-11-09,Netherlands,Morocco,1,1,Friendly,True
+2019-11-10,Saudi Arabia,Mexico,0,0,Friendly,False
+2019-11-11,Panama,Colombia,2,3,Friendly,False
+2019-11-13,Uruguay,Denmark,2,2,Friendly,False
+2019-11-14,Qatar,Panama,0,0,Friendly,True
+2019-11-15,USA,New Zealand,3,0,Friendly,False
+2019-11-16,Spain,England,0,0,Friendly,True
+2019-11-17,Spain,Serbia,3,1,Friendly,False
+2019-11-19,England,Poland,1,1,Friendly,False
+2019-11-20,Ecuador,Spain,1,0,Friendly,False
+2019-11-21,Canada,Spain,0,2,Friendly,True
+2019-11-22,Switzerland,New Zealand,0,2,Friendly,False
+2019-11-24,Switzerland,Netherlands,4,2,Friendly,False
+2019-11-25,Belgium,Morocco,0,2,Friendly,True
+2019-11-26,Brazil,Ghana,1,0,Friendly,False
+2019-11-27,Switzerland,Japan,4,1,Friendly,False
+2019-11-29,New Zealand,USA,3,1,Friendly,False
+2019-11-30,Saudi Arabia,France,0,1,Friendly,False
+2019-12-01,Panama,Colombia,0,1,Friendly,False
+2019-12-02,Costa Rica,New Zealand,1,0,Friendly,False
+2019-12-03,Panama,Germany,1,3,Friendly,False
+2019-12-05,USA,Serbia,1,0,Friendly,False
+2019-12-06,Australia,Colombia,3,1,Friendly,False
+2019-12-07,Argentina,Belgium,5,0,Friendly,False
+2019-12-08,Ghana,Denmark,0,3,Friendly,False
+2019-12-10,Qatar,South Korea,1,0,Friendly,False
+2019-12-11,Qatar,Spain,1,1,Friendly,False
+2019-12-12,Spain,Netherlands,4,0,Friendly,False
+2019-12-13,Australia,Panama,3,1,Friendly,True
+2019-12-14,Australia,Netherlands,2,2,Friendly,False
+2019-12-16,Australia,Mexico,0,1,Friendly,False
+2019-12-17,Senegal,New Zealand,2,1,Friendly,False
+2019-12-18,Italy,Portugal,3,2,Friendly,False
+2019-12-19,Poland,England,1,2,Friendly,False
+2019-12-21,Mexico,Saudi Arabia,1,0,Friendly,False
+2019-12-22,Canada,Japan,2,1,Friendly,False
+2019-12-23,Senegal,Australia,1,1,Friendly,True
+2019-12-24,Belgium,Argentina,0,1,Friendly,False
+2019-12-26,USA,Croatia,0,0,Friendly,False
+2019-12-27,Netherlands,Brazil,3,2,Friendly,False
+2019-12-28,Italy,Argentina,0,3,Friendly,False
+2019-12-29,Costa Rica,Japan,1,5,Friendly,False
+2019-12-30,Ecuador,Croatia,0,2,Friendly,False
+2020-01-01,Uruguay,Croatia,0,0,Friendly,True
+2020-01-02,Qatar,Croatia,0,3,Friendly,False
+2020-01-03,USA,New Zealand,3,2,Friendly,False
+2020-01-04,South Korea,Colombia,1,1,Friendly,False
+2020-01-06,Qatar,Mexico,0,1,Friendly,False
+2020-01-07,Panama,Ghana,2,2,Friendly,False
+2020-01-08,Brazil,Argentina,0,2,Friendly,False
+2020-01-09,Colombia,Poland,0,0,Friendly,False
+2020-01-11,Netherlands,Italy,2,2,Friendly,False
+2020-01-12,Morocco,Panama,2,1,Friendly,False
+2020-01-13,Denmark,Uruguay,1,2,Friendly,False
+2020-01-14,England,South Korea,0,2,Friendly,True
+2020-01-15,Mexico,Belgium,2,1,Friendly,False
+2020-01-17,Qatar,USA,3,2,Friendly,False
+2020-01-18,Argentina,Belgium,2,1,Friendly,True
+2020-01-19,Mexico,Serbia,1,1,Friendly,False
+2020-01-20,Italy,Ghana,0,4,Friendly,False
+2020-01-22,Spain,Switzerland,4,1,Friendly,False
+2020-01-23,Germany,Colombia,1,1,Friendly,False
+2020-01-24,Qatar,Uruguay,2,2,Friendly,False
+2020-01-25,Panama,England,1,1,Friendly,False
+2020-01-27,Senegal,Ghana,2,3,Friendly,False
+2020-01-28,Panama,Denmark,0,1,Friendly,False
+2020-01-29,Brazil,Ghana,2,0,Friendly,False
+2020-01-30,Australia,Spain,0,0,Friendly,True
+2020-01-31,Argentina,Portugal,3,1,Friendly,True
+2020-02-02,Germany,Saudi Arabia,1,2,Friendly,True
+2020-02-03,Poland,Panama,3,1,Friendly,True
+2020-02-04,Denmark,Serbia,1,0,Friendly,False
+2020-02-05,Panama,Uruguay,1,0,Friendly,False
+2020-02-07,Colombia,Brazil,1,4,Friendly,False
+2020-02-08,Belgium,Spain,2,4,Friendly,False
+2020-02-09,USA,Portugal,2,1,Friendly,False
+2020-02-10,Ghana,Mexico,1,2,Friendly,True
+2020-02-11,Denmark,Belgium,0,1,Friendly,False
+2020-02-13,Saudi Arabia,France,0,2,Friendly,True
+2020-02-14,Canada,Spain,0,2,Friendly,False
+2020-02-15,Uruguay,Colombia,2,1,Friendly,False
+2020-02-16,Brazil,Uruguay,1,0,Friendly,True
+2020-02-18,Switzerland,Denmark,2,0,Friendly,True
+2020-02-19,Germany,Costa Rica,5,2,Friendly,False
+2020-02-20,Mexico,USA,1,2,Friendly,False
+2020-02-21,Australia,Switzerland,0,1,Friendly,False
+2020-02-23,Serbia,Denmark,0,1,Friendly,False
+2020-02-24,Switzerland,Italy,3,1,Friendly,False
+2020-02-25,Qatar,Brazil,0,2,Friendly,False
+2020-02-26,Netherlands,Portugal,3,0,Friendly,False
+2020-02-27,Uruguay,Portugal,2,2,Friendly,False
+2020-02-29,Germany,Ecuador,1,0,Friendly,False
+2020-03-01,USA,Canada,2,2,Friendly,False
+2020-03-02,Italy,Colombia,3,2,Friendly,False
+2020-03-03,Portugal,Ecuador,0,0,Friendly,True
+2020-03-05,Brazil,Serbia,2,0,Friendly,False
+2020-03-06,Senegal,Saudi Arabia,1,0,Friendly,False
+2020-03-07,Canada,Croatia,0,3,Friendly,True
+2020-03-08,Switzerland,Poland,3,0,Friendly,False
+2020-03-10,Italy,Senegal,2,2,Friendly,False
+2020-03-11,Netherlands,Italy,2,0,Friendly,True
+2020-03-12,Costa Rica,Denmark,2,3,Friendly,False
+2020-03-13,Panama,Senegal,0,2,Friendly,False
+2020-03-14,Qatar,Mexico,1,1,Friendly,False
+2020-03-16,Saudi Arabia,Brazil,1,2,Friendly,False
+2020-03-17,Japan,Germany,3,2,Friendly,False
+2020-03-18,Ecuador,Colombia,2,0,Friendly,False
+2020-03-19,USA,South Korea,3,1,Friendly,False
+2020-03-21,Poland,Australia,1,1,Friendly,False
+2020-03-22,Netherlands,Denmark,5,1,Friendly,False
+2020-03-23,Qatar,Costa Rica,0,1,Friendly,True
+2020-03-24,Spain,Croatia,0,1,Friendly,True
+2020-03-26,Germany,Australia,1,0,Friendly,True
+2020-03-27,Denmark,Panama,2,1,Friendly,True
+2020-03-28,Mexico,Denmark,2,1,Friendly,False
+2020-03-29,Italy,Netherlands,0,1,Friendly,False
+2020-03-30,Japan,Uruguay,2,0,Friendly,False
+2020-04-01,Costa Rica,Portugal,1,2,Friendly,False
+2020-04-02,Qatar,Japan,3,1,Friendly,False
+2020-04-03,Spain,Germany,1,2,Friendly,True
+2020-04-04,Australia,Denmark,3,1,Friendly,False
+2020-04-06,Australia,Senegal,1,2,Friendly,True
+2020-04-07,Argentina,Croatia,2,0,Friendly,True
+2020-04-08,Portugal,Uruguay,2,0,Friendly,True
+2020-04-09,Colombia,South Korea,2,1,Friendly,True
+2020-04-11,France,Switzerland,0,0,Friendly,False
+2020-04-12,Canada,Switzerland,0,3,Friendly,False
+2020-04-13,Belgium,Croatia,1,2,Friendly,False
+2020-04-14,Colombia,USA,2,1,Friendly,True
+2020-04-15,Croatia,France,3,2,Friendly,False
+2020-04-17,Japan,Costa Rica,5,0,Friendly,False
+2020-04-18,South Korea,Argentina,1,3,Friendly,False
+2020-04-19,Denmark,Morocco,1,3,Friendly,False
+2020-04-20,Colombia,Mexico,2,0,Friendly,False
+2020-04-22,South Korea,Denmark,2,0,Friendly,True
+2020-04-23,Netherlands,South Korea,1,0,Friendly,False
+2020-04-24,Saudi Arabia,Japan,2,4,Friendly,False
+2020-04-25,Senegal,Costa Rica,0,1,Friendly,False
+2020-04-26,England,Belgium,2,0,Friendly,True
+2020-04-28,Panama,Qatar,1,1,Friendly,True
+2020-04-29,New Zealand,Italy,0,3,Friendly,True
+2020-04-30,Canada,Portugal,0,3,Friendly,True
+2020-05-01,Senegal,France,0,1,Friendly,False
+2020-05-03,Mexico,Australia,2,3,Friendly,False
+2020-05-04,Belgium,Saudi Arabia,2,0,Friendly,False
+2020-05-05,Japan,Italy,0,1,Friendly,True
+2020-05-06,Canada,Portugal,0,4,Friendly,False
+2020-05-08,France,Senegal,0,1,Friendly,True
+2020-05-09,Morocco,Italy,1,0,Friendly,False
+2020-05-10,Germany,Croatia,3,1,Friendly,False
+2020-05-11,Colombia,Netherlands,1,1,Friendly,False
+2020-05-12,Saudi Arabia,Belgium,1,0,Friendly,False
+2020-05-14,Japan,Australia,0,0,Friendly,False
+2020-05-15,Serbia,France,1,1,Friendly,False
+2020-05-16,Canada,Panama,0,1,Friendly,False
+2020-05-17,Netherlands,France,6,3,Friendly,False
+2020-05-19,Uruguay,Senegal,2,0,Friendly,False
+2020-05-20,England,Poland,2,1,Friendly,False
+2020-05-21,Poland,Colombia,2,1,Friendly,False
+2020-05-22,Switzerland,Australia,1,2,Friendly,False
+2020-05-24,Qatar,Denmark,1,2,Friendly,False
+2020-05-25,Brazil,Colombia,2,2,Friendly,False
+2020-05-26,Croatia,France,2,3,Friendly,True
+2020-05-27,Portugal,Morocco,3,1,Friendly,False
+2020-05-28,Croatia,Denmark,1,3,Friendly,False
+2020-05-30,New Zealand,Japan,3,1,Friendly,False
+2020-05-31,Canada,Italy,0,0,Friendly,False
+2020-06-01,Costa Rica,Poland,2,1,Friendly,False
+2020-06-02,Saudi Arabia,USA,2,1,Friendly,True
+2020-06-04,Portugal,Germany,2,0,Friendly,True
+2020-06-05,Serbia,France,0,3,Friendly,True
+2020-06-06,Panama,Serbia,1,1,Friendly,False
+2020-06-07,England,Japan,1,0,Friendly,False
+2020-06-09,Switzerland,England,0,2,Friendly,False
+2020-06-10,Australia,England,0,2,Friendly,False
+2020-06-11,Qatar,England,0,2,Friendly,False
+2020-06-12,Brazil,New Zealand,6,0,Friendly,False
+2020-06-13,Canada,Croatia,0,1,Friendly,False
+2020-06-15,Panama,Spain,3,3,Friendly,False
+2020-06-16,Argentina,France,2,0,Friendly,False
+2020-06-17,Switzerland,Argentina,0,1,Friendly,True
+2020-06-18,France,England,2,1,Friendly,True
+2020-06-20,Australia,Croatia,1,1,Friendly,True
+2020-06-21,Germany,Costa Rica,1,0,Friendly,False
+2020-06-22,Colombia,Morocco,3,2,Friendly,False
+2020-06-23,Costa Rica,Ecuador,1,2,Friendly,False
+2020-06-24,Switzerland,Netherlands,1,3,Friendly,True
+2020-06-26,Japan,Colombia,0,2,Friendly,False
+2020-06-27,Croatia,Poland,1,0,Friendly,False
+2020-06-28,Denmark,Senegal,2,1,Friendly,True
+2020-06-29,Brazil,Morocco,3,1,Friendly,False
+2020-07-01,Poland,Croatia,1,3,Friendly,False
+2020-07-02,Italy,France,3,1,Friendly,False
+2020-07-03,Uruguay,Croatia,2,1,Friendly,False
+2020-07-04,Portugal,Belgium,0,0,Friendly,False
+2020-07-06,Costa Rica,New Zealand,0,0,Friendly,False
+2020-07-07,Netherlands,Senegal,0,2,Friendly,True
+2020-07-08,Brazil,Argentina,3,2,Friendly,False
+2020-07-09,Qatar,Japan,0,2,Friendly,False
+2020-07-10,Serbia,Senegal,3,2,Friendly,True
+2020-07-12,Morocco,Senegal,3,1,Friendly,False
+2020-07-13,Italy,Australia,2,0,Friendly,False
+2020-07-14,Brazil,France,1,1,Friendly,False
+2020-07-15,South Korea,Mexico,3,1,Friendly,True
+2020-07-17,Canada,Denmark,0,0,Friendly,False
+2020-07-18,Colombia,Ecuador,0,1,Friendly,False
+2020-07-19,Belgium,England,2,1,Friendly,False
+2020-07-20,Morocco,Qatar,2,0,Friendly,False
+2020-07-22,Qatar,Portugal,1,2,Friendly,False
+2020-07-23,Mexico,Italy,1,5,Friendly,True
+2020-07-24,Brazil,South Korea,2,1,Friendly,False
+2020-07-25,Ghana,Saudi Arabia,2,0,Friendly,True
+2020-07-26,South Korea,Croatia,2,3,Friendly,False
+2020-07-28,Portugal,England,0,1,Friendly,False
+2020-07-29,Ghana,Saudi Arabia,4,2,Friendly,False
+2020-07-30,Italy,Panama,1,1,Friendly,True
+2020-07-31,Panama,Ecuador,0,0,Friendly,False
+2020-08-02,South Korea,Costa Rica,3,0,Friendly,False
+2020-08-03,Poland,Senegal,1,4,Friendly,False
+2020-08-04,Canada,Netherlands,2,3,Friendly,False
+2020-08-05,Netherlands,Denmark,2,1,Friendly,False
+2020-08-07,USA,Canada,0,4,Friendly,True
+2020-08-08,Qatar,Netherlands,0,4,Friendly,False
+2020-08-09,Netherlands,Italy,2,4,Friendly,False
+2020-08-10,France,Spain,5,0,Friendly,False
+2020-08-11,Poland,Saudi Arabia,3,2,Friendly,False
+2020-08-13,Denmark,Panama,2,1,Friendly,False
+2020-08-14,Poland,Spain,2,1,Friendly,False
+2020-08-15,Uruguay,Ecuador,2,1,Friendly,False
+2020-08-16,Japan,Ecuador,2,1,Friendly,False
+2020-08-18,Netherlands,Denmark,3,1,Friendly,True
+2020-08-19,Senegal,Belgium,2,0,Friendly,False
+2020-08-20,Switzerland,Qatar,1,0,Friendly,False
+2020-08-21,Morocco,France,2,1,Friendly,False
+2020-08-22,Serbia,Italy,1,2,Friendly,False
+2020-08-24,Germany,Panama,1,0,Friendly,False
+2020-08-25,England,Denmark,2,0,Friendly,False
+2020-08-26,Netherlands,Germany,1,1,Friendly,False
+2020-08-27,Poland,Canada,3,0,Friendly,True
+2020-08-29,Poland,Ecuador,1,1,Friendly,False
+2020-08-30,Australia,England,2,2,Friendly,False
+2020-08-31,Australia,Qatar,1,3,Friendly,False
+2020-09-01,Netherlands,England,0,2,Friendly,False
+2020-09-03,Japan,Portugal,1,2,Friendly,False
+2020-09-04,Denmark,Serbia,1,1,Friendly,False
+2020-09-05,Ghana,New Zealand,0,1,Friendly,False
+2020-09-06,USA,Ecuador,1,1,Friendly,True
+2020-09-07,Netherlands,Japan,2,0,Friendly,True
+2020-09-09,Japan,Morocco,0,0,Friendly,False
+2020-09-10,USA,Qatar,2,2,Friendly,False
+2020-09-11,Colombia,Italy,2,2,Friendly,False
+2020-09-12,Argentina,Ecuador,3,0,Friendly,False
+2020-09-14,Colombia,USA,1,4,Friendly,False
+2020-09-15,Canada,Senegal,2,1,Friendly,False
+2020-09-16,Mexico,Serbia,6,1,Friendly,False
+2020-09-17,Australia,France,4,3,Friendly,False
+2020-09-19,Canada,Brazil,0,2,Friendly,False
+2020-09-20,Belgium,Argentina,2,2,Friendly,False
+2020-09-21,Qatar,Poland,1,1,Friendly,False
+2020-09-22,Belgium,Italy,2,0,Friendly,False
+2020-09-23,Croatia,USA,4,0,Friendly,True
+2020-09-25,Costa Rica,Colombia,1,1,Friendly,False
+2020-09-26,Uruguay,Panama,0,0,Friendly,True
+2020-09-27,Serbia,England,1,2,Friendly,False
+2020-09-28,Mexico,England,0,2,Friendly,True
+2020-09-30,Croatia,Ghana,0,3,Friendly,True
+2020-10-01,Morocco,Australia,1,1,Friendly,False
+2020-10-02,Saudi Arabia,Mexico,2,2,Friendly,False
+2020-10-03,Mexico,Serbia,3,0,Friendly,False
+2020-10-05,Saudi Arabia,Mexico,0,2,Friendly,True
+2020-10-06,Netherlands,Argentina,0,1,Friendly,True
+2020-10-07,Italy,England,1,2,Friendly,False
+2020-10-08,Saudi Arabia,Denmark,0,0,Friendly,False
+2020-10-09,England,Poland,6,0,Friendly,False
+2020-10-11,New Zealand,Denmark,0,1,Friendly,False
+2020-10-12,Argentina,Belgium,4,1,Friendly,False
+2020-10-13,Panama,Costa Rica,2,1,Friendly,False
+2020-10-14,Germany,Panama,2,2,Friendly,False
+2020-10-16,Panama,Ecuador,1,3,Friendly,False
+2020-10-17,Saudi Arabia,Germany,1,1,Friendly,True
+2020-10-18,USA,Qatar,2,0,Friendly,False
+2020-10-19,Ecuador,Ghana,0,1,Friendly,False
+2020-10-21,Colombia,USA,1,0,Friendly,False
+2020-10-22,Switzerland,South Korea,1,0,Friendly,True
+2020-10-23,Ecuador,Belgium,1,1,Friendly,True
+2020-10-24,Japan,Netherlands,2,1,Friendly,False
+2020-10-25,Denmark,Morocco,3,0,Friendly,False
+2020-10-27,Serbia,Portugal,3,2,Friendly,True
+2020-10-28,Uruguay,Portugal,2,1,Friendly,False
+2020-10-29,Costa Rica,Spain,1,1,Friendly,True
+2020-10-30,Brazil,Portugal,0,1,Friendly,True
+2020-11-01,Denmark,Senegal,1,2,Friendly,True
+2020-11-02,Argentina,Colombia,1,2,Friendly,False
+2020-11-03,Qatar,Germany,4,5,Friendly,False
+2020-11-04,New Zealand,Uruguay,0,1,Friendly,False
+2020-11-05,Australia,Spain,1,3,Friendly,False
+2020-11-07,Ghana,Argentina,1,2,Friendly,False
+2020-11-08,Saudi Arabia,Australia,0,2,Friendly,False
+2020-11-09,Spain,England,4,1,Friendly,False
+2020-11-10,Japan,Brazil,3,4,Friendly,False
+2020-11-12,Australia,New Zealand,2,1,Friendly,False
+2020-11-13,Qatar,Morocco,0,2,Friendly,False
+2020-11-14,USA,Qatar,1,2,Friendly,False
+2020-11-15,France,Belgium,1,0,Friendly,False
+2020-11-17,Qatar,Ecuador,2,2,Friendly,False
+2020-11-18,Portugal,Costa Rica,2,1,Friendly,True
+2020-11-19,Germany,Belgium,2,2,Friendly,False
+2020-11-20,Germany,Italy,1,1,Friendly,False
+2020-11-21,Argentina,Japan,0,1,Friendly,True
+2020-11-23,USA,Qatar,1,2,Friendly,True
+2020-11-24,Mexico,Denmark,1,0,Friendly,False
+2020-11-25,England,Belgium,1,1,Friendly,False
+2020-11-26,Colombia,Senegal,2,2,Friendly,False
+2020-11-28,Ecuador,New Zealand,1,1,Friendly,False
+2020-11-29,Serbia,Argentina,0,2,Friendly,False
+2020-11-30,Belgium,Ecuador,3,2,Friendly,False
+2020-12-01,Canada,France,0,6,Friendly,False
+2020-12-03,England,Switzerland,1,0,Friendly,False
+2020-12-04,France,Australia,6,1,Friendly,False
+2020-12-05,Ecuador,South Korea,1,1,Friendly,True
+2020-12-06,Portugal,Ghana,5,1,Friendly,False
+2020-12-07,Ecuador,Senegal,0,0,Friendly,False
+2020-12-09,Switzerland,Germany,2,1,Friendly,True
+2020-12-10,Panama,Spain,0,3,Friendly,True
+2020-12-11,Morocco,Argentina,0,2,Friendly,True
+2020-12-12,USA,Japan,2,1,Friendly,True
+2020-12-14,Portugal,Brazil,2,2,Friendly,False
+2020-12-15,Saudi Arabia,Italy,0,1,Friendly,False
+2020-12-16,Netherlands,Morocco,1,1,Friendly,True
+2020-12-17,England,Panama,6,1,Friendly,False
+2020-12-19,Croatia,New Zealand,7,1,Friendly,False
+2020-12-20,Argentina,Switzerland,2,1,Friendly,False
+2020-12-21,New Zealand,Panama,0,0,Friendly,False
+2020-12-22,Spain,Colombia,0,0,Friendly,True
+2020-12-23,Panama,Colombia,0,2,Friendly,False
+2020-12-25,Argentina,Italy,1,1,Friendly,False
+2020-12-26,Italy,Australia,1,1,Friendly,False
+2020-12-27,Argentina,Netherlands,3,2,Friendly,True
+2020-12-28,Morocco,South Korea,2,2,Friendly,False
+2020-12-30,South Korea,Argentina,0,1,Friendly,True
+2020-12-31,Argentina,Serbia,5,1,Friendly,True
+2021-01-01,Brazil,Denmark,3,1,Friendly,False
+2021-01-02,New Zealand,Canada,1,2,Friendly,False
+2021-01-03,Mexico,Denmark,0,2,Friendly,False
+2021-01-05,England,Morocco,3,0,Friendly,False
+2021-01-06,Argentina,Qatar,2,2,Friendly,False
+2021-01-07,Argentina,Saudi Arabia,3,2,Friendly,False
+2021-01-08,Uruguay,Japan,2,0,Friendly,True
+2021-01-10,USA,Denmark,5,1,Friendly,False
+2021-01-11,Colombia,Argentina,1,0,Friendly,True
+2021-01-12,Belgium,Colombia,5,1,Friendly,False
+2021-01-13,Denmark,Costa Rica,2,0,Friendly,False
+2021-01-15,Qatar,Poland,1,2,Friendly,True
+2021-01-16,Belgium,Morocco,1,3,Friendly,False
+2021-01-17,Qatar,Poland,2,3,Friendly,False
+2021-01-18,Colombia,Belgium,3,1,Friendly,False
+2021-01-19,Germany,Uruguay,1,1,Friendly,False
+2021-01-21,South Korea,Switzerland,3,1,Friendly,False
+2021-01-22,USA,Ecuador,2,1,Friendly,False
+2021-01-23,Morocco,USA,3,2,Friendly,False
+2021-01-24,Poland,South Korea,1,1,Friendly,False
+2021-01-26,Canada,South Korea,4,2,Friendly,True
+2021-01-27,Portugal,South Korea,3,2,Friendly,False
+2021-01-28,France,Belgium,5,0,Friendly,False
+2021-01-29,Panama,Denmark,0,4,Friendly,False
+2021-01-31,Brazil,Uruguay,1,0,Friendly,True
+2021-02-01,Panama,Uruguay,0,1,Friendly,False
+2021-02-02,Croatia,Italy,2,1,Friendly,True
+2021-02-03,England,Mexico,1,0,Friendly,True
+2021-02-04,Australia,Ecuador,1,4,Friendly,True
+2021-02-06,England,Serbia,2,0,Friendly,False
+2021-02-07,Brazil,Germany,0,2,Friendly,False
+2021-02-08,England,Poland,4,1,Friendly,False
+2021-02-09,Canada,Morocco,3,1,Friendly,False
+2021-02-11,Senegal,Australia,2,0,Friendly,False
+2021-02-12,Portugal,Germany,2,3,Friendly,False
+2021-02-13,Belgium,France,1,2,Friendly,False
+2021-02-14,Switzerland,USA,5,1,Friendly,False
+2021-02-16,Senegal,Costa Rica,1,1,Friendly,False
+2021-02-17,New Zealand,Netherlands,1,0,Friendly,True
+2021-02-18,Croatia,New Zealand,1,1,Friendly,False
+2021-02-19,Saudi Arabia,Croatia,1,1,Friendly,False
+2021-02-20,Netherlands,Poland,4,2,Friendly,False
+2021-02-22,Spain,Argentina,1,4,Friendly,True
+2021-02-23,France,Costa Rica,7,0,Friendly,False
+2021-02-24,Switzerland,Mexico,0,1,Friendly,False
+2021-02-25,Spain,Ghana,0,0,Friendly,False
+2021-02-27,France,Switzerland,2,1,Friendly,False
+2021-02-28,Spain,Qatar,1,0,Friendly,False
+2021-03-01,Germany,Belgium,1,4,Friendly,True
+2021-03-02,Colombia,England,3,1,Friendly,True
+2021-03-03,Panama,Qatar,1,1,Friendly,False
+2021-03-05,Costa Rica,Germany,1,0,Friendly,False
+2021-03-06,Belgium,Spain,4,1,Friendly,False
+2021-03-07,Denmark,France,2,1,Friendly,False
+2021-03-08,Belgium,Qatar,4,0,Friendly,False
+2021-03-10,England,Serbia,5,1,Friendly,False
+2021-03-11,Spain,Netherlands,2,0,Friendly,False
+2021-03-12,Croatia,Argentina,1,0,Friendly,False
+2021-03-13,Costa Rica,Qatar,3,1,Friendly,False
+2021-03-15,Senegal,Italy,0,4,Friendly,False
+2021-03-16,Poland,Japan,2,1,Friendly,False
+2021-03-17,Ghana,Japan,0,1,Friendly,True
+2021-03-18,Morocco,Senegal,0,2,Friendly,False
+2021-03-19,Australia,Croatia,2,6,Friendly,False
+2021-03-21,England,Portugal,4,0,Friendly,False
+2021-03-22,Senegal,USA,2,1,Friendly,True
+2021-03-23,Argentina,Brazil,2,2,Friendly,False
+2021-03-24,Netherlands,England,1,0,Friendly,False
+2021-03-26,Ecuador,Switzerland,2,1,Friendly,False
+2021-03-27,Mexico,Colombia,2,0,Friendly,False
+2021-03-28,Mexico,Panama,1,0,Friendly,False
+2021-03-29,Senegal,Croatia,4,2,Friendly,False
+2021-03-31,Germany,Portugal,1,1,Friendly,True
+2021-04-01,Canada,Germany,0,2,Friendly,False
+2021-04-02,Canada,Germany,2,3,Friendly,False
+2021-04-03,Croatia,Japan,3,2,Friendly,False
+2021-04-04,Mexico,USA,1,3,Friendly,False
+2021-04-06,Ghana,Poland,1,1,Friendly,False
+2021-04-07,Uruguay,Qatar,3,0,Friendly,False
+2021-04-08,Denmark,Saudi Arabia,3,1,Friendly,False
+2021-04-09,Australia,Portugal,2,1,Friendly,False
+2021-04-11,Portugal,Brazil,1,3,Friendly,False
+2021-04-12,New Zealand,Denmark,2,2,Friendly,False
+2021-04-13,Denmark,Serbia,1,0,Friendly,True
+2021-04-14,England,Colombia,3,0,Friendly,False
+2021-04-16,Germany,Denmark,3,2,Friendly,True
+2021-04-17,Denmark,Morocco,1,2,Friendly,False
+2021-04-18,Qatar,Germany,2,1,Friendly,True
+2021-04-19,Croatia,Uruguay,1,0,Friendly,False
+2021-04-20,Spain,Mexico,3,1,Friendly,True
+2021-04-22,Belgium,Argentina,3,0,Friendly,False
+2021-04-23,Qatar,South Korea,2,4,Friendly,False
+2021-04-24,France,Spain,1,2,Friendly,False
+2021-04-25,Mexico,New Zealand,1,0,Friendly,False
+2021-04-27,USA,Netherlands,0,4,Friendly,True
+2021-04-28,Belgium,Denmark,1,1,Friendly,False
+2021-04-29,Germany,Switzerland,2,2,Friendly,False
+2021-04-30,Argentina,Portugal,3,0,Friendly,False
+2021-05-01,Brazil,England,2,1,Friendly,False
+2021-05-03,Germany,Italy,3,0,Friendly,False
+2021-05-04,Morocco,Panama,4,0,Friendly,False
+2021-05-05,Australia,Spain,1,2,Friendly,False
+2021-05-06,Uruguay,Denmark,4,2,Friendly,False
+2021-05-08,Canada,Colombia,1,1,Friendly,False
+2021-05-09,Serbia,Costa Rica,2,1,Friendly,True
+2021-05-10,France,Senegal,4,1,Friendly,False
+2021-05-11,Serbia,France,0,0,Friendly,True
+2021-05-13,Belgium,Portugal,1,3,Friendly,False
+2021-05-14,Ecuador,Mexico,1,1,Friendly,False
+2021-05-15,Argentina,South Korea,5,2,Friendly,False
+2021-05-16,Saudi Arabia,France,0,0,Friendly,False
+2021-05-17,Switzerland,South Korea,1,0,Friendly,False
+2021-05-19,Switzerland,Poland,1,0,Friendly,False
+2021-05-20,Germany,Canada,3,0,Friendly,True
+2021-05-21,Belgium,Germany,3,1,Friendly,False
+2021-05-22,Italy,New Zealand,3,2,Friendly,True
+2021-05-24,Mexico,Uruguay,2,1,Friendly,False
+2021-05-25,Ghana,Panama,5,1,Friendly,True
+2021-05-26,Costa Rica,Panama,0,1,Friendly,True
+2021-05-27,Saudi Arabia,Ecuador,2,0,Friendly,True
+2021-05-29,Senegal,Panama,4,1,Friendly,False
+2021-05-30,Denmark,Mexico,4,3,Friendly,False
+2021-05-31,Colombia,Uruguay,2,2,Friendly,False
+2021-06-01,Saudi Arabia,Mexico,1,1,Friendly,False
+2021-06-02,Ecuador,Brazil,2,4,Friendly,True
+2021-06-04,Croatia,Colombia,3,0,Friendly,True
+2021-06-05,New Zealand,Australia,1,0,Friendly,False
+2021-06-06,Panama,Uruguay,2,1,Friendly,False
+2021-06-07,Germany,Japan,1,1,Friendly,False
+2021-06-09,Canada,Portugal,1,2,Friendly,False
+2021-06-10,Morocco,South Korea,1,1,Friendly,False
+2021-06-11,USA,France,5,1,Friendly,False
+2021-06-12,Ecuador,Ghana,1,0,Friendly,False
+2021-06-14,Spain,USA,1,1,Friendly,False
+2021-06-15,Ghana,South Korea,0,2,Friendly,False
+2021-06-16,France,England,1,1,Friendly,False
+2021-06-17,Morocco,Argentina,0,1,Friendly,False
+2021-06-18,Poland,Argentina,1,2,Friendly,False
+2021-06-20,Switzerland,Colombia,0,1,Friendly,False
+2021-06-21,Croatia,Ghana,2,1,Friendly,False
+2021-06-22,Canada,Switzerland,1,4,Friendly,True
+2021-06-23,Morocco,Argentina,0,2,Friendly,False
+2021-06-25,Germany,Costa Rica,2,0,Friendly,False
+2021-06-26,Ghana,Japan,1,1,Friendly,False
+2021-06-27,Italy,Argentina,2,0,Friendly,False
+2021-06-28,Serbia,Australia,2,1,Friendly,False
+2021-06-30,Australia,Mexico,1,3,Friendly,False
+2021-07-01,Canada,Ecuador,2,1,Friendly,True
+2021-07-02,Canada,Brazil,1,2,Friendly,False
+2021-07-03,Australia,Netherlands,2,1,Friendly,True
+2021-07-04,Poland,Brazil,0,2,Friendly,False
+2021-07-06,Senegal,Croatia,2,1,Friendly,False
+2021-07-07,Switzerland,Panama,1,0,Friendly,False
+2021-07-08,Germany,Portugal,0,2,Friendly,False
+2021-07-09,Belgium,Netherlands,2,0,Friendly,False
+2021-07-11,Australia,Japan,0,1,Friendly,True
+2021-07-12,Germany,Japan,3,1,Friendly,False
+2021-07-13,Italy,Ecuador,2,0,Friendly,False
+2021-07-14,USA,Saudi Arabia,0,0,Friendly,False
+2021-07-15,Canada,Ghana,0,0,Friendly,False
+2021-07-17,Qatar,Belgium,0,4,Friendly,False
+2021-07-18,Japan,Spain,1,1,Friendly,False
+2021-07-19,Netherlands,Croatia,2,0,Friendly,False
+2021-07-20,New Zealand,Ecuador,1,2,Friendly,False
+2021-07-22,Ecuador,Denmark,1,2,Friendly,False
+2021-07-23,Portugal,New Zealand,1,4,Friendly,False
+2021-07-24,New Zealand,Serbia,2,1,Friendly,False
+2021-07-25,Italy,Morocco,0,1,Friendly,False
+2021-07-27,Spain,Switzerland,2,0,Friendly,True
+2021-07-28,France,Spain,1,2,Friendly,False
+2021-07-29,Brazil,Belgium,3,1,Friendly,False
+2021-07-30,Costa Rica,Denmark,1,0,Friendly,False
+2021-07-31,Italy,Qatar,2,1,Friendly,False
+2021-08-02,Brazil,Senegal,0,1,Friendly,True
+2021-08-03,USA,Mexico,5,4,Friendly,False
+2021-08-04,Argentina,Ghana,4,1,Friendly,False
+2021-08-05,Uruguay,England,0,3,Friendly,False
+2021-08-07,Colombia,Brazil,4,3,Friendly,False
+2021-08-08,Germany,Argentina,2,1,Friendly,False
+2021-08-09,Netherlands,Belgium,1,3,Friendly,False
+2021-08-10,Argentina,Senegal,1,1,Friendly,False
+2021-08-12,France,Croatia,1,2,Friendly,True
+2021-08-13,Morocco,New Zealand,4,3,Friendly,False
+2021-08-14,Germany,France,3,3,Friendly,False
+2021-08-15,Brazil,France,2,1,Friendly,True
+2021-08-16,Colombia,Serbia,0,0,Friendly,False
+2021-08-18,Mexico,Panama,1,1,Friendly,True
+2021-08-19,Qatar,Switzerland,0,1,Friendly,False
+2021-08-20,Brazil,Uruguay,1,1,Friendly,False
+2021-08-21,Spain,Ghana,2,2,Friendly,False
+2021-08-23,USA,Argentina,2,3,Friendly,False
+2021-08-24,Belgium,Canada,2,1,Friendly,False
+2021-08-25,Costa Rica,Australia,1,2,Friendly,False
+2021-08-26,Germany,New Zealand,4,0,Friendly,False
+2021-08-28,Poland,Morocco,0,1,Friendly,False
+2021-08-29,Uruguay,Poland,1,1,Friendly,False
+2021-08-30,Mexico,Senegal,4,0,Friendly,False
+2021-08-31,Belgium,Mexico,1,0,Friendly,False
+2021-09-01,Colombia,Costa Rica,2,2,Friendly,False
+2021-09-03,South Korea,Portugal,2,2,Friendly,True
+2021-09-04,New Zealand,Poland,2,2,Friendly,True
+2021-09-05,USA,Germany,0,4,Friendly,False
+2021-09-06,Japan,Panama,2,0,Friendly,True
+2021-09-08,Panama,Germany,0,5,Friendly,False
+2021-09-09,Panama,Netherlands,1,3,Friendly,False
+2021-09-10,France,England,0,1,Friendly,False
+2021-09-11,Qatar,Argentina,0,3,Friendly,True
+2021-09-12,South Korea,Panama,2,2,Friendly,False
+2021-09-14,Qatar,Argentina,0,1,Friendly,True
+2021-09-15,Mexico,Portugal,3,2,Friendly,True
+2021-09-16,Argentina,Senegal,5,1,Friendly,True
+2021-09-17,Saudi Arabia,Croatia,2,1,Friendly,True
+2021-09-19,Ghana,Canada,2,1,Friendly,False
+2021-09-20,South Korea,Costa Rica,2,2,Friendly,False
+2021-09-21,Argentina,Canada,2,0,Friendly,False
+2021-09-22,Ecuador,Panama,1,1,Friendly,False
+2021-09-24,Australia,Japan,3,1,Friendly,False
+2021-09-25,South Korea,Mexico,2,0,Friendly,False
+2021-09-26,Argentina,Switzerland,3,1,Friendly,False
+2021-09-27,Italy,France,0,1,Friendly,False
+2021-09-28,Ecuador,Belgium,1,0,Friendly,True
+2021-09-30,Serbia,Germany,2,1,Friendly,False
+2021-10-01,Argentina,Portugal,3,2,Friendly,False
+2021-10-02,France,Morocco,0,2,Friendly,True
+2021-10-03,Croatia,Switzerland,2,1,Friendly,True
+2021-10-05,Belgium,Qatar,5,1,Friendly,False
+2021-10-06,Belgium,England,2,2,Friendly,True
+2021-10-07,England,Italy,1,1,Friendly,False
+2021-10-08,Australia,Poland,1,4,Friendly,False
+2021-10-10,Qatar,Italy,2,2,Friendly,False
+2021-10-11,Italy,Ghana,1,0,Friendly,False
+2021-10-12,New Zealand,Argentina,1,4,Friendly,False
+2021-10-13,Argentina,Portugal,4,1,Friendly,False
+2021-10-14,Argentina,Australia,3,0,Friendly,False
+2021-10-16,Ecuador,Denmark,1,0,Friendly,False
+2021-10-17,England,Belgium,0,4,Friendly,True
+2021-10-18,Japan,South Korea,2,1,Friendly,False
+2021-10-19,Poland,South Korea,2,1,Friendly,False
+2021-10-21,Serbia,USA,1,0,Friendly,False
+2021-10-22,Morocco,Senegal,3,2,Friendly,False
+2021-10-23,Mexico,New Zealand,2,2,Friendly,False
+2021-10-24,New Zealand,Colombia,0,2,Friendly,False
+2021-10-26,Belgium,Senegal,2,2,Friendly,False
+2021-10-27,Netherlands,Argentina,0,1,Friendly,False
+2021-10-28,Denmark,Japan,1,4,Friendly,False
+2021-10-29,Croatia,Denmark,0,2,Friendly,True
+2021-10-30,England,Serbia,1,0,Friendly,True
+2021-11-01,Italy,New Zealand,3,2,Friendly,False
+2021-11-02,South Korea,Croatia,1,2,Friendly,False
+2021-11-03,Poland,New Zealand,2,1,Friendly,False
+2021-11-04,South Korea,Costa Rica,4,2,Friendly,False
+2021-11-06,South Korea,Japan,0,1,Friendly,False
+2021-11-07,Switzerland,Italy,1,1,Friendly,False
+2021-11-08,Argentina,Qatar,1,0,Friendly,False
+2021-11-09,Spain,Germany,3,0,Friendly,False
+2021-11-10,Germany,Canada,2,1,Friendly,False
+2021-11-12,Portugal,Ghana,1,0,Friendly,False
+2021-11-13,Brazil,Qatar,4,0,Friendly,False
+2021-11-14,Denmark,Ecuador,2,2,Friendly,True
+2021-11-15,Colombia,Uruguay,0,1,Friendly,False
+2021-11-17,Colombia,Canada,2,0,Friendly,True
+2021-11-18,Germany,Mexico,2,1,Friendly,False
+2021-11-19,Senegal,Qatar,1,0,Friendly,True
+2021-11-20,Ecuador,Qatar,1,0,Friendly,False
+2021-11-22,Panama,Costa Rica,1,3,Friendly,True
+2021-11-23,France,Costa Rica,1,2,Friendly,False
+2021-11-24,Serbia,Poland,3,0,Friendly,True
+2021-11-25,Ecuador,Colombia,0,2,Friendly,False
+2021-11-26,Portugal,Argentina,1,1,Friendly,False
+2021-11-28,Netherlands,France,1,1,Friendly,False
+2021-11-29,Brazil,Morocco,0,1,Friendly,True
+2021-11-30,USA,England,1,0,Friendly,False
+2021-12-01,Croatia,Germany,0,4,Friendly,False
+2021-12-03,France,Japan,1,1,Friendly,False
+2021-12-04,Argentina,Mexico,3,2,Friendly,False
+2021-12-05,Croatia,Canada,2,3,Friendly,True
+2021-12-06,Canada,Mexico,1,1,Friendly,False
+2021-12-08,USA,Colombia,0,1,Friendly,False
+2021-12-09,Belgium,Serbia,4,0,Friendly,False
+2021-12-10,South Korea,Belgium,2,3,Friendly,False
+2021-12-11,Denmark,Italy,0,1,Friendly,False
+2021-12-12,Brazil,Netherlands,4,2,Friendly,False
+2021-12-14,Japan,USA,1,1,Friendly,True
+2021-12-15,Panama,Senegal,1,8,Friendly,False
+2021-12-16,Mexico,Saudi Arabia,3,5,Friendly,False
+2021-12-17,Poland,Canada,1,1,Friendly,True
+2021-12-19,Uruguay,Spain,0,1,Friendly,False
+2021-12-20,Colombia,South Korea,4,2,Friendly,True
+2021-12-21,Brazil,Portugal,1,2,Friendly,False
+2021-12-22,Uruguay,Brazil,2,0,Friendly,True
+2021-12-24,Panama,USA,1,2,Friendly,False
+2021-12-25,Spain,France,2,0,Friendly,True
+2021-12-26,USA,Uruguay,1,1,Friendly,False
+2021-12-27,Panama,Australia,1,3,Friendly,False
+2021-12-28,Germany,Colombia,1,0,Friendly,True
+2021-12-30,Spain,England,3,2,Friendly,False
+2021-12-31,Ecuador,Netherlands,1,1,Friendly,False
+2022-01-01,Croatia,Australia,3,0,Friendly,True
+2022-01-02,Spain,Croatia,3,1,Friendly,False
+2022-01-04,Argentina,Morocco,3,2,Friendly,False
+2022-01-05,England,Brazil,2,2,Friendly,False
+2022-01-06,Netherlands,Spain,2,2,Friendly,False
+2022-01-07,Switzerland,Argentina,0,2,Friendly,True
+2022-01-09,Brazil,Denmark,4,1,Friendly,False
+2022-01-10,Brazil,Italy,3,2,Friendly,True
+2022-01-11,Spain,USA,2,1,Friendly,False
+2022-01-12,Costa Rica,Portugal,1,5,Friendly,False
+2022-01-13,France,Brazil,0,1,Friendly,True
+2022-01-15,Ghana,Switzerland,1,4,Friendly,True
+2022-01-16,Spain,Ecuador,5,1,Friendly,False
+2022-01-17,Argentina,Ghana,4,0,Friendly,True
+2022-01-18,Argentina,Switzerland,1,0,Friendly,False
+2022-01-20,Germany,Brazil,1,1,Friendly,False
+2022-01-21,Croatia,Japan,0,5,Friendly,False
+2022-01-22,Panama,Germany,3,1,Friendly,False
+2022-01-23,Belgium,France,2,2,Friendly,False
+2022-01-24,Germany,Canada,1,1,Friendly,False
+2022-01-26,Senegal,England,0,0,Friendly,True
+2022-01-27,Argentina,Spain,2,1,Friendly,False
+2022-01-28,Qatar,Belgium,1,3,Friendly,True
+2022-01-29,Mexico,Qatar,2,1,Friendly,False
+2022-01-31,New Zealand,Japan,1,3,Friendly,False
+2022-02-01,Brazil,Senegal,6,1,Friendly,False
+2022-02-02,Denmark,Germany,2,0,Friendly,True
+2022-02-03,Australia,Colombia,1,2,Friendly,False
+2022-02-05,USA,France,1,2,Friendly,True
+2022-02-06,Croatia,England,3,0,Friendly,False
+2022-02-07,Italy,Uruguay,2,1,Friendly,False
+2022-02-08,Germany,Colombia,0,1,Friendly,True
+2022-02-09,Senegal,Colombia,0,3,Friendly,True
+2022-02-11,Poland,Switzerland,0,5,Friendly,False
+2022-02-12,France,Colombia,2,0,Friendly,False
+2022-02-13,USA,Ecuador,1,1,Friendly,False
+2022-02-14,Brazil,Switzerland,1,2,Friendly,False
+2022-02-16,Panama,Netherlands,1,0,Friendly,False
+2022-02-17,England,Canada,5,0,Friendly,False
+2022-02-18,Ecuador,Argentina,3,0,Friendly,False
+2022-02-19,France,South Korea,2,0,Friendly,False
+2022-02-21,Ecuador,Germany,1,0,Friendly,False
+2022-02-22,Panama,Poland,2,2,Friendly,False
+2022-02-23,Argentina,Uruguay,2,1,Friendly,False
+2022-02-24,Denmark,Ecuador,0,2,Friendly,False
+2022-02-25,Australia,Portugal,2,4,Friendly,False
+2022-02-27,Japan,Ecuador,4,0,Friendly,True
+2022-02-28,USA,Germany,2,3,Friendly,False
+2022-03-01,Netherlands,England,0,2,Friendly,False
+2022-03-02,Italy,Serbia,1,2,Friendly,True
+2022-03-04,Switzerland,Croatia,1,1,Friendly,False
+2022-03-05,Portugal,Poland,2,1,Friendly,False
+2022-03-06,Morocco,New Zealand,3,0,Friendly,False
+2022-03-07,Denmark,Saudi Arabia,2,1,Friendly,True
+2022-03-09,Denmark,Serbia,1,0,Friendly,False
+2022-03-10,Ghana,Senegal,1,2,Friendly,False
+2022-03-11,Germany,Spain,2,3,Friendly,False
+2022-03-12,Poland,Spain,2,4,Friendly,False
+2022-03-13,Belgium,Germany,3,1,Friendly,True
+2022-03-15,Uruguay,Brazil,1,3,Friendly,False
+2022-03-16,Portugal,Uruguay,0,2,Friendly,True
+2022-03-17,Germany,England,4,2,Friendly,False
+2022-03-18,Australia,Poland,1,2,Friendly,False
+2022-03-20,Croatia,Ecuador,3,2,Friendly,False
+2022-03-21,USA,Netherlands,0,2,Friendly,False
+2022-03-22,Japan,Netherlands,1,3,Friendly,False
+2022-03-23,Costa Rica,Ecuador,1,3,Friendly,False
+2022-03-24,Australia,USA,1,2,Friendly,False
+2022-03-26,Belgium,Denmark,1,0,Friendly,False
+2022-03-27,France,Portugal,1,1,Friendly,False
+2022-03-28,Senegal,Colombia,0,2,Friendly,True
+2022-03-29,Switzerland,Ecuador,0,2,Friendly,True
+2022-03-31,England,Costa Rica,6,1,Friendly,False
+2022-04-01,Brazil,Qatar,3,0,Friendly,False
+2022-04-02,Poland,Costa Rica,1,2,Friendly,True
+2022-04-03,Germany,Panama,2,0,Friendly,False
+2022-04-05,Switzerland,Portugal,0,1,Friendly,False
+2022-04-06,Mexico,New Zealand,1,2,Friendly,False
+2022-04-07,Saudi Arabia,Ghana,1,0,Friendly,True
+2022-04-08,Ghana,Mexico,4,1,Friendly,False
+2022-04-09,Belgium,Netherlands,3,1,Friendly,True
+2022-04-11,Italy,Ecuador,0,1,Friendly,False
+2022-04-12,Ecuador,Portugal,0,0,Friendly,True
+2022-04-13,Croatia,Ecuador,2,0,Friendly,False
+2022-04-14,Denmark,Japan,1,1,Friendly,False
+2022-04-16,Argentina,South Korea,2,1,Friendly,False
+2022-04-17,England,Portugal,0,1,Friendly,True
+2022-04-18,New Zealand,Netherlands,1,2,Friendly,False
+2022-04-19,Serbia,Poland,3,0,Friendly,True
+2022-04-21,Serbia,Croatia,1,2,Friendly,False
+2022-04-22,Australia,Senegal,2,3,Friendly,False
+2022-04-23,France,Belgium,0,2,Friendly,True
+2022-04-24,Morocco,Canada,3,0,Friendly,False
+2022-04-25,Qatar,Belgium,1,2,Friendly,False
+2022-04-27,South Korea,Panama,2,0,Friendly,False
+2022-04-28,Saudi Arabia,Costa Rica,1,1,Friendly,False
+2022-04-29,France,England,1,3,Friendly,False
+2022-04-30,Japan,France,2,1,Friendly,False
+2022-05-02,Costa Rica,Saudi Arabia,3,3,Friendly,False
+2022-05-03,England,Switzerland,2,0,Friendly,False
+2022-05-04,Senegal,New Zealand,1,2,Friendly,False
+2022-05-05,Brazil,Argentina,1,2,Friendly,True
+2022-05-07,Netherlands,Morocco,0,0,Friendly,True
+2022-05-08,England,Senegal,1,3,Friendly,False
+2022-05-09,Qatar,Senegal,2,1,Friendly,False
+2022-05-10,Denmark,Spain,2,3,Friendly,True
+2022-05-11,Belgium,Ghana,4,0,Friendly,False
+2022-05-13,Denmark,Senegal,2,1,Friendly,True
+2022-05-14,Argentina,Panama,4,2,Friendly,False
+2022-05-15,Poland,Argentina,2,2,Friendly,False
+2022-05-16,Senegal,Argentina,1,2,Friendly,False
+2022-05-18,Colombia,Spain,3,0,Friendly,False
+2022-05-19,Croatia,Netherlands,1,2,Friendly,False
+2022-05-20,Mexico,England,1,2,Friendly,True
+2022-05-21,Italy,Denmark,0,1,Friendly,True
+2022-05-22,Brazil,Italy,0,3,Friendly,False
+2022-05-24,France,Germany,0,2,Friendly,False
+2022-05-25,Morocco,Colombia,1,0,Friendly,True
+2022-05-26,Poland,Denmark,4,1,Friendly,False
+2022-05-27,New Zealand,Ghana,2,3,Friendly,False
+2022-05-29,Senegal,USA,3,0,Friendly,False
+2022-05-30,Qatar,South Korea,2,0,Friendly,False
+2022-05-31,Poland,Germany,1,0,Friendly,False
+2022-06-01,Mexico,England,1,0,Friendly,False
+2022-06-03,South Korea,Senegal,1,1,Friendly,True
+2022-06-04,Serbia,Italy,0,2,Friendly,False
+2022-06-05,Australia,Portugal,2,1,Friendly,False
+2022-06-06,Ecuador,England,0,3,Friendly,False
+2022-06-07,South Korea,Argentina,1,7,Friendly,False
+2022-06-09,Uruguay,Germany,4,1,Friendly,False
+2022-06-10,Australia,Senegal,0,1,Friendly,False
+2022-06-11,Senegal,Colombia,1,2,Friendly,True
+2022-06-12,England,Colombia,1,2,Friendly,False
+2022-06-14,Ecuador,Poland,2,0,Friendly,True
+2022-06-15,USA,Canada,2,1,Friendly,False
+2022-06-16,Germany,France,2,4,Friendly,True
+2022-06-17,Serbia,Germany,1,2,Friendly,True
+2022-06-19,England,Panama,2,1,Friendly,True
+2022-06-20,Ecuador,Argentina,0,1,Friendly,False
+2022-06-21,Australia,USA,0,1,Friendly,True
+2022-06-22,Ghana,Croatia,4,1,Friendly,False
+2022-06-23,USA,Croatia,1,1,Friendly,True
+2022-06-25,Portugal,Croatia,2,0,Friendly,False
+2022-06-26,Italy,Ecuador,2,1,Friendly,False
+2022-06-27,Argentina,Brazil,1,2,Friendly,True
+2022-06-28,Mexico,Canada,2,0,Friendly,False
+2022-06-30,Portugal,Panama,5,4,Friendly,True
+2022-07-01,Italy,Switzerland,2,1,Friendly,False
+2022-07-02,Uruguay,Argentina,1,0,Friendly,False
+2022-07-03,Italy,Australia,1,0,Friendly,False
+2022-07-05,Colombia,Poland,3,2,Friendly,False
+2022-07-06,Qatar,Belgium,2,2,Friendly,True
+2022-07-07,Germany,Netherlands,3,0,Friendly,True
+2022-07-08,Qatar,Spain,2,2,Friendly,False
+2022-07-09,Portugal,South Korea,2,1,Friendly,False
+2022-07-11,Netherlands,Colombia,3,2,Friendly,False
+2022-07-12,Italy,Qatar,2,0,Friendly,False
+2022-07-13,Argentina,Morocco,2,0,Friendly,False
+2022-07-14,Uruguay,New Zealand,1,0,Friendly,True
+2022-07-16,England,Qatar,2,1,Friendly,False
+2022-07-17,Belgium,England,2,0,Friendly,False
+2022-07-18,Croatia,Ghana,2,0,Friendly,True
+2022-07-19,Morocco,Italy,2,1,Friendly,False
+2022-07-21,Uruguay,Spain,1,0,Friendly,False
+2022-07-22,USA,Argentina,1,4,Friendly,False
+2022-07-23,Colombia,Mexico,1,1,Friendly,False
+2022-07-24,Italy,Mexico,3,0,Friendly,False
+2022-07-25,Croatia,France,1,2,Friendly,False
+2022-07-27,Denmark,Spain,0,1,Friendly,False
+2022-07-28,Morocco,Ecuador,3,2,Friendly,False
+2022-07-29,Morocco,Denmark,1,1,Friendly,False
+2022-07-30,Senegal,Argentina,1,0,Friendly,False
+2022-08-01,Ecuador,France,3,2,Friendly,False
+2022-08-02,Spain,Morocco,2,1,Friendly,False
+2022-08-03,Croatia,Denmark,1,1,Friendly,True
+2022-08-04,Netherlands,Panama,1,0,Friendly,False
+2022-08-05,Serbia,Uruguay,3,3,Friendly,False
+2022-08-07,Japan,Colombia,1,0,Friendly,False
+2022-08-08,Ghana,Costa Rica,1,1,Friendly,False
+2022-08-09,Panama,Australia,1,0,Friendly,False
+2022-08-10,Ghana,Brazil,0,5,Friendly,False
+2022-08-12,Portugal,Uruguay,1,1,Friendly,False
+2022-08-13,Saudi Arabia,Switzerland,0,3,Friendly,False
+2022-08-14,Ghana,Panama,3,1,Friendly,False
+2022-08-15,Netherlands,Germany,0,3,Friendly,True
+2022-08-17,Saudi Arabia,Spain,2,2,Friendly,False
+2022-08-18,Croatia,Uruguay,0,0,Friendly,True
+2022-08-19,Croatia,Japan,2,0,Friendly,False
+2022-08-20,Saudi Arabia,South Korea,2,2,Friendly,False
+2022-08-21,Panama,Qatar,2,1,Friendly,False
+2022-08-23,Croatia,Colombia,3,3,Friendly,False
+2022-08-24,Mexico,Switzerland,0,0,Friendly,False
+2022-08-25,Portugal,Costa Rica,3,0,Friendly,False
+2022-08-26,Netherlands,France,1,1,Friendly,False
+2022-08-28,Australia,Japan,0,2,Friendly,False
+2022-08-29,England,South Korea,1,2,Friendly,True
+2022-08-30,Senegal,Ecuador,0,2,Friendly,False
+2022-08-31,Switzerland,New Zealand,1,0,Friendly,False
+2022-09-02,Brazil,England,1,1,Friendly,False
+2022-09-03,Portugal,Brazil,2,0,Friendly,False
+2022-09-04,Mexico,Uruguay,0,1,Friendly,True
+2022-09-05,Denmark,Qatar,3,1,Friendly,True
+2022-09-06,Portugal,USA,4,0,Friendly,False
+2022-09-08,Colombia,Mexico,1,1,Friendly,False
+2022-09-09,Netherlands,Qatar,3,0,Friendly,False
+2022-09-10,Switzerland,Poland,3,0,Friendly,True
+2022-09-11,Mexico,Switzerland,2,1,Friendly,False
+2022-09-13,Netherlands,Poland,2,1,Friendly,False
+2022-09-14,Canada,Switzerland,1,2,Friendly,False
+2022-09-15,South Korea,Saudi Arabia,2,2,Friendly,True
+2022-09-16,England,Serbia,4,0,Friendly,False
+2022-09-18,Costa Rica,Portugal,2,0,Friendly,False
+2022-09-19,Denmark,Switzerland,1,2,Friendly,False
+2022-09-20,France,Ecuador,3,2,Friendly,False
+2022-09-21,South Korea,Canada,0,2,Friendly,False
+2022-09-22,Croatia,Serbia,2,3,Friendly,True
+2022-09-24,Ghana,Australia,1,1,Friendly,False
+2022-09-25,Brazil,Switzerland,2,2,Friendly,False
+2022-09-26,Switzerland,Mexico,2,1,Friendly,False
+2022-09-27,Panama,South Korea,1,3,Friendly,True
+2022-09-29,Colombia,Morocco,2,0,Friendly,False
+2022-09-30,Spain,Australia,3,2,Friendly,False
+2022-10-01,Poland,Qatar,3,1,Friendly,True
+2022-10-02,USA,Italy,4,0,Friendly,False
+2022-10-03,USA,Spain,2,2,Friendly,False
+2022-10-05,Senegal,USA,4,2,Friendly,False
+2022-10-06,Croatia,Portugal,0,2,Friendly,True
+2022-10-07,New Zealand,Italy,1,3,Friendly,False
+2022-10-08,Qatar,Canada,3,2,Friendly,False
+2022-10-10,Argentina,Netherlands,1,1,Friendly,False
+2022-10-11,Australia,Saudi Arabia,2,3,Friendly,False
+2022-10-12,New Zealand,Denmark,0,0,Friendly,True
+2022-10-13,Serbia,Italy,0,4,Friendly,False
+2022-10-15,England,Senegal,7,3,Friendly,False
+2022-10-16,Australia,Morocco,0,3,Friendly,False
+2022-10-17,Argentina,Poland,2,2,Friendly,True
+2022-10-18,Colombia,Japan,2,1,Friendly,False
+2022-10-19,England,Mexico,1,0,Friendly,True
+2022-10-21,Australia,Canada,6,0,Friendly,True
+2022-10-22,Italy,Australia,2,1,Friendly,False
+2022-10-23,Qatar,South Korea,0,3,Friendly,False
+2022-10-24,Italy,Ghana,1,1,Friendly,True
+2022-10-26,Morocco,Ghana,4,1,Friendly,False
+2022-10-27,Ghana,Costa Rica,1,2,Friendly,False
+2022-10-28,Japan,Denmark,1,2,Friendly,False
+2022-10-29,Canada,Colombia,1,3,Friendly,False
+2022-10-31,Spain,USA,2,2,Friendly,True
+2022-11-01,Croatia,Switzerland,2,0,Friendly,False
+2022-11-02,Portugal,Spain,2,1,Friendly,True
+2022-11-03,Denmark,New Zealand,2,0,Friendly,False
+2022-11-04,Colombia,South Korea,1,1,Friendly,False
+2022-11-06,Portugal,Panama,4,1,Friendly,False
+2022-11-07,Brazil,Morocco,1,1,Friendly,False
+2022-11-08,Ghana,England,1,3,Friendly,False
+2022-11-09,Colombia,Australia,2,3,Friendly,False
+2022-11-11,South Korea,Netherlands,1,2,Friendly,False
+2022-11-12,Ecuador,Colombia,0,0,Friendly,False
+2022-11-13,Germany,Australia,2,2,Friendly,False
+2022-11-14,Poland,Qatar,1,4,Friendly,False
+2022-11-16,Spain,Mexico,0,0,Friendly,False
+2022-11-17,Argentina,Ghana,5,0,Friendly,False
+2022-11-18,Costa Rica,Portugal,1,0,Friendly,False
+2022-11-19,Italy,Canada,5,3,Friendly,True
+2022-11-20,Serbia,Poland,2,1,Friendly,False
+2022-11-22,Argentina,Colombia,2,2,Friendly,False
+2022-11-23,Saudi Arabia,Colombia,1,4,Friendly,False
+2022-11-24,England,Morocco,3,1,Friendly,False
+2022-11-25,Ecuador,Croatia,3,1,Friendly,False
+2022-11-27,Qatar,Canada,2,3,Friendly,False
+2022-11-28,Switzerland,Argentina,1,1,Friendly,False
+2022-11-29,Qatar,Saudi Arabia,1,0,Friendly,False
+2022-11-30,Uruguay,Brazil,0,0,Friendly,False
+2022-12-01,Brazil,Japan,4,2,Friendly,False
+2022-12-03,Poland,England,1,3,Friendly,False
+2022-12-04,Mexico,Morocco,2,2,Friendly,False
+2022-12-05,Panama,Australia,1,3,Friendly,False
+2022-12-06,Switzerland,Serbia,1,3,Friendly,True
+2022-12-08,Morocco,Belgium,3,3,Friendly,False
+2022-12-09,Qatar,France,3,2,Friendly,False
+2022-12-10,Croatia,France,1,1,Friendly,False
+2022-12-11,Saudi Arabia,Ecuador,1,1,Friendly,True
+2022-12-13,Netherlands,Croatia,2,1,Friendly,False
+2022-12-14,Uruguay,England,2,1,Friendly,False
+2022-12-15,Poland,Ecuador,0,1,Friendly,False
+2022-12-16,South Korea,Costa Rica,4,1,Friendly,False
+2022-12-17,Japan,France,1,2,Friendly,True
+2022-12-19,Serbia,Costa Rica,1,1,Friendly,False
+2022-12-20,Morocco,Poland,1,1,Friendly,False
+2022-12-21,Brazil,Croatia,1,3,Friendly,True
+2022-12-22,Spain,Ghana,2,1,Friendly,False
+2022-12-24,Italy,New Zealand,6,0,Friendly,True
+2022-12-25,Italy,England,0,1,Friendly,True
+2022-12-26,Canada,Australia,1,0,Friendly,True
+2022-12-27,Uruguay,Netherlands,0,2,Friendly,True
+2022-12-29,Uruguay,Canada,1,3,Friendly,True
+2022-12-30,Costa Rica,France,0,5,Friendly,False
+2022-12-31,Australia,Ghana,1,0,Friendly,False
+2023-01-01,Denmark,Japan,2,0,Friendly,True
+2023-01-02,Senegal,Ghana,0,2,Friendly,False
+2023-01-04,Denmark,Brazil,0,0,Friendly,True
+2023-01-05,Argentina,Costa Rica,2,0,Friendly,True
+2023-01-06,Argentina,Mexico,1,1,Friendly,False
+2023-01-07,Croatia,South Korea,0,2,Friendly,True
+2023-01-09,Serbia,Poland,0,1,Friendly,False
+2023-01-10,Uruguay,Croatia,3,1,Friendly,False
+2023-01-11,Qatar,Ghana,2,0,Friendly,False
+2023-01-12,Australia,England,1,2,Friendly,True
+2023-01-14,Ghana,USA,2,0,Friendly,False
+2023-01-15,Ecuador,Netherlands,0,1,Friendly,True
+2023-01-16,France,Belgium,2,0,Friendly,False
+2023-01-17,Switzerland,Saudi Arabia,0,0,Friendly,False
+2023-01-18,Italy,Uruguay,1,1,Friendly,False
+2023-01-20,Mexico,Italy,1,2,Friendly,False
+2023-01-21,Ecuador,Saudi Arabia,2,1,Friendly,False
+2023-01-22,Saudi Arabia,Belgium,2,7,Friendly,False
+2023-01-23,Senegal,Netherlands,0,1,Friendly,False
+2023-01-25,Belgium,France,0,0,Friendly,False
+2023-01-26,Netherlands,Costa Rica,2,0,Friendly,True
+2023-01-27,Uruguay,Costa Rica,1,1,Friendly,False
+2023-01-28,Colombia,Ghana,3,0,Friendly,False
+2023-01-30,England,New Zealand,3,0,Friendly,False
+2023-01-31,Germany,Netherlands,1,2,Friendly,False
+2023-02-01,Senegal,Ecuador,0,1,Friendly,True
+2023-02-02,Mexico,Ghana,0,3,Friendly,True
+2023-02-03,Costa Rica,USA,0,3,Friendly,False
+2023-02-05,Australia,Morocco,0,0,Friendly,False
+2023-02-06,England,Panama,3,0,Friendly,False
+2023-02-07,Switzerland,Uruguay,0,1,Friendly,False
+2023-02-08,Japan,Uruguay,2,4,Friendly,False
+2023-02-10,Croatia,Panama,1,1,Friendly,False
+2023-02-11,Poland,Colombia,1,0,Friendly,False
+2023-02-12,Spain,Germany,7,1,Friendly,False
+2023-02-13,Panama,Serbia,1,0,Friendly,False
+2023-02-14,Australia,Costa Rica,3,0,Friendly,True
+2023-02-16,Morocco,Brazil,2,1,Friendly,False
+2023-02-17,Belgium,Colombia,2,3,Friendly,False
+2023-02-18,Argentina,Denmark,1,1,Friendly,True
+2023-02-19,England,USA,3,0,Friendly,False
+2023-02-21,Morocco,Germany,1,0,Friendly,False
+2023-02-22,Spain,Argentina,0,4,Friendly,True
+2023-02-23,Colombia,France,1,3,Friendly,False
+2023-02-24,Saudi Arabia,England,0,2,Friendly,True
+2023-02-26,Argentina,USA,3,2,Friendly,False
+2023-02-27,USA,Italy,1,2,Friendly,False
+2023-02-28,Qatar,Argentina,1,2,Friendly,False
+2023-03-01,Denmark,France,2,4,Friendly,True
+2023-03-02,Germany,Ghana,1,1,Friendly,False
+2023-03-04,South Korea,Serbia,0,2,Friendly,False
+2023-03-05,Serbia,Panama,1,1,Friendly,False
+2023-03-06,Saudi Arabia,France,1,3,Friendly,True
+2023-03-07,Switzerland,Italy,1,0,Friendly,False
+2023-03-09,Ecuador,Morocco,1,2,Friendly,False
+2023-03-10,Japan,Germany,0,1,Friendly,False
+2023-03-11,France,Ecuador,2,3,Friendly,False
+2023-03-12,Panama,Switzerland,1,3,Friendly,True
+2023-03-14,Colombia,New Zealand,0,1,Friendly,False
+2023-03-15,Costa Rica,Japan,0,0,Friendly,False
+2023-03-16,South Korea,Uruguay,0,0,Friendly,True
+2023-03-17,Colombia,Belgium,2,1,Friendly,True
+2023-03-18,Saudi Arabia,Italy,0,3,Friendly,False
+2023-03-20,Morocco,Netherlands,1,2,Friendly,False
+2023-03-21,Brazil,Poland,5,1,Friendly,False
+2023-03-22,USA,Brazil,1,2,Friendly,True
+2023-03-23,Canada,Mexico,0,1,Friendly,False
+2023-03-25,Switzerland,Mexico,3,2,Friendly,True
+2023-03-26,Serbia,Australia,2,2,Friendly,False
+2023-03-27,Mexico,Saudi Arabia,3,3,Friendly,False
+2023-03-28,Uruguay,Ghana,2,1,Friendly,False
+2023-03-30,Denmark,Germany,5,1,Friendly,False
+2023-03-31,Mexico,New Zealand,1,1,Friendly,False
+2023-04-01,England,Spain,0,3,Friendly,True
+2023-04-02,Canada,Japan,0,2,Friendly,False
+2023-04-03,Morocco,Switzerland,2,0,Friendly,True
+2023-04-05,USA,Saudi Arabia,0,4,Friendly,False
+2023-04-06,Croatia,Germany,2,2,Friendly,False
+2023-04-07,Brazil,Panama,2,1,Friendly,False
+2023-04-08,Italy,Poland,1,1,Friendly,False
+2023-04-10,USA,Costa Rica,1,2,Friendly,True
+2023-04-11,Denmark,Spain,1,1,Friendly,False
+2023-04-12,Switzerland,Argentina,2,3,Friendly,False
+2023-04-13,Croatia,Argentina,1,1,Friendly,False
+2023-04-14,Qatar,South Korea,2,1,Friendly,True
+2023-04-16,USA,South Korea,3,2,Friendly,False
+2023-04-17,Australia,Germany,3,2,Friendly,False
+2023-04-18,New Zealand,Ghana,1,3,Friendly,False
+2023-04-19,Saudi Arabia,USA,0,0,Friendly,True
+2023-04-21,Qatar,Portugal,1,4,Friendly,False
+2023-04-22,New Zealand,Senegal,1,2,Friendly,False
+2023-04-23,Germany,Ghana,0,0,Friendly,True
+2023-04-24,Germany,Croatia,1,2,Friendly,True
+2023-04-26,Saudi Arabia,Japan,2,2,Friendly,False
+2023-04-27,Serbia,Portugal,2,3,Friendly,True
+2023-04-28,Portugal,Germany,4,2,Friendly,False
+2023-04-29,Serbia,Germany,0,2,Friendly,False
+2023-04-30,Australia,Argentina,0,2,Friendly,False
+2023-05-02,Morocco,Ecuador,2,1,Friendly,False
+2023-05-03,Japan,Argentina,2,6,Friendly,False
+2023-05-04,Qatar,Australia,0,1,Friendly,False
+2023-05-05,Australia,Japan,3,5,Friendly,False
+2023-05-07,Panama,Canada,0,1,Friendly,False
+2023-05-08,Mexico,Colombia,1,2,Friendly,True
+2023-05-09,Spain,Uruguay,2,1,Friendly,False
+2023-05-10,France,Qatar,2,0,Friendly,True
+2023-05-12,New Zealand,Canada,1,1,Friendly,False
+2023-05-13,France,Italy,1,1,Friendly,True
+2023-05-14,Denmark,Costa Rica,1,0,Friendly,True
+2023-05-15,Switzerland,Mexico,0,3,Friendly,True
+2023-05-16,USA,Saudi Arabia,1,1,Friendly,True
+2023-05-18,Croatia,Colombia,1,1,Friendly,False
+2023-05-19,Colombia,Belgium,3,1,Friendly,False
+2023-05-20,Mexico,Netherlands,3,1,Friendly,True
+2023-05-21,Senegal,Uruguay,3,1,Friendly,False
+2023-05-23,Argentina,Morocco,1,2,Friendly,False
+2023-05-24,Ecuador,Canada,2,0,Friendly,True
+2023-05-25,Switzerland,Spain,1,2,Friendly,False
+2023-05-26,Spain,Germany,3,1,Friendly,False
+2023-05-28,Morocco,France,1,1,Friendly,False
+2023-05-29,Qatar,South Korea,1,1,Friendly,False
+2023-05-30,Spain,Argentina,2,3,Friendly,False
+2023-05-31,Argentina,Ecuador,2,1,Friendly,False
+2023-06-01,Serbia,Saudi Arabia,2,1,Friendly,False
+2023-06-03,Saudi Arabia,Brazil,0,3,Friendly,True
+2023-06-04,Senegal,Spain,0,0,Friendly,True
+2023-06-05,Japan,Poland,1,0,Friendly,False
+2023-06-06,England,Morocco,0,0,Friendly,False
+2023-06-08,Denmark,Colombia,3,1,Friendly,True
+2023-06-09,Australia,South Korea,0,2,Friendly,False
+2023-06-10,Portugal,Mexico,5,1,Friendly,False
+2023-06-11,England,Japan,1,0,Friendly,False
+2023-06-12,Costa Rica,Morocco,1,2,Friendly,False
+2023-06-14,Serbia,England,1,1,Friendly,True
+2023-06-15,Spain,USA,3,0,Friendly,False
+2023-06-16,Japan,Belgium,1,2,Friendly,False
+2023-06-17,Italy,Netherlands,2,0,Friendly,False
+2023-06-19,USA,Serbia,0,1,Friendly,True
+2023-06-20,Switzerland,Spain,0,0,Friendly,True
+2023-06-21,Ecuador,Croatia,5,2,Friendly,False
+2023-06-22,Uruguay,USA,0,2,Friendly,False
+2023-06-24,Portugal,Brazil,4,2,Friendly,False
+2023-06-25,Netherlands,USA,4,0,Friendly,False
+2023-06-26,Argentina,Uruguay,4,0,Friendly,False
+2023-06-27,Spain,Mexico,4,0,Friendly,False
+2023-06-28,Saudi Arabia,Serbia,0,0,Friendly,False
+2023-06-30,Colombia,Costa Rica,2,1,Friendly,True
+2023-07-01,Colombia,Ecuador,0,1,Friendly,False
+2023-07-02,France,Uruguay,1,0,Friendly,False
+2023-07-03,Brazil,Croatia,4,2,Friendly,False
+2023-07-05,South Korea,Senegal,3,1,Friendly,False
+2023-07-06,Germany,Costa Rica,2,0,Friendly,False
+2023-07-07,Morocco,Brazil,3,2,Friendly,False
+2023-07-08,South Korea,Brazil,1,2,Friendly,False
+2023-07-10,Portugal,Saudi Arabia,3,0,Friendly,False
+2023-07-11,Saudi Arabia,Mexico,1,1,Friendly,True
+2023-07-12,Belgium,South Korea,1,1,Friendly,False
+2023-07-13,Denmark,Costa Rica,3,2,Friendly,False
+2023-07-14,Brazil,New Zealand,3,1,Friendly,False
+2023-07-16,South Korea,Brazil,0,2,Friendly,False
+2023-07-17,Switzerland,Italy,3,1,Friendly,False
+2023-07-18,Portugal,Belgium,0,0,Friendly,True
+2023-07-19,Portugal,South Korea,3,1,Friendly,True
+2023-07-21,Panama,Portugal,0,1,Friendly,False
+2023-07-22,Australia,Poland,2,0,Friendly,False
+2023-07-23,Germany,Canada,1,2,Friendly,True
+2023-07-24,South Korea,Uruguay,2,4,Friendly,False
+2023-07-26,Colombia,New Zealand,2,1,Friendly,False
+2023-07-27,Italy,Costa Rica,0,0,Friendly,False
+2023-07-28,Poland,Italy,3,1,Friendly,False
+2023-07-29,England,Panama,1,1,Friendly,False
+2023-07-30,Australia,Serbia,1,1,Friendly,False
+2023-08-01,Ecuador,Uruguay,1,3,Friendly,False
+2023-08-02,Senegal,New Zealand,2,1,Friendly,True
+2023-08-03,Ghana,Brazil,1,0,Friendly,False
+2023-08-04,Belgium,Spain,1,1,Friendly,True
+2023-08-06,Denmark,Senegal,4,0,Friendly,False
+2023-08-07,Ecuador,Poland,1,2,Friendly,False
+2023-08-08,USA,Argentina,3,1,Friendly,False
+2023-08-09,Senegal,Netherlands,0,2,Friendly,False
+2023-08-11,Uruguay,France,2,1,Friendly,False
+2023-08-12,Ecuador,Brazil,2,0,Friendly,False
+2023-08-13,Netherlands,Germany,3,1,Friendly,False
+2023-08-14,Colombia,Canada,0,1,Friendly,True
+2023-08-15,France,USA,4,1,Friendly,False
+2023-08-17,Italy,Mexico,2,0,Friendly,False
+2023-08-18,Colombia,South Korea,3,0,Friendly,False
+2023-08-19,Uruguay,Mexico,1,1,Friendly,False
+2023-08-20,Portugal,Qatar,3,2,Friendly,True
+2023-08-22,England,Uruguay,3,1,Friendly,False
+2023-08-23,Portugal,Netherlands,2,1,Friendly,False
+2023-08-24,Senegal,Serbia,3,2,Friendly,False
+2023-08-25,Switzerland,South Korea,2,0,Friendly,False
+2023-08-26,Colombia,New Zealand,4,0,Friendly,False
+2023-08-28,Canada,Australia,2,4,Friendly,False
+2023-08-29,Brazil,Italy,1,0,Friendly,False
+2023-08-30,Brazil,Canada,2,1,Friendly,False
+2023-08-31,Uruguay,Australia,3,0,Friendly,False
+2023-09-02,USA,Morocco,0,0,Friendly,True
+2023-09-03,Panama,Saudi Arabia,1,1,Friendly,True
+2023-09-04,USA,Argentina,1,3,Friendly,False
+2023-09-05,England,Germany,0,2,Friendly,False
+2023-09-07,Poland,Belgium,1,1,Friendly,True
+2023-09-08,Costa Rica,France,2,0,Friendly,True
+2023-09-09,Brazil,New Zealand,2,1,Friendly,False
+2023-09-10,England,New Zealand,5,1,Friendly,False
+2023-09-11,Canada,Japan,2,0,Friendly,False
+2023-09-13,New Zealand,Ecuador,1,2,Friendly,False
+2023-09-14,Belgium,Serbia,1,0,Friendly,False
+2023-09-15,Germany,Mexico,1,0,Friendly,True
+2023-09-16,Saudi Arabia,Colombia,2,2,Friendly,False
+2023-09-18,South Korea,New Zealand,4,0,Friendly,False
+2023-09-19,Denmark,Senegal,2,2,Friendly,True
+2023-09-20,Ghana,Senegal,2,1,Friendly,True
+2023-09-21,Colombia,Denmark,2,0,Friendly,False
+2023-09-23,England,Serbia,2,0,Friendly,False
+2023-09-24,Australia,Netherlands,0,1,Friendly,False
+2023-09-25,Belgium,Argentina,0,3,Friendly,False
+2023-09-26,Uruguay,Senegal,2,0,Friendly,False
+2023-09-27,Germany,Australia,1,1,Friendly,True
+2023-09-29,Switzerland,Japan,1,0,Friendly,False
+2023-09-30,Denmark,Switzerland,3,2,Friendly,True
+2023-10-01,Ghana,Belgium,2,1,Friendly,False
+2023-10-02,Australia,Germany,2,1,Friendly,True
+2023-10-04,Croatia,Canada,1,0,Friendly,False
+2023-10-05,Costa Rica,Brazil,1,3,Friendly,True
+2023-10-06,USA,New Zealand,2,0,Friendly,True
+2023-10-07,Germany,Canada,2,2,Friendly,False
+2023-10-09,Netherlands,Spain,2,0,Friendly,False
+2023-10-10,Poland,Brazil,0,1,Friendly,False
+2023-10-11,USA,Portugal,0,2,Friendly,True
+2023-10-12,Saudi Arabia,Ghana,1,0,Friendly,True
+2023-10-13,Ecuador,Japan,3,3,Friendly,False
+2023-10-15,Germany,Italy,2,2,Friendly,True
+2023-10-16,Netherlands,Argentina,1,3,Friendly,False
+2023-10-17,Switzerland,Australia,1,1,Friendly,False
+2023-10-18,New Zealand,Germany,0,3,Friendly,False
+2023-10-20,Germany,USA,0,1,Friendly,False
+2023-10-21,Qatar,Spain,1,3,Friendly,False
+2023-10-22,Croatia,Senegal,2,2,Friendly,False
+2023-10-23,USA,Switzerland,2,0,Friendly,False
+2023-10-24,Switzerland,Belgium,2,3,Friendly,False
+2023-10-26,Denmark,Costa Rica,3,0,Friendly,False
+2023-10-27,Australia,Poland,2,0,Friendly,True
+2023-10-28,Ghana,Spain,0,2,Friendly,False
+2023-10-29,South Korea,Belgium,3,1,Friendly,False
+2023-10-31,Canada,USA,0,3,Friendly,False
+2023-11-01,Morocco,Panama,3,0,Friendly,False
+2023-11-02,Senegal,Ghana,2,2,Friendly,False
+2023-11-03,Ghana,Senegal,1,1,Friendly,True
+2023-11-05,Brazil,Costa Rica,1,0,Friendly,False
+2023-11-06,Mexico,Morocco,0,1,Friendly,False
+2023-11-07,Italy,Croatia,0,3,Friendly,True
+2023-11-08,England,South Korea,1,3,Friendly,False
+2023-11-09,France,Denmark,0,1,Friendly,True
+2023-11-11,France,Qatar,1,1,Friendly,False
+2023-11-12,Switzerland,Spain,2,0,Friendly,False
+2023-11-13,Italy,Argentina,0,2,Friendly,False
+2023-11-14,Australia,Switzerland,2,3,Friendly,True
+2023-11-16,Qatar,Netherlands,1,1,Friendly,False
+2023-11-17,Saudi Arabia,Canada,2,1,Friendly,False
+2023-11-18,Brazil,Serbia,2,0,Friendly,True
+2023-11-19,Morocco,Costa Rica,4,0,Friendly,False
+2023-11-21,Croatia,Australia,0,0,Friendly,True
+2023-11-22,USA,Ghana,2,1,Friendly,False
+2023-11-23,Mexico,Ghana,1,2,Friendly,False
+2023-11-24,South Korea,USA,1,1,Friendly,False
+2023-11-25,Colombia,Poland,2,0,Friendly,False
+2023-11-27,Ecuador,Poland,1,1,Friendly,True
+2023-11-28,Colombia,Portugal,3,1,Friendly,False
+2023-11-29,Japan,Costa Rica,1,0,Friendly,True
+2023-11-30,Spain,France,1,1,Friendly,False
+2023-12-02,Panama,Poland,1,0,Friendly,False
+2023-12-03,Portugal,France,2,1,Friendly,False
+2023-12-04,Portugal,Ecuador,1,0,Friendly,False
+2023-12-05,Senegal,Canada,2,1,Friendly,False
+2023-12-07,Saudi Arabia,Qatar,2,1,Friendly,True
+2023-12-08,Panama,Serbia,2,2,Friendly,False
+2023-12-09,Canada,USA,0,3,Friendly,False
+2023-12-10,Colombia,South Korea,1,1,Friendly,False
+2023-12-11,Qatar,South Korea,1,3,Friendly,True
+2023-12-13,New Zealand,Mexico,1,0,Friendly,True
+2023-12-14,Brazil,Denmark,1,2,Friendly,False
+2023-12-15,Italy,Mexico,1,1,Friendly,True
+2023-12-16,Australia,Costa Rica,1,1,Friendly,False
+2023-12-18,South Korea,Argentina,0,1,Friendly,True
+2023-12-19,Ghana,South Korea,2,1,Friendly,False
+2023-12-20,Morocco,Netherlands,2,1,Friendly,False
+2023-12-21,Panama,Argentina,4,4,Friendly,True
+2023-12-22,Belgium,Qatar,2,2,Friendly,False
+2023-12-24,Qatar,Saudi Arabia,0,1,Friendly,False
+2023-12-25,Denmark,Saudi Arabia,2,1,Friendly,False
+2023-12-26,Argentina,Italy,1,0,Friendly,False
+2023-12-27,Saudi Arabia,Italy,3,1,Friendly,False
+2023-12-29,Poland,Mexico,1,1,Friendly,False
+2023-12-30,Panama,Belgium,1,0,Friendly,False
+2023-12-31,England,Italy,0,4,Friendly,True
+2024-01-01,France,Belgium,4,0,Friendly,False
+2024-01-03,Panama,Morocco,0,2,Friendly,True
+2024-01-04,Ghana,Spain,0,2,Friendly,False
+2024-01-05,Saudi Arabia,Mexico,2,3,Friendly,False
+2024-01-06,Croatia,France,0,2,Friendly,True
+2024-01-07,New Zealand,Saudi Arabia,3,0,Friendly,False
+2024-01-09,USA,South Korea,2,0,Friendly,True
+2024-01-10,Japan,Portugal,0,1,Friendly,False
+2024-01-11,Croatia,Uruguay,0,1,Friendly,True
+2024-01-12,Brazil,Canada,2,0,Friendly,True
+2024-01-14,Belgium,Panama,4,2,Friendly,False
+2024-01-15,Panama,Colombia,1,2,Friendly,False
+2024-01-16,Saudi Arabia,New Zealand,0,1,Friendly,False
+2024-01-17,Colombia,Belgium,2,1,Friendly,False
+2024-01-19,Brazil,Serbia,2,1,Friendly,False
+2024-01-20,Spain,Serbia,0,1,Friendly,False
+2024-01-21,Australia,Senegal,0,0,Friendly,False
+2024-01-22,England,Canada,2,0,Friendly,True
+2024-01-23,Belgium,Brazil,4,0,Friendly,False
+2024-01-25,Serbia,Belgium,2,2,Friendly,False
+2024-01-26,Brazil,Portugal,2,1,Friendly,False
+2024-01-27,Japan,England,1,1,Friendly,False
+2024-01-28,Ecuador,Portugal,1,2,Friendly,True
+2024-01-30,Poland,Croatia,1,0,Friendly,True
+2024-01-31,France,USA,3,0,Friendly,False
+2024-02-01,Serbia,England,1,1,Friendly,True
+2024-02-02,Croatia,Australia,4,1,Friendly,False
+2024-02-04,Panama,Ghana,0,2,Friendly,False
+2024-02-05,England,Portugal,0,1,Friendly,False
+2024-02-06,Italy,Qatar,4,0,Friendly,True
+2024-02-07,Costa Rica,Belgium,2,0,Friendly,False
+2024-02-08,Belgium,Colombia,0,4,Friendly,False
+2024-02-10,Saudi Arabia,France,0,2,Friendly,False
+2024-02-11,Germany,South Korea,4,2,Friendly,False
+2024-02-12,Mexico,Senegal,2,2,Friendly,False
+2024-02-13,Morocco,New Zealand,1,1,Friendly,True
+2024-02-15,Denmark,Germany,2,1,Friendly,False
+2024-02-16,Spain,Serbia,5,2,Friendly,True
+2024-02-17,Qatar,England,0,2,Friendly,False
+2024-02-18,Poland,Japan,0,1,Friendly,True
+2024-02-19,Spain,Germany,1,0,Friendly,False
+2024-02-21,Brazil,Serbia,1,1,Friendly,False
+2024-02-22,Argentina,Denmark,1,2,Friendly,False
+2024-02-23,Colombia,England,3,6,Friendly,False
+2024-02-24,Portugal,Senegal,3,0,Friendly,False
+2024-02-26,Portugal,England,1,0,Friendly,True
+2024-02-27,Brazil,Panama,2,1,Friendly,False
+2024-02-28,Switzerland,Netherlands,0,1,Friendly,False
+2024-02-29,England,Portugal,1,1,Friendly,False
+2024-03-02,Poland,Argentina,1,3,Friendly,False
+2024-03-03,France,Germany,1,1,Friendly,True
+2024-03-04,Mexico,Denmark,4,0,Friendly,False
+2024-03-05,Netherlands,Spain,1,4,Friendly,False
+2024-03-06,Qatar,Croatia,2,4,Friendly,False
+2024-03-08,Denmark,Australia,2,0,Friendly,False
+2024-03-09,Portugal,Saudi Arabia,2,1,Friendly,False
+2024-03-10,Colombia,New Zealand,3,0,Friendly,False
+2024-03-11,Saudi Arabia,Qatar,2,2,Friendly,False
+2024-03-13,Colombia,Uruguay,2,3,Friendly,False
+2024-03-14,Brazil,Netherlands,3,1,Friendly,False
+2024-03-15,Poland,Denmark,1,1,Friendly,True
+2024-03-16,Argentina,Switzerland,0,0,Friendly,True
+2024-03-18,Senegal,Spain,0,5,Friendly,False
+2024-03-19,USA,Ghana,4,1,Friendly,False
+2024-03-20,Belgium,Ecuador,0,0,Friendly,False
+2024-03-21,Costa Rica,France,3,2,Friendly,False
+2024-03-22,Morocco,Costa Rica,2,1,Friendly,False
+2024-03-24,Costa Rica,Uruguay,1,1,Friendly,False
+2024-03-25,Netherlands,Argentina,1,3,Friendly,False
+2024-03-26,Japan,Serbia,2,2,Friendly,True
+2024-03-27,Brazil,Japan,2,0,Friendly,False
+2024-03-29,Poland,Portugal,0,2,Friendly,False
+2024-03-30,Uruguay,Argentina,2,4,Friendly,False
+2024-03-31,Poland,Belgium,1,2,Friendly,False
+2024-04-01,Colombia,Switzerland,2,1,Friendly,True
+2024-04-03,Ecuador,Croatia,0,2,Friendly,False
+2024-04-04,Argentina,Italy,5,1,Friendly,False
+2024-04-05,Uruguay,Switzerland,3,2,Friendly,False
+2024-04-06,USA,Ecuador,3,0,Friendly,False
+2024-04-07,France,Argentina,0,5,Friendly,False
+2024-04-09,Poland,Ghana,1,1,Friendly,False
+2024-04-10,Uruguay,New Zealand,5,2,Friendly,False
+2024-04-11,Italy,Germany,0,1,Friendly,False
+2024-04-12,Japan,Qatar,3,1,Friendly,False
+2024-04-14,USA,Qatar,3,1,Friendly,False
+2024-04-15,Qatar,Colombia,1,3,Friendly,False
+2024-04-16,Qatar,Netherlands,4,5,Friendly,True
+2024-04-17,Costa Rica,Colombia,2,2,Friendly,False
+2024-04-19,Panama,Italy,3,1,Friendly,False
+2024-04-20,Saudi Arabia,USA,1,2,Friendly,False
+2024-04-21,Senegal,Mexico,4,1,Friendly,False
+2024-04-22,Italy,Poland,2,1,Friendly,False
+2024-04-23,Netherlands,Serbia,1,1,Friendly,True
+2024-04-25,Morocco,Switzerland,4,1,Friendly,False
+2024-04-26,Serbia,Senegal,1,2,Friendly,False
+2024-04-27,Belgium,England,2,0,Friendly,False
+2024-04-28,Croatia,Uruguay,1,2,Friendly,True
+2024-04-30,Colombia,Denmark,2,0,Friendly,False
+2024-05-01,Poland,USA,2,1,Friendly,False
+2024-05-02,Brazil,Australia,2,0,Friendly,False
+2024-05-03,Qatar,Mexico,1,1,Friendly,True
+2024-05-04,Colombia,Belgium,3,3,Friendly,False
+2024-05-06,Mexico,Switzerland,3,2,Friendly,False
+2024-05-07,South Korea,New Zealand,5,2,Friendly,False
+2024-05-08,New Zealand,Poland,4,3,Friendly,False
+2024-05-09,Denmark,Croatia,3,2,Friendly,False
+2024-05-11,Italy,Switzerland,2,2,Friendly,False
+2024-05-12,Uruguay,Serbia,1,2,Friendly,True
+2024-05-13,Costa Rica,Brazil,3,3,Friendly,False
+2024-05-14,Denmark,New Zealand,1,2,Friendly,False
+2024-05-16,Qatar,Saudi Arabia,1,0,Friendly,False
+2024-05-17,Uruguay,Denmark,2,1,Friendly,False
+2024-05-18,Italy,Belgium,2,1,Friendly,False
+2024-05-19,Portugal,Croatia,1,0,Friendly,True
+2024-05-20,USA,Costa Rica,2,0,Friendly,False
+2024-05-22,Germany,Spain,1,2,Friendly,True
+2024-05-23,France,Serbia,2,2,Friendly,False
+2024-05-24,Poland,Japan,2,0,Friendly,False
+2024-05-25,Colombia,Panama,8,2,Friendly,False
+2024-05-27,Qatar,South Korea,0,3,Friendly,False
+2024-05-28,Morocco,Colombia,1,2,Friendly,True
+2024-05-29,Saudi Arabia,Belgium,0,1,Friendly,False
+2024-05-30,Morocco,England,2,2,Friendly,False
+2024-06-01,Germany,Panama,0,0,Friendly,False
+2024-06-02,Morocco,Netherlands,1,3,Friendly,False
+2024-06-03,Portugal,Senegal,2,0,Friendly,False
+2024-06-04,Uruguay,Ecuador,1,1,Friendly,False
+2024-06-05,Denmark,France,1,1,Friendly,True
+2024-06-07,France,England,2,1,Friendly,False
+2024-06-08,Italy,Costa Rica,0,1,Friendly,False
+2024-06-09,Costa Rica,Qatar,1,1,Friendly,False
+2024-06-10,Uruguay,Japan,2,6,Friendly,True
+2024-06-12,Brazil,Ghana,1,0,Friendly,True
+2024-06-13,Denmark,Portugal,1,1,Friendly,False
+2024-06-14,Panama,Costa Rica,1,0,Friendly,False
+2024-06-15,Ghana,France,2,2,Friendly,False
+2024-06-17,Poland,Ecuador,0,1,Friendly,False
+2024-06-18,Canada,Uruguay,1,2,Friendly,False
+2024-06-19,Brazil,Costa Rica,1,2,Friendly,True
+2024-06-20,Morocco,South Korea,3,1,Friendly,False
+2024-06-21,USA,Germany,2,2,Friendly,False
+2024-06-23,Qatar,Poland,1,1,Friendly,False
+2024-06-24,England,Brazil,1,3,Friendly,True
+2024-06-25,Serbia,Poland,2,1,Friendly,True
+2024-06-26,Costa Rica,Panama,2,0,Friendly,False
+2024-06-28,France,Poland,1,1,Friendly,True
+2024-06-29,New Zealand,South Korea,0,2,Friendly,True
+2024-06-30,Japan,Ghana,4,1,Friendly,False
+2024-07-01,France,Colombia,0,4,Friendly,False
+2024-07-02,South Korea,Morocco,2,4,Friendly,True
+2024-07-04,Qatar,Ecuador,4,3,Friendly,True
+2024-07-05,Croatia,France,1,1,Friendly,False
+2024-07-06,Spain,Panama,3,0,Friendly,False
+2024-07-07,Belgium,England,2,7,Friendly,False
+2024-07-09,Senegal,Panama,0,0,Friendly,False
+2024-07-10,Morocco,Argentina,1,2,Friendly,True
+2024-07-11,Italy,Morocco,1,4,Friendly,True
+2024-07-12,Ecuador,Argentina,2,1,Friendly,False
+2024-07-14,Panama,Brazil,1,0,Friendly,True
+2024-07-15,Qatar,Belgium,1,3,Friendly,False
+2024-07-16,Poland,Italy,4,1,Friendly,False
+2024-07-17,Saudi Arabia,Belgium,4,2,Friendly,False
+2024-07-18,Mexico,Morocco,0,1,Friendly,False
+2024-07-20,Italy,Qatar,2,0,Friendly,True
+2024-07-21,Serbia,Portugal,3,4,Friendly,False
+2024-07-22,Serbia,France,0,3,Friendly,False
+2024-07-23,Serbia,Morocco,3,3,Friendly,False
+2024-07-25,South Korea,Qatar,2,0,Friendly,True
+2024-07-26,Senegal,Saudi Arabia,1,1,Friendly,False
+2024-07-27,Serbia,South Korea,1,1,Friendly,True
+2024-07-28,Argentina,USA,2,1,Friendly,False
+2024-07-30,Senegal,Ghana,5,1,Friendly,True
+2024-07-31,Australia,Saudi Arabia,2,1,Friendly,False
+2024-08-01,Poland,Ghana,2,3,Friendly,True
+2024-08-02,Denmark,Ecuador,1,2,Friendly,True
+2024-08-03,Denmark,Saudi Arabia,1,2,Friendly,True
+2024-08-05,Poland,Costa Rica,1,1,Friendly,False
+2024-08-06,Canada,Panama,3,0,Friendly,True
+2024-08-07,Mexico,Poland,2,1,Friendly,False
+2024-08-08,Denmark,Morocco,3,3,Friendly,False
+2024-08-10,Brazil,USA,5,1,Friendly,False
+2024-08-11,Switzerland,Saudi Arabia,1,0,Friendly,True
+2024-08-12,Qatar,Switzerland,0,2,Friendly,True
+2024-08-13,Argentina,Italy,1,1,Friendly,True
+2024-08-15,Serbia,Ghana,2,3,Friendly,False
+2024-08-16,Switzerland,Morocco,3,1,Friendly,False
+2024-08-17,Canada,Portugal,0,2,Friendly,False
+2024-08-18,Denmark,Ecuador,0,1,Friendly,False
+2024-08-19,Australia,Ghana,1,0,Friendly,False
+2024-08-21,Colombia,Japan,2,1,Friendly,False
+2024-08-22,Canada,Colombia,2,2,Friendly,False
+2024-08-23,Canada,Senegal,2,1,Friendly,True
+2024-08-24,Brazil,Saudi Arabia,2,0,Friendly,True
+2024-08-26,Spain,Portugal,1,3,Friendly,False
+2024-08-27,Germany,Morocco,1,0,Friendly,False
+2024-08-28,South Korea,USA,1,0,Friendly,False
+2024-08-29,Australia,Netherlands,0,1,Friendly,False
+2024-08-30,Ecuador,Switzerland,2,2,Friendly,False
+2024-09-01,Costa Rica,Ecuador,1,0,Friendly,True
+2024-09-02,Serbia,Canada,4,0,Friendly,False
+2024-09-03,Ecuador,Colombia,1,0,Friendly,False
+2024-09-04,France,Saudi Arabia,1,0,Friendly,False
+2024-09-06,Costa Rica,Senegal,1,2,Friendly,False
+2024-09-07,Morocco,USA,0,0,Friendly,False
+2024-09-08,Denmark,Ecuador,2,1,Friendly,True
+2024-09-09,Netherlands,Argentina,2,1,Friendly,False
+2024-09-11,Germany,England,0,1,Friendly,False
+2024-09-12,Spain,Mexico,3,0,Friendly,False
+2024-09-13,France,Belgium,0,2,Friendly,False
+2024-09-14,Portugal,Poland,3,0,Friendly,False
+2024-09-15,Ecuador,USA,1,0,Friendly,False
+2024-09-17,Panama,Mexico,1,4,Friendly,False
+2024-09-18,Mexico,Ghana,2,2,Friendly,True
+2024-09-19,Canada,Japan,3,3,Friendly,False
+2024-09-20,Mexico,Costa Rica,3,0,Friendly,False
+2024-09-22,Saudi Arabia,Australia,0,2,Friendly,True
+2024-09-23,Costa Rica,Uruguay,1,0,Friendly,False
+2024-09-24,Italy,Portugal,2,1,Friendly,False
+2024-09-25,Australia,Serbia,5,2,Friendly,False
+2024-09-27,Croatia,Costa Rica,1,0,Friendly,True
+2024-09-28,Japan,Canada,2,1,Friendly,True
+2024-09-29,Mexico,France,0,5,Friendly,False
+2024-09-30,Senegal,Mexico,4,2,Friendly,False
+2024-10-01,Poland,Portugal,2,1,Friendly,False
+2024-10-03,USA,Costa Rica,3,2,Friendly,True
+2024-10-04,Poland,Croatia,1,1,Friendly,False
+2024-10-05,Mexico,Colombia,1,1,Friendly,True
+2024-10-06,South Korea,Serbia,3,1,Friendly,False
+2024-10-08,Switzerland,USA,2,0,Friendly,True
+2024-10-09,Saudi Arabia,Japan,0,2,Friendly,True
+2024-10-10,Ghana,Saudi Arabia,2,0,Friendly,True
+2024-10-11,Senegal,England,1,1,Friendly,False
+2024-10-13,Ghana,Brazil,1,4,Friendly,False
+2024-10-14,Netherlands,Ecuador,2,1,Friendly,False
+2024-10-15,Portugal,Canada,3,2,Friendly,False
+2024-10-16,Switzerland,Denmark,2,0,Friendly,False
+2024-10-17,Costa Rica,Poland,1,0,Friendly,False
+2024-10-19,Germany,Netherlands,2,2,Friendly,True
+2024-10-20,South Korea,Ghana,0,1,Friendly,False
+2024-10-21,Japan,Italy,3,1,Friendly,False
+2024-10-22,New Zealand,Poland,0,1,Friendly,True
+2024-10-24,Mexico,Senegal,0,0,Friendly,False
+2024-10-25,Canada,USA,1,1,Friendly,True
+2024-10-26,Ecuador,Qatar,3,2,Friendly,False
+2024-10-27,Morocco,South Korea,1,1,Friendly,False
+2024-10-29,Japan,South Korea,2,1,Friendly,False
+2024-10-30,Ecuador,Croatia,1,1,Friendly,False
+2024-10-31,Netherlands,New Zealand,4,4,Friendly,False
+2024-11-01,South Korea,Italy,1,2,Friendly,True
+2024-11-02,Spain,Germany,1,2,Friendly,True
+2024-11-04,Senegal,Australia,0,1,Friendly,True
+2024-11-05,Argentina,Qatar,2,2,Friendly,False
+2024-11-06,England,Portugal,2,2,Friendly,False
+2024-11-07,Portugal,Australia,3,1,Friendly,True
+2024-11-09,New Zealand,France,0,1,Friendly,True
+2024-11-10,Panama,Brazil,1,2,Friendly,True
+2024-11-11,England,France,1,2,Friendly,False
+2024-11-12,Italy,Morocco,0,1,Friendly,False
+2024-11-13,Mexico,New Zealand,1,1,Friendly,False
+2024-11-15,Qatar,Belgium,0,2,Friendly,False
+2024-11-16,England,Italy,0,1,Friendly,True
+2024-11-17,France,Costa Rica,2,1,Friendly,True
+2024-11-18,England,Switzerland,2,3,Friendly,False
+2024-11-20,Poland,Colombia,1,4,Friendly,False
+2024-11-21,Argentina,Netherlands,2,1,Friendly,False
+2024-11-22,Serbia,Qatar,2,1,Friendly,False
+2024-11-23,Saudi Arabia,Uruguay,2,1,Friendly,False
+2024-11-25,Uruguay,Germany,1,2,Friendly,True
+2024-11-26,Denmark,Italy,1,1,Friendly,False
+2024-11-27,Colombia,Portugal,2,0,Friendly,False
+2024-11-28,Brazil,Portugal,4,0,Friendly,True
+2024-11-29,Serbia,Morocco,0,1,Friendly,False
+2024-12-01,Serbia,Senegal,1,2,Friendly,True
+2024-12-02,Serbia,Argentina,2,2,Friendly,False
+2024-12-03,Poland,USA,2,2,Friendly,False
+2024-12-04,Japan,Mexico,1,2,Friendly,False
+2024-12-06,Ecuador,Japan,2,2,Friendly,False
+2024-12-07,Poland,Canada,0,1,Friendly,False
+2024-12-08,Brazil,France,0,3,Friendly,True
+2024-12-09,Switzerland,Colombia,0,1,Friendly,False
+2024-12-11,Panama,Italy,0,0,Friendly,False
+2024-12-12,Ghana,Mexico,2,0,Friendly,False
+2024-12-13,England,Netherlands,3,1,Friendly,False
+2024-12-14,Senegal,Saudi Arabia,3,1,Friendly,False
+2024-12-15,Mexico,New Zealand,3,0,Friendly,True
+2024-12-17,Senegal,Netherlands,1,2,Friendly,True
+2024-12-18,Switzerland,Uruguay,2,3,Friendly,False
+2024-12-19,Saudi Arabia,Qatar,1,2,Friendly,True
+2024-12-20,Poland,USA,2,1,Friendly,True
+2024-12-22,Costa Rica,Canada,1,3,Friendly,False
+2024-12-23,Belgium,Ecuador,1,3,Friendly,True
+2024-12-24,Australia,Ghana,1,0,Friendly,False
+2024-12-25,Australia,Ghana,2,1,Friendly,False
+2024-12-27,Senegal,France,0,1,Friendly,True
+2024-12-28,Japan,Spain,0,1,Friendly,False
+2024-12-29,Serbia,South Korea,1,1,Friendly,True
+2024-12-30,Serbia,Mexico,2,0,Friendly,False
+2024-12-31,Serbia,Ecuador,1,1,Friendly,False
+2025-01-02,Argentina,Belgium,2,3,Friendly,True
+2025-01-03,Portugal,Germany,1,1,Friendly,False
+2025-01-04,Italy,South Korea,3,1,Friendly,False
+2025-01-05,Morocco,Costa Rica,2,0,Friendly,False
+2025-01-07,Brazil,Canada,1,1,Friendly,False
+2025-01-08,Mexico,Poland,1,2,Friendly,False
+2025-01-09,New Zealand,Poland,0,5,Friendly,False
+2025-01-10,South Korea,Netherlands,2,2,Friendly,False
+2025-01-11,Portugal,Saudi Arabia,1,1,Friendly,False
+2025-01-13,Morocco,Canada,1,1,Friendly,False
+2025-01-14,Senegal,Australia,1,1,Friendly,False
+2025-01-15,Saudi Arabia,Portugal,3,1,Friendly,False
+2025-01-16,Morocco,Colombia,2,0,Friendly,False
+2025-01-18,Denmark,Croatia,0,2,Friendly,False
+2025-01-19,Qatar,South Korea,1,4,Friendly,False
+2025-01-20,Brazil,Saudi Arabia,2,2,Friendly,False
+2025-01-21,Canada,Belgium,3,1,Friendly,True
+2025-01-23,France,USA,2,0,Friendly,False
+2025-01-24,Switzerland,Croatia,1,0,Friendly,False
+2025-01-25,Serbia,Germany,1,1,Friendly,False
+2025-01-26,USA,Belgium,2,1,Friendly,False
+2025-01-27,Italy,Qatar,3,1,Friendly,False
+2025-01-29,Japan,Argentina,0,3,Friendly,False
+2025-01-30,Senegal,Netherlands,1,2,Friendly,True
+2025-01-31,USA,Colombia,2,2,Friendly,False
+2025-02-01,Australia,Spain,2,4,Friendly,False
+2025-02-03,Japan,Argentina,2,1,Friendly,True
+2025-02-04,Poland,Morocco,0,2,Friendly,False
+2025-02-05,Japan,Panama,2,2,Friendly,False
+2025-02-06,Serbia,Senegal,1,1,Friendly,False
+2025-02-08,Uruguay,Brazil,2,1,Friendly,False
+2025-02-09,New Zealand,Senegal,0,3,Friendly,False
+2025-02-10,Uruguay,Portugal,3,4,Friendly,False
+2025-02-11,Ghana,Panama,1,2,Friendly,True
+2025-02-12,South Korea,USA,5,1,Friendly,True
+2025-02-14,Qatar,Morocco,2,0,Friendly,False
+2025-02-15,Belgium,Canada,2,3,Friendly,True
+2025-02-16,Portugal,USA,1,3,Friendly,False
+2025-02-17,France,Costa Rica,3,0,Friendly,True
+2025-02-19,South Korea,Switzerland,1,0,Friendly,True
+2025-02-20,New Zealand,Portugal,1,5,Friendly,True
+2025-02-21,Portugal,Morocco,0,1,Friendly,False
+2025-02-22,South Korea,Denmark,2,2,Friendly,False
+2025-02-24,Canada,Australia,0,0,Friendly,True
+2025-02-25,USA,Netherlands,1,1,Friendly,False
+2025-02-26,Morocco,Germany,1,0,Friendly,False
+2025-02-27,Saudi Arabia,England,2,2,Friendly,False
+2025-02-28,France,Germany,4,2,Friendly,False
+2025-03-02,Denmark,Serbia,0,1,Friendly,True
+2025-03-03,Ecuador,Belgium,1,1,Friendly,False
+2025-03-04,Brazil,Canada,4,1,Friendly,True
+2025-03-05,Ecuador,Panama,0,0,Friendly,True
+2025-03-07,Croatia,Costa Rica,2,0,Friendly,False
+2025-03-08,Morocco,Japan,1,0,Friendly,True
+2025-03-09,Australia,Saudi Arabia,2,6,Friendly,False
+2025-03-10,USA,Spain,0,1,Friendly,False
+2025-03-11,Costa Rica,Switzerland,0,1,Friendly,True
+2025-03-13,Spain,Qatar,3,0,Friendly,True
+2025-03-14,USA,Brazil,3,5,Friendly,False
+2025-03-15,Ecuador,Mexico,1,1,Friendly,False
+2025-03-16,Portugal,Netherlands,0,0,Friendly,False
+2025-03-18,Morocco,Serbia,2,0,Friendly,False
+2025-03-19,Italy,Japan,0,4,Friendly,True
+2025-03-20,Uruguay,Panama,1,1,Friendly,False
+2025-03-21,New Zealand,Argentina,0,1,Friendly,False
+2025-03-23,Colombia,Mexico,1,1,Friendly,False
+2025-03-24,Croatia,Qatar,7,0,Friendly,True
+2025-03-25,Germany,France,3,1,Friendly,False
+2025-03-26,Qatar,Serbia,1,1,Friendly,False
+2025-03-27,Senegal,Saudi Arabia,3,0,Friendly,True
+2025-03-29,Uruguay,Italy,1,2,Friendly,False
+2025-03-30,Spain,Qatar,1,0,Friendly,True
+2025-03-31,Panama,Germany,2,4,Friendly,False
+2025-04-01,Morocco,Denmark,0,2,Friendly,True
+2025-04-03,Brazil,New Zealand,1,0,Friendly,False
+2025-04-04,Germany,New Zealand,5,0,Friendly,False
+2025-04-05,Qatar,Canada,3,1,Friendly,True
+2025-04-06,Panama,New Zealand,2,0,Friendly,False
+2025-04-08,Denmark,Poland,1,2,Friendly,True
+2025-04-09,Qatar,Mexico,0,2,Friendly,False
+2025-04-10,Japan,Italy,2,2,Friendly,False
+2025-04-11,Italy,Mexico,4,1,Friendly,False
+2025-04-12,USA,Panama,2,2,Friendly,True
+2025-04-14,Panama,Qatar,1,0,Friendly,False
+2025-04-15,Poland,Switzerland,0,2,Friendly,False
+2025-04-16,Canada,Australia,0,0,Friendly,True
+2025-04-17,Japan,Ecuador,2,2,Friendly,True
+2025-04-19,Switzerland,Qatar,5,1,Friendly,False
+2025-04-20,Colombia,Belgium,2,3,Friendly,True
+2025-04-21,Australia,Canada,1,1,Friendly,False
+2025-04-22,Canada,South Korea,2,0,Friendly,False
+2025-04-24,Qatar,Serbia,0,2,Friendly,False
+2025-04-25,Germany,South Korea,8,3,Friendly,False
+2025-04-26,Spain,Uruguay,1,0,Friendly,False
+2025-04-27,France,Poland,2,0,Friendly,False
+2025-04-28,Denmark,Poland,2,2,Friendly,False
+2025-04-30,Costa Rica,Netherlands,0,0,Friendly,False
+2025-05-01,Denmark,Colombia,3,1,Friendly,False
+2025-05-02,France,Panama,3,1,Friendly,False
+2025-05-03,Uruguay,New Zealand,1,0,Friendly,False
+2025-05-05,Saudi Arabia,Ecuador,0,2,Friendly,False
+2025-05-06,South Korea,Qatar,1,0,Friendly,False
+2025-05-07,Argentina,South Korea,2,1,Friendly,False
+2025-05-08,Argentina,Germany,5,0,Friendly,False
+2025-05-10,Belgium,Croatia,3,2,Friendly,False
+2025-05-11,France,Italy,2,3,Friendly,False
+2025-05-12,Italy,South Korea,2,3,Friendly,False
+2025-05-13,Serbia,Australia,0,0,Friendly,False
+2025-05-14,Panama,England,0,3,Friendly,False
+2025-05-16,Japan,Argentina,1,3,Friendly,False
+2025-05-17,Costa Rica,Croatia,0,0,Friendly,False
+2025-05-18,Italy,Colombia,1,0,Friendly,False
+2025-05-19,Canada,Saudi Arabia,3,1,Friendly,False
+2025-05-21,Brazil,France,3,2,Friendly,False
+2025-05-22,Italy,Germany,4,3,Friendly,False
+2025-05-23,Panama,Germany,2,1,Friendly,False
+2025-05-24,New Zealand,Mexico,0,1,Friendly,False
+2025-05-25,Serbia,Japan,1,0,Friendly,False
+2025-05-27,Qatar,Belgium,1,1,Friendly,False
+2025-05-28,Senegal,England,0,1,Friendly,True
+2025-05-29,Belgium,Panama,4,1,Friendly,False
+2025-05-30,USA,South Korea,0,0,Friendly,True
+2025-06-01,France,USA,3,0,Friendly,False
+2025-06-02,Ghana,Morocco,0,2,Friendly,False
+2025-06-03,Saudi Arabia,Morocco,1,1,Friendly,False
+2025-06-04,Uruguay,USA,3,0,Friendly,False
+2025-06-06,Netherlands,Brazil,0,2,Friendly,False
+2025-06-07,Mexico,Qatar,1,1,Friendly,False
+2025-06-08,Qatar,South Korea,1,2,Friendly,False
+2025-06-09,Spain,New Zealand,2,2,Friendly,True
+2025-06-10,Japan,Italy,4,0,Friendly,False
+2025-06-12,Mexico,Colombia,0,2,Friendly,False
+2025-06-13,Canada,Croatia,0,1,Friendly,True
+2025-06-14,Portugal,Qatar,3,1,Friendly,True
+2025-06-15,Belgium,Panama,5,1,Friendly,False
+2025-06-17,Senegal,Australia,0,0,Friendly,False
+2025-06-18,Australia,Belgium,0,0,Friendly,True
+2025-06-19,Switzerland,Poland,1,1,Friendly,False
+2025-06-20,New Zealand,Colombia,2,3,Friendly,False
+2025-06-22,Poland,Italy,1,2,Friendly,False
+2025-06-23,Poland,Costa Rica,0,1,Friendly,False
+2025-06-24,Mexico,Ecuador,2,3,Friendly,True
+2025-06-25,Belgium,South Korea,4,0,Friendly,False
+2025-06-26,Brazil,Denmark,3,2,Friendly,False
+2025-06-28,Croatia,Ecuador,0,2,Friendly,False
+2025-06-29,Senegal,Germany,1,0,Friendly,False
+2025-06-30,Poland,New Zealand,1,1,Friendly,False
+2025-07-01,Panama,Switzerland,1,0,Friendly,False
+2025-07-03,Mexico,Portugal,1,1,Friendly,False
+2025-07-04,Brazil,Ecuador,3,2,Friendly,True
+2025-07-05,Colombia,Denmark,3,5,Friendly,False
+2025-07-06,Denmark,Panama,0,2,Friendly,False
+2025-07-08,Switzerland,Spain,1,2,Friendly,False
+2025-07-09,Portugal,Mexico,3,2,Friendly,False
+2025-07-10,Japan,Poland,4,2,Friendly,False
+2025-07-11,Costa Rica,Morocco,2,0,Friendly,True
+2025-07-12,Mexico,Ecuador,1,1,Friendly,False
+2025-07-14,Colombia,South Korea,3,1,Friendly,False
+2025-07-15,Brazil,Switzerland,1,1,Friendly,False
+2025-07-16,New Zealand,Saudi Arabia,1,5,Friendly,True
+2025-07-17,Denmark,Argentina,2,3,Friendly,True
+2025-07-19,Uruguay,Switzerland,2,1,Friendly,True
+2025-07-20,Australia,Colombia,1,1,Friendly,False
+2025-07-21,Saudi Arabia,Colombia,0,2,Friendly,False
+2025-07-22,Ecuador,Italy,0,2,Friendly,True
+2025-07-23,France,Portugal,1,1,Friendly,False
+2025-07-25,Denmark,Poland,1,0,Friendly,False
+2025-07-26,Belgium,Saudi Arabia,1,3,Friendly,False
+2025-07-27,Japan,Morocco,0,1,Friendly,False
+2025-07-28,Italy,New Zealand,0,1,Friendly,True
+2025-07-30,Denmark,USA,2,1,Friendly,False
+2025-07-31,Uruguay,Costa Rica,0,4,Friendly,True
+2025-08-01,Brazil,Croatia,2,0,Friendly,True
+2025-08-02,Germany,Japan,2,2,Friendly,False
+2025-08-04,New Zealand,Saudi Arabia,0,0,Friendly,False
+2025-08-05,England,Uruguay,5,0,Friendly,False
+2025-08-06,Japan,Portugal,0,1,Friendly,False
+2025-08-07,France,Denmark,2,2,Friendly,False
+2025-08-08,Senegal,Croatia,3,0,Friendly,False
+2025-08-10,Saudi Arabia,Italy,2,1,Friendly,False
+2025-08-11,Serbia,Belgium,2,3,Friendly,True
+2025-08-12,South Korea,Colombia,3,1,Friendly,False
+2025-08-13,Panama,Argentina,3,1,Friendly,False
+2025-08-15,Morocco,Senegal,1,1,Friendly,True
+2025-08-16,Serbia,USA,1,0,Friendly,False
+2025-08-17,Portugal,Qatar,2,0,Friendly,True
+2025-08-18,Canada,Spain,0,3,Friendly,False
+2025-08-20,Italy,France,2,3,Friendly,False
+2025-08-21,Portugal,Italy,0,1,Friendly,True
+2025-08-22,Argentina,Australia,3,1,Friendly,False
+2025-08-23,Colombia,Costa Rica,2,1,Friendly,False
+2025-08-24,Qatar,Serbia,2,2,Friendly,True
+2025-08-26,Brazil,France,2,0,Friendly,False
+2025-08-27,Ghana,Switzerland,2,3,Friendly,False
+2025-08-28,Croatia,Costa Rica,0,0,Friendly,False
+2025-08-29,South Korea,Panama,1,1,Friendly,True
+2025-08-31,Netherlands,Qatar,2,0,Friendly,False
+2025-09-01,New Zealand,Denmark,1,2,Friendly,False
+2025-09-02,Saudi Arabia,Japan,0,3,Friendly,False
+2025-09-03,USA,Saudi Arabia,3,2,Friendly,False
+2025-09-05,Saudi Arabia,Qatar,2,1,Friendly,False
+2025-09-06,Mexico,Ghana,3,2,Friendly,True
+2025-09-07,Morocco,Portugal,2,1,Friendly,False
+2025-09-08,Ghana,Qatar,2,1,Friendly,False
+2025-09-09,England,Costa Rica,1,3,Friendly,True
+2025-09-11,Italy,Netherlands,0,1,Friendly,False
+2025-09-12,England,USA,6,0,Friendly,False
+2025-09-13,Canada,Australia,0,1,Friendly,True
+2025-09-14,Ecuador,Switzerland,1,1,Friendly,False
+2025-09-16,Denmark,Mexico,0,1,Friendly,False
+2025-09-17,Canada,France,1,2,Friendly,True
+2025-09-18,Brazil,Italy,1,0,Friendly,False
+2025-09-19,Denmark,Belgium,1,2,Friendly,False
+2025-09-20,Germany,South Korea,2,4,Friendly,True
+2025-09-22,Brazil,Qatar,3,0,Friendly,True
+2025-09-23,Poland,Canada,0,1,Friendly,True
+2025-09-24,Colombia,Italy,2,4,Friendly,False
+2025-09-25,Australia,Ecuador,0,0,Friendly,False
+2025-09-27,Mexico,Germany,2,0,Friendly,True
+2025-09-28,Brazil,Portugal,3,2,Friendly,False
+2025-09-29,USA,Croatia,2,0,Friendly,False
+2025-09-30,Senegal,Portugal,0,2,Friendly,False
+2025-10-02,Germany,Australia,2,2,Friendly,False
+2025-10-03,New Zealand,Uruguay,2,1,Friendly,True
+2025-10-04,Argentina,Qatar,3,1,Friendly,False
+2025-10-05,Argentina,Australia,2,0,Friendly,False
+2025-10-06,Ghana,New Zealand,3,4,Friendly,False
+2025-10-08,Australia,Germany,2,2,Friendly,False
+2025-10-09,Costa Rica,Netherlands,0,2,Friendly,False
+2025-10-10,Qatar,Mexico,0,1,Friendly,True
+2025-10-11,France,Croatia,4,1,Friendly,True
+2025-10-13,Netherlands,Saudi Arabia,2,0,Friendly,True
+2025-10-14,Saudi Arabia,Senegal,1,0,Friendly,False
+2025-10-15,Costa Rica,Denmark,1,2,Friendly,False
+2025-10-16,Colombia,Qatar,1,1,Friendly,True
+2025-10-18,Costa Rica,Denmark,1,2,Friendly,False
+2025-10-19,Belgium,Ghana,6,0,Friendly,False
+2025-10-20,Canada,Brazil,2,1,Friendly,False
+2025-10-21,Ecuador,Netherlands,0,2,Friendly,False
+2025-10-22,Saudi Arabia,Germany,0,2,Friendly,False
+2025-10-24,Senegal,Canada,3,0,Friendly,False
+2025-10-25,Ecuador,Mexico,1,2,Friendly,True
+2025-10-26,Qatar,Morocco,2,0,Friendly,True
+2025-10-27,Uruguay,Senegal,0,0,Friendly,True
+2025-10-29,Ecuador,Italy,2,0,Friendly,False
+2025-10-30,Uruguay,Costa Rica,3,0,Friendly,True
+2025-10-31,Croatia,France,1,0,Friendly,False
+2025-11-01,Canada,Qatar,4,1,Friendly,False
+2025-11-03,France,Qatar,2,0,Friendly,True
+2025-11-04,Serbia,Germany,1,3,Friendly,False
+2025-11-05,Germany,France,2,0,Friendly,False
+2025-11-06,Germany,Denmark,1,3,Friendly,True
+2025-11-07,Costa Rica,Italy,1,2,Friendly,True
+2025-11-09,France,Netherlands,0,1,Friendly,False
+2025-11-10,Japan,Ghana,2,1,Friendly,False
+2025-11-11,Morocco,Senegal,1,0,Friendly,False
+2025-11-12,Italy,Uruguay,2,2,Friendly,False
+2025-11-14,Ghana,Qatar,3,0,Friendly,False
+2025-11-15,Qatar,Saudi Arabia,1,3,Friendly,False
+2025-11-16,Serbia,Italy,0,1,Friendly,False
+2025-11-17,Uruguay,Mexico,1,1,Friendly,True
+2025-11-19,Japan,England,1,1,Friendly,False
+2025-11-20,France,Ecuador,3,1,Friendly,False
+2025-11-21,Qatar,Ecuador,2,2,Friendly,True
+2025-11-22,Japan,Morocco,0,2,Friendly,False
+2025-11-23,Morocco,Portugal,0,1,Friendly,False
+2025-11-25,Qatar,Senegal,0,2,Friendly,False
+2025-11-26,Ghana,France,1,1,Friendly,True
+2025-11-27,Brazil,New Zealand,2,1,Friendly,True
+2025-11-28,France,Colombia,4,1,Friendly,False
+2025-11-30,Brazil,Mexico,5,4,Friendly,True
+2025-12-01,Costa Rica,Morocco,0,0,Friendly,False
+2025-12-02,Qatar,Croatia,3,1,Friendly,False
+2025-12-03,Morocco,Mexico,1,1,Friendly,False
+2025-12-04,Uruguay,Belgium,2,1,Friendly,True
+2025-12-06,Canada,Croatia,1,1,Friendly,True
+2025-12-07,Qatar,Germany,2,1,Friendly,False
+2025-12-08,Poland,Australia,2,2,Friendly,False
+2025-12-09,Italy,Germany,1,0,Friendly,False
+2025-12-11,Japan,Serbia,0,2,Friendly,True
+2025-12-12,Belgium,Denmark,5,0,Friendly,False
+2025-12-13,France,Ghana,6,2,Friendly,False
+2025-12-14,Colombia,France,1,0,Friendly,True
+2025-12-16,New Zealand,Australia,1,3,Friendly,False
+2025-12-17,Colombia,Italy,0,2,Friendly,False
+2025-12-18,Switzerland,Ecuador,0,1,Friendly,False
+2025-12-19,Japan,Switzerland,4,1,Friendly,False
+2025-12-20,Qatar,Japan,1,2,Friendly,False
+2025-12-22,Netherlands,Japan,2,1,Friendly,False
+2025-12-23,Denmark,Senegal,3,1,Friendly,False
+2025-12-24,Belgium,Netherlands,0,1,Friendly,False
+2025-12-25,Belgium,Costa Rica,2,0,Friendly,False
+2025-12-27,Belgium,USA,1,1,Friendly,True
+2025-12-28,Poland,Ecuador,1,3,Friendly,False
+2025-12-29,USA,Switzerland,1,1,Friendly,True
+2025-12-30,Ecuador,Serbia,2,2,Friendly,False
+2026-01-01,Costa Rica,Ghana,1,2,Friendly,False
+2026-01-02,Costa Rica,Colombia,1,1,Friendly,False
+2026-01-03,Netherlands,Uruguay,2,1,Friendly,True
+2026-01-04,Canada,Switzerland,3,1,Friendly,False
+2026-01-05,USA,Spain,2,2,Friendly,False
+2026-01-07,Canada,Portugal,3,3,Friendly,True
+2026-01-08,Argentina,Denmark,5,0,Friendly,False
+2026-01-09,England,Spain,1,1,Friendly,True
+2026-01-10,Italy,Costa Rica,4,0,Friendly,False
+2026-01-12,Morocco,Colombia,0,2,Friendly,True
+2026-01-13,New Zealand,Portugal,1,3,Friendly,False
+2026-01-14,England,South Korea,5,1,Friendly,False
+2026-01-15,Netherlands,South Korea,1,4,Friendly,False
+2026-01-17,Colombia,Germany,2,0,Friendly,False
+2026-01-18,Costa Rica,Argentina,0,1,Friendly,True
+2026-01-19,Denmark,Colombia,0,0,Friendly,False
+2026-01-20,Switzerland,Canada,2,0,Friendly,False
+2026-01-21,Australia,Costa Rica,0,2,Friendly,False
+2026-01-23,New Zealand,Italy,2,3,Friendly,False
+2026-01-24,Qatar,Poland,1,2,Friendly,False
+2026-01-25,Costa Rica,Japan,4,5,Friendly,False
+2026-01-26,Italy,Argentina,1,1,Friendly,False
+2026-01-28,France,Belgium,0,3,Friendly,True
+2026-01-29,Brazil,USA,4,0,Friendly,False
+2026-01-30,Denmark,Poland,2,0,Friendly,False
+2026-01-31,Denmark,Saudi Arabia,4,3,Friendly,False
+2026-02-01,Argentina,Costa Rica,3,1,Friendly,False
+2026-02-03,Argentina,Serbia,2,2,Friendly,False
+2026-02-04,Mexico,Switzerland,0,2,Friendly,True
+2026-02-05,Senegal,New Zealand,0,0,Friendly,False
+2026-02-06,Argentina,Belgium,4,2,Friendly,True
+2026-02-08,Canada,Denmark,2,2,Friendly,False
+2026-02-09,Japan,Portugal,1,3,Friendly,False
+2026-02-10,Canada,Qatar,1,2,Friendly,False
+2026-02-11,Ecuador,Costa Rica,1,0,Friendly,False
+2026-02-13,Mexico,Brazil,2,1,Friendly,False
+2026-02-14,Uruguay,Netherlands,1,2,Friendly,True
+2026-02-15,Canada,Mexico,1,0,Friendly,False
+2026-02-16,Switzerland,New Zealand,2,0,Friendly,True
+2026-02-17,Mexico,England,1,2,Friendly,False
+2026-02-19,Germany,USA,1,1,Friendly,True
+2026-02-20,Italy,Croatia,2,1,Friendly,False
+2026-02-21,Qatar,Switzerland,5,0,Friendly,False
+2026-02-22,South Korea,Uruguay,3,4,Friendly,False
+2026-02-24,Serbia,USA,7,0,Friendly,False
+2026-02-25,Argentina,France,2,3,Friendly,False
+2026-02-26,Mexico,Morocco,3,0,Friendly,False
+2026-02-27,Colombia,Spain,0,0,Friendly,False
+2026-03-01,Italy,Qatar,2,0,Friendly,True
+2026-03-02,Ecuador,Argentina,1,0,Friendly,False
+2026-03-03,France,Croatia,1,3,Friendly,False
+2026-03-04,Morocco,Colombia,1,3,Friendly,False
+2026-03-05,Serbia,Netherlands,1,3,Friendly,True
+2026-03-07,Australia,Switzerland,1,1,Friendly,False
+2026-03-08,Germany,South Korea,2,2,Friendly,False
+2026-03-09,Ecuador,Belgium,0,2,Friendly,False
+2026-03-10,Portugal,Belgium,4,2,Friendly,False
+2026-03-12,Morocco,Australia,0,1,Friendly,False
+2026-03-13,Colombia,Portugal,0,2,Friendly,True
+2026-03-14,USA,Belgium,3,2,Friendly,False
+2026-03-15,England,Saudi Arabia,5,0,Friendly,False
+2026-03-17,Serbia,Argentina,0,1,Friendly,False
+2026-03-18,Germany,Croatia,2,0,Friendly,False
+2026-03-19,Belgium,Qatar,1,1,Friendly,False
+2026-03-20,Uruguay,Portugal,0,3,Friendly,False
+2026-03-21,Croatia,Panama,2,0,Friendly,False
+2026-03-23,South Korea,Qatar,2,0,Friendly,False
+2026-03-24,England,Australia,2,2,Friendly,False
+2026-03-25,Serbia,Panama,0,0,Friendly,False
+2026-03-26,Morocco,France,1,0,Friendly,False
+2026-03-28,Morocco,Poland,0,0,Friendly,True
+2026-03-29,Denmark,Croatia,1,2,Friendly,True
+2026-03-30,Italy,Senegal,1,2,Friendly,False
+2026-03-31,Switzerland,Uruguay,2,0,Friendly,False
+2026-04-01,Germany,South Korea,3,2,Friendly,False
+2026-04-03,Netherlands,Colombia,2,2,Friendly,False
+2026-04-04,Germany,Saudi Arabia,1,0,Friendly,False
+2026-04-05,Mexico,Canada,0,4,Friendly,False
+2026-04-06,Senegal,Croatia,1,1,Friendly,False
+2026-04-08,New Zealand,Portugal,0,1,Friendly,False
+2026-04-09,Argentina,Australia,4,2,Friendly,False
+2026-04-10,Belgium,Germany,0,2,Friendly,True
+2026-04-11,Costa Rica,Serbia,0,1,Friendly,False
+2026-04-13,Panama,Morocco,3,3,Friendly,True
+2026-04-14,Uruguay,Poland,1,2,Friendly,False
+2026-04-15,Belgium,Ghana,4,1,Friendly,False
+2026-04-16,Spain,Canada,2,0,Friendly,False
+2026-04-17,Japan,Mexico,2,1,Friendly,False
+2026-04-19,Serbia,Ecuador,0,2,Friendly,False
+2026-04-20,France,Spain,2,1,Friendly,False
+2026-04-21,Denmark,Serbia,2,2,Friendly,False
+2026-04-22,Spain,Panama,5,0,Friendly,False
+2026-04-24,Netherlands,Brazil,1,0,Friendly,True
+2026-04-25,Panama,Italy,2,2,Friendly,True
+2026-04-26,Portugal,Denmark,2,2,Friendly,False
+2026-04-27,Ghana,France,1,3,Friendly,True
+2026-04-29,Denmark,Serbia,2,1,Friendly,False
+2026-04-30,Mexico,Morocco,0,2,Friendly,False
+2026-05-01,Costa Rica,Australia,2,2,Friendly,False
+2026-05-02,Mexico,South Korea,2,1,Friendly,True
+2026-05-03,South Korea,Panama,1,0,Friendly,False
+2026-05-05,England,Denmark,2,0,Friendly,False
+2026-05-06,Belgium,Argentina,0,0,Friendly,True
+2026-05-07,Croatia,Senegal,0,2,Friendly,False
+2026-05-08,Costa Rica,New Zealand,4,2,Friendly,False
+2026-05-10,Argentina,Uruguay,3,1,Friendly,False
+2026-05-11,England,Senegal,1,1,Friendly,False
+2026-05-12,Canada,Morocco,4,1,Friendly,True
+2026-05-13,Canada,Australia,1,1,Friendly,False
+2026-05-15,Costa Rica,Serbia,3,3,Friendly,True
+2026-05-16,Portugal,Brazil,1,2,Friendly,False
+2026-05-17,Argentina,Mexico,4,2,Friendly,False
+2026-05-18,Italy,Spain,4,2,Friendly,True
+2026-05-19,Spain,Costa Rica,0,0,Friendly,False
+2026-05-21,South Korea,Australia,3,1,Friendly,False
+2026-05-22,Morocco,Serbia,2,1,Friendly,False
+2026-05-23,Australia,Switzerland,2,0,Friendly,False
+2026-05-24,Serbia,Switzerland,1,0,Friendly,False
+2026-05-26,Belgium,Senegal,3,2,Friendly,False
+2026-05-27,USA,Morocco,0,3,Friendly,False
+2026-05-28,Japan,South Korea,1,1,Friendly,False
+2026-05-29,Japan,Poland,2,0,Friendly,False
+2026-05-31,Belgium,New Zealand,2,0,Friendly,False

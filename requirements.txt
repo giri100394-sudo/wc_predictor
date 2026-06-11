@@ -3,4 +3,4 @@ numpy>=1.24
 scipy>=1.10
 streamlit>=1.39
 openpyxl>=3.1  # Excel export (predict_fixtures.py --xlsx)
-anthropic>=0.40  # only needed for src/agent.py
+anthropic==0.109.1  # only needed for src/agent.py (pinned: avoids pip resolver backtracking through old releases)

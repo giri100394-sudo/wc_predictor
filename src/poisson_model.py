@@ -88,6 +88,12 @@ class PoissonModel:
         x0[-1] = np.log(max(df[["home_score", "away_score"]].mean().mean(), 0.1))
         res = minimize(nll, x0, jac=grad, method="L-BFGS-B")
         if not res.success:
+            # L-BFGS-B can report ABNORMAL_TERMINATION_IN_LNSRCH (a line-search
+            # precision wall) on some BLAS builds even though it's effectively
+            # converged. Restarting from the current point resets its internal
+            # state and usually finishes cleanly.
+            res = minimize(nll, res.x, jac=grad, method="L-BFGS-B")
+        if not res.success:
             raise RuntimeError(f"Model fit failed: {res.message}")
 
         atk, dfn = res.x[:n], res.x[n:2 * n]

@@ -1,0 +1,74 @@
+Date	Home	Away	Venue	Poisson score	Poisson result	Poisson P(exact)	Markov score	Markov result	Markov P(exact)
+2026-06-11	Mexico	South Africa	Mexico (host)	1-0	1	16%	2-0	1	22%
+2026-06-11	South Korea	Czech Republic	Neutral	1-1	X	13%	1-1	X	11%
+2026-06-12	Canada	Bosnia and Herzegovina	Canada (host)	1-0	1	15%	2-0	1	18%
+2026-06-12	United States	Paraguay	United States (host)	1-1	X	13%	2-0	1	17%
+2026-06-13	Qatar	Switzerland	Neutral	0-2	2	12%	1-1	X	12%
+2026-06-13	Brazil	Morocco	Neutral	1-0	1	16%	0-1	2	12%
+2026-06-13	Haiti	Scotland	Neutral	0-2	2	11%	1-1	X	12%
+2026-06-13	Australia	Turkey	Neutral	1-1	X	13%	1-1	X	12%
+2026-06-14	Sweden	Tunisia	Neutral	1-1	X	13%	0-1	2	12%
+2026-06-14	Netherlands	Japan	Neutral	1-1	X	13%	1-1	X	12%
+2026-06-14	Germany	Curaçao	Neutral	3-0	1	12%	2-0	1	19%
+2026-06-14	Ivory Coast	Ecuador	Neutral	0-0	X	23%	1-1	X	12%
+2026-06-15	Belgium	Egypt	Neutral	1-0	1	17%	1-1	X	12%
+2026-06-15	Iran	New Zealand	Neutral	1-0	1	18%	1-0	1	13%
+2026-06-15	Spain	Cape Verde	Neutral	2-0	1	15%	2-0	1	20%
+2026-06-15	Saudi Arabia	Uruguay	Neutral	0-1	2	22%	1-1	X	12%
+2026-06-16	Austria	Jordan	Neutral	1-0	1	13%	1-1	X	12%
+2026-06-16	Argentina	Algeria	Neutral	1-0	1	18%	1-1	X	12%
+2026-06-16	France	Senegal	Neutral	1-0	1	15%	1-1	X	12%
+2026-06-16	Iraq	Norway	Neutral	0-1	2	16%	1-1	X	12%
+2026-06-17	Portugal	DR Congo	Neutral	1-0	1	19%	1-0	1	12%
+2026-06-17	Uzbekistan	Colombia	Neutral	0-1	2	17%	0-1	2	12%
+2026-06-17	England	Croatia	Neutral	1-0	1	16%	1-1	X	12%
+2026-06-17	Ghana	Panama	Neutral	1-1	X	13%	0-2	2	13%
+2026-06-18	Czech Republic	South Africa	Neutral	1-0	1	15%	1-1	X	12%
+2026-06-18	Mexico	South Korea	Mexico (host)	1-0	1	13%	2-0	1	19%
+2026-06-18	Switzerland	Bosnia and Herzegovina	Neutral	1-0	1	14%	2-0	1	15%
+2026-06-18	Canada	Qatar	Canada (host)	2-0	1	13%	1-0	1	12%
+2026-06-19	Turkey	Paraguay	Neutral	1-1	X	13%	1-1	X	12%
+2026-06-19	Scotland	Morocco	Neutral	0-1	2	19%	0-2	2	21%
+2026-06-19	Brazil	Haiti	Neutral	3-0	1	12%	2-0	1	18%
+2026-06-19	United States	Australia	United States (host)	1-1	X	13%	2-0	1	15%
+2026-06-20	Netherlands	Sweden	Neutral	2-1	1	10%	1-0	1	12%
+2026-06-20	Tunisia	Japan	Neutral	0-1	2	19%	1-1	X	12%
+2026-06-20	Germany	Ivory Coast	Neutral	1-0	1	14%	1-1	X	12%
+2026-06-20	Ecuador	Curaçao	Neutral	2-0	1	19%	2-0	1	17%
+2026-06-21	Belgium	Iran	Neutral	1-0	1	13%	1-1	X	12%
+2026-06-21	New Zealand	Egypt	Neutral	0-1	2	21%	0-2	2	16%
+2026-06-21	Spain	Saudi Arabia	Neutral	2-0	1	16%	1-1	X	11%
+2026-06-21	Uruguay	Cape Verde	Neutral	1-0	1	21%	1-0	1	12%
+2026-06-22	France	Iraq	Neutral	2-0	1	17%	1-0	1	12%
+2026-06-22	Norway	Senegal	Neutral	1-1	X	13%	0-1	2	13%
+2026-06-22	Argentina	Austria	Neutral	1-0	1	19%	2-0	1	15%
+2026-06-22	Jordan	Algeria	Neutral	0-1	2	12%	0-1	2	11%
+2026-06-23	Portugal	Uzbekistan	Neutral	1-0	1	17%	1-0	1	13%
+2026-06-23	Colombia	DR Congo	Neutral	1-0	1	19%	1-0	1	12%
+2026-06-23	England	Ghana	Neutral	2-0	1	17%	2-0	1	14%
+2026-06-23	Panama	Croatia	Neutral	0-2	2	13%	1-1	X	12%
+2026-06-24	Morocco	Haiti	Neutral	2-0	1	17%	2-0	1	22%
+2026-06-24	Bosnia and Herzegovina	Qatar	Neutral	1-1	X	13%	0-1	2	12%
+2026-06-24	Scotland	Brazil	Neutral	0-2	2	12%	0-2	2	14%
+2026-06-24	South Africa	South Korea	Neutral	0-1	2	16%	1-1	X	12%
+2026-06-24	Mexico	Czech Republic	Mexico (host)	1-0	1	12%	2-0	1	23%
+2026-06-24	Canada	Switzerland	Canada (host)	1-1	X	13%	1-1	X	12%
+2026-06-25	United States	Turkey	United States (host)	1-1	X	10%	2-0	1	15%
+2026-06-25	Paraguay	Australia	Neutral	0-0	X	17%	1-1	X	12%
+2026-06-25	Curaçao	Ivory Coast	Neutral	0-2	2	17%	0-2	2	16%
+2026-06-25	Ecuador	Germany	Neutral	0-1	2	14%	1-1	X	12%
+2026-06-25	Japan	Sweden	Neutral	1-0	1	12%	1-0	1	12%
+2026-06-25	Tunisia	Netherlands	Neutral	0-1	2	16%	1-1	X	12%
+2026-06-26	Senegal	Iraq	Neutral	1-0	1	20%	1-0	1	12%
+2026-06-26	Norway	France	Neutral	1-1	X	12%	0-1	2	13%
+2026-06-26	Uruguay	Spain	Neutral	0-1	2	17%	0-1	2	13%
+2026-06-26	New Zealand	Belgium	Neutral	0-2	2	16%	0-2	2	17%
+2026-06-26	Egypt	Iran	Neutral	0-1	2	16%	1-1	X	12%
+2026-06-26	Cape Verde	Saudi Arabia	Neutral	0-0	X	16%	0-2	2	15%
+2026-06-27	Panama	England	Neutral	0-2	2	16%	1-1	X	12%
+2026-06-27	Algeria	Austria	Neutral	1-1	X	13%	2-0	1	14%
+2026-06-27	Jordan	Argentina	Neutral	0-2	2	17%	0-1	2	12%
+2026-06-27	Colombia	Portugal	Neutral	1-1	X	13%	1-1	X	12%
+2026-06-27	DR Congo	Uzbekistan	Neutral	0-0	X	23%	1-1	X	12%
+2026-06-27	Croatia	Ghana	Neutral	1-0	1	15%	1-0	1	12%
+

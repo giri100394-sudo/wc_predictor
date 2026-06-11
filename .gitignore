@@ -4,3 +4,4 @@ __pycache__/
 data/predictions_log.csv
 data/results_log.csv
 .DS_Store
+backtest_charts/

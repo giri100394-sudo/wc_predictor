@@ -33,6 +33,7 @@ class PoissonModel:
         df["date"] = pd.to_datetime(df["date"])
         if as_of:
             df = df[df["date"] <= pd.Timestamp(as_of)]
+        df = df.dropna(subset=["home_score", "away_score"])  # drop unplayed fixtures
         ref_date = df["date"].max()
         age_days = (ref_date - df["date"]).dt.days.to_numpy(float)
         weights = 0.5 ** (age_days / self.decay_halflife_days)
@@ -47,11 +48,13 @@ class PoissonModel:
         ga = df["away_score"].to_numpy(float)
         neutral = df["neutral"].astype(bool).to_numpy()
 
+        is_home = (~neutral).astype(float)
+
         # params: [attack(n), defense(n), home_adv, base]
         def nll(params):
             atk, dfn = params[:n], params[n:2 * n]
             home_adv, base = params[-2], params[-1]
-            log_mu_h = base + atk[h] + dfn[a] + home_adv * (~neutral)
+            log_mu_h = base + atk[h] + dfn[a] + home_adv * is_home
             log_mu_a = base + atk[a] + dfn[h]
             mu_h, mu_a = np.exp(log_mu_h), np.exp(log_mu_a)
             ll = weights * (gh * log_mu_h - mu_h + ga * log_mu_a - mu_a)
@@ -59,9 +62,31 @@ class PoissonModel:
             # small-sample teams toward average
             return -ll.sum() + 0.1 * (np.sum(atk**2) + np.sum(dfn**2))
 
+        # analytic gradient — with hundreds of teams (>2*n+2 params), finite-
+        # difference gradients need n+1 extra evaluations per step and never
+        # converge in scipy's default budget.
+        def grad(params):
+            atk, dfn = params[:n], params[n:2 * n]
+            home_adv, base = params[-2], params[-1]
+            log_mu_h = base + atk[h] + dfn[a] + home_adv * is_home
+            log_mu_a = base + atk[a] + dfn[h]
+            mu_h, mu_a = np.exp(log_mu_h), np.exp(log_mu_a)
+            res_h = weights * (gh - mu_h)
+            res_a = weights * (ga - mu_a)
+
+            g_atk = 0.2 * atk
+            g_dfn = 0.2 * dfn
+            np.subtract.at(g_atk, h, res_h)
+            np.subtract.at(g_atk, a, res_a)
+            np.subtract.at(g_dfn, a, res_h)
+            np.subtract.at(g_dfn, h, res_a)
+            g_home_adv = -np.sum(res_h * is_home)
+            g_base = -np.sum(res_h) - np.sum(res_a)
+            return np.concatenate([g_atk, g_dfn, [g_home_adv, g_base]])
+
         x0 = np.zeros(2 * n + 2)
         x0[-1] = np.log(max(df[["home_score", "away_score"]].mean().mean(), 0.1))
-        res = minimize(nll, x0, method="L-BFGS-B")
+        res = minimize(nll, x0, jac=grad, method="L-BFGS-B")
         if not res.success:
             raise RuntimeError(f"Model fit failed: {res.message}")
 

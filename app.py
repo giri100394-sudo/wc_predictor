@@ -1,5 +1,5 @@
 """
-World Cup Prediction-League Agent — web UI.
+World Cup Prediction Agent — single-page web UI.
 
 Run with:
     streamlit run app.py
@@ -16,11 +16,31 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "src"))
 
 from poisson_model import PoissonModel
-from ev_optimizer import best_prediction, scoreline_evs, scorer_evs
-import tracker
+from ev_optimizer import best_prediction
 
 MATCHES_CSV = ROOT / "data" / "sample_matches.csv"
 PLAYERS_CSV = ROOT / "data" / "sample_players.csv"
+
+EMBLEM_URL = ("https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/"
+               "2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png")
+TROPHY_URL = ("https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/"
+              "Golden_trophy.svg/250px-Golden_trophy.svg.png")
+
+FLAGS = {
+    "Argentina": "🇦🇷", "Australia": "🇦🇺", "Belgium": "🇧🇪", "Brazil": "🇧🇷",
+    "Canada": "🇨🇦", "Colombia": "🇨🇴", "Costa Rica": "🇨🇷", "Croatia": "🇭🇷",
+    "Denmark": "🇩🇰", "Ecuador": "🇪🇨", "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "France": "🇫🇷",
+    "Germany": "🇩🇪", "Ghana": "🇬🇭", "Italy": "🇮🇹", "Japan": "🇯🇵",
+    "Mexico": "🇲🇽", "Morocco": "🇲🇦", "Netherlands": "🇳🇱", "New Zealand": "🇳🇿",
+    "Panama": "🇵🇦", "Poland": "🇵🇱", "Portugal": "🇵🇹", "Qatar": "🇶🇦",
+    "Saudi Arabia": "🇸🇦", "Senegal": "🇸🇳", "Serbia": "🇷🇸", "South Korea": "🇰🇷",
+    "Spain": "🇪🇸", "Switzerland": "🇨🇭", "USA": "🇺🇸", "Uruguay": "🇺🇾",
+}
+
+
+def flag(team: str) -> str:
+    return FLAGS.get(team, "🏳️")
+
 
 st.set_page_config(page_title="WC Prediction Agent", page_icon="⚽", layout="wide")
 
@@ -40,58 +60,132 @@ model = get_model(str(MATCHES_CSV))
 players_df = get_players(str(PLAYERS_CSV))
 teams = sorted(model.attack)
 
-st.title("⚽ World Cup Prediction-League Agent")
-st.caption("Optimized for your league: 5 exact · 3 result · −2 wrong winner "
-           "(draws penalty-free) · +2 scorer")
+# ----------------------------------------------------------------- styling
+st.markdown("""
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap');
 
-tab_predict, tab_result, tab_report = st.tabs(
-    ["🎯 Predict", "📋 Log result", "📈 Feedback report"])
+html, body, [class*="css"] { font-family: 'Poppins', sans-serif; }
 
-# ================================================================= PREDICT
-with tab_predict:
+.hero-banner {
+    background: linear-gradient(120deg, #0E4D32 0%, #16291F 55%, #1B3358 100%);
+    border: 1px solid rgba(232, 179, 57, 0.35);
+    border-radius: 22px;
+    padding: 1.8rem 2rem;
+    margin-bottom: 1.4rem;
+    display: flex;
+    align-items: center;
+    gap: 1.6rem;
+    flex-wrap: wrap;
+    box-shadow: 0 8px 28px rgba(0,0,0,0.35);
+}
+.hero-banner img { height: 96px; filter: drop-shadow(0 4px 10px rgba(0,0,0,0.4)); }
+.hero-title { font-size: 2.1rem; font-weight: 800; color: #F2EFE6; margin: 0; }
+.hero-sub { color: #E8B339; font-weight: 600; margin: 0.15rem 0 0.4rem 0; }
+.hero-caption { color: #C7CCC4; font-size: 0.92rem; margin: 0; }
+
+.prob-bar-wrap {
+    display: flex; height: 14px; border-radius: 8px; overflow: hidden;
+    margin: 0.6rem 0 1rem 0; box-shadow: inset 0 0 0 1px rgba(255,255,255,0.08);
+}
+
+.rec-card {
+    background: linear-gradient(120deg, rgba(232,179,57,0.16), rgba(14,77,50,0.35));
+    border: 1px solid rgba(232,179,57,0.45);
+    border-radius: 18px;
+    padding: 1.4rem 1.8rem;
+    text-align: center;
+    margin-bottom: 0.6rem;
+}
+.rec-card img { height: 46px; vertical-align: middle; margin-right: 0.6rem; }
+.rec-score { font-size: 2.4rem; font-weight: 800; color: #E8B339; }
+.rec-teams { font-size: 1.1rem; font-weight: 600; color: #F2EFE6; }
+</style>
+""", unsafe_allow_html=True)
+
+# ----------------------------------------------------------------- hero
+st.markdown(f"""
+<div class="hero-banner">
+    <img src="{EMBLEM_URL}" alt="2026 FIFA World Cup emblem"/>
+    <div>
+        <p class="hero-title">⚽ World Cup Prediction Agent</p>
+        <p class="hero-sub">2026 Edition — Canada · Mexico · USA</p>
+        <p class="hero-caption">Optimized for your league: 5 exact · 3 result · −2 wrong winner
+        (draws penalty-free) · +2 scorer</p>
+    </div>
+</div>
+""", unsafe_allow_html=True)
+
+# ----------------------------------------------------------------- match setup
+with st.container(border=True):
+    st.subheader("Match setup")
     c1, c2, c3 = st.columns([2, 2, 1])
-    team_a = c1.selectbox("Team A", teams, index=teams.index("France") if "France" in teams else 0)
-    team_b = c2.selectbox("Team B", teams, index=teams.index("England") if "England" in teams else 1)
-    host = c3.selectbox("Host advantage", ["Neutral", team_a, team_b])
+    team_a = c1.selectbox("Team A", teams, index=teams.index("France") if "France" in teams else 0,
+                           format_func=lambda t: f"{flag(t)} {t}")
+    team_b = c2.selectbox("Team B", teams, index=teams.index("England") if "England" in teams else 1,
+                           format_func=lambda t: f"{flag(t)} {t}")
+    host = c3.selectbox("Host advantage", ["Neutral", team_a, team_b],
+                         format_func=lambda t: t if t == "Neutral" else f"{flag(t)} {t}")
 
-    if team_a == team_b:
-        st.warning("Pick two different teams.")
-        st.stop()
+if team_a == team_b:
+    st.warning("Pick two different teams.")
+    st.stop()
 
-    a, b = (team_b, team_a) if host == team_b else (team_a, team_b)
-    neutral = host == "Neutral"
+a, b = (team_b, team_a) if host == team_b else (team_a, team_b)
+neutral = host == "Neutral"
 
-    mu_a, mu_b = model.expected_goals(a, b, neutral=neutral)
-    grid = model.score_grid(a, b, neutral=neutral)
-    pa = players_df[players_df["team"] == a].to_dict("records")
-    pb = players_df[players_df["team"] == b].to_dict("records")
-    rec = best_prediction(grid, mu_a, mu_b, pa, pb)
-    s, sc = rec["scoreline"], rec["scorer"]
+mu_a, mu_b = model.expected_goals(a, b, neutral=neutral)
+grid = model.score_grid(a, b, neutral=neutral)
+pa = players_df[players_df["team"] == a].to_dict("records")
+pb = players_df[players_df["team"] == b].to_dict("records")
+rec = best_prediction(grid, mu_a, mu_b, pa, pb)
+s, sc = rec["scoreline"], rec["scorer"]
 
-    p_a = float(np.tril(grid, -1).sum())
-    p_d = float(np.trace(grid))
-    p_b = float(np.triu(grid, 1).sum())
+p_a = float(np.tril(grid, -1).sum())
+p_d = float(np.trace(grid))
+p_b = float(np.triu(grid, 1).sum())
 
-    st.divider()
+# ----------------------------------------------------------------- outlook
+with st.container(border=True):
+    st.subheader("Match outlook")
+    st.markdown(f"""
+    <div class="prob-bar-wrap">
+        <div style="width:{p_a * 100:.2f}%; background:#3DDC97;"></div>
+        <div style="width:{p_d * 100:.2f}%; background:#E8B339;"></div>
+        <div style="width:{p_b * 100:.2f}%; background:#5AA9E8;"></div>
+    </div>
+    """, unsafe_allow_html=True)
     m1, m2, m3, m4 = st.columns(4)
-    m1.metric(f"{a} win", f"{p_a:.0%}")
+    m1.metric(f"{flag(a)} {a} win", f"{p_a:.0%}")
     m2.metric("Draw", f"{p_d:.0%}")
-    m3.metric(f"{b} win", f"{p_b:.0%}")
+    m3.metric(f"{flag(b)} {b} win", f"{p_b:.0%}")
     m4.metric("Expected goals", f"{mu_a:.2f} – {mu_b:.2f}")
 
-    st.subheader(f"Recommended: **{a} {s.score_a} – {s.score_b} {b}**")
-    why = ("a draw pick carries zero penalty risk in your league"
-           if s.score_a == s.score_b else
-           "the result probability outweighs the wrong-winner risk")
+# ----------------------------------------------------------------- recommendation
+why = ("a draw pick carries zero penalty risk in your league"
+       if s.score_a == s.score_b else
+       "the result probability outweighs the wrong-winner risk")
+
+with st.container(border=True):
+    st.markdown(f"""
+    <div class="rec-card">
+        <img src="{TROPHY_URL}" alt="trophy"/>
+        <span class="rec-teams">{flag(a)} {a}</span>
+        <span class="rec-score"> {s.score_a} – {s.score_b} </span>
+        <span class="rec-teams">{b} {flag(b)}</span>
+    </div>
+    """, unsafe_allow_html=True)
     st.write(f"Expected value **{s.ev:+.2f} pts** — exact-hit chance "
              f"{s.p_exact:.1%}, correct-result chance {s.p_result:.1%}; {why}.")
     if sc:
-        st.write(f"**Scorer pick: {sc.player}** ({sc.team}) — "
+        st.write(f"**Scorer pick: {sc.player}** ({flag(sc.team)} {sc.team}) — "
                  f"{sc.p_scores:.0%} chance of scoring, worth {sc.ev:+.2f} pts of EV.")
     st.write(f"**Total expected points: {rec['expected_points']:.2f} / 7**")
 
-    left, right = st.columns(2)
-    with left:
+# ----------------------------------------------------------------- alternatives
+left, right = st.columns(2)
+with left:
+    with st.container(border=True):
         st.markdown("**Scoreline alternatives (by EV)**")
         alt = pd.DataFrame([{
             "Score": f"{x.score_a}–{x.score_b}",
@@ -100,7 +194,8 @@ with tab_predict:
             "Penalty risk": f"{x.p_opposite_win:.0%}",
         } for x in [s] + rec["scoreline_alternatives"]])
         st.dataframe(alt, hide_index=True, width='stretch')
-    with right:
+with right:
+    with st.container(border=True):
         st.markdown("**Scorer alternatives**")
         if sc:
             alts = pd.DataFrame([{
@@ -112,62 +207,3 @@ with tab_predict:
         else:
             st.info("No player data for these teams yet — add rows to "
                     "data/sample_players.csv.")
-
-    st.divider()
-    st.markdown("**Save this prediction** (before kickoff — it locks in the league, "
-                "and logging it here powers the feedback report)")
-    f1, f2, f3, f4 = st.columns([1, 1, 2, 1])
-    pred_a = f1.number_input(f"{a} goals", 0, 10, int(s.score_a))
-    pred_b = f2.number_input(f"{b} goals", 0, 10, int(s.score_b))
-    scorer_options = [x.player for x in ([sc] + rec["scorer_alternatives"])] if sc else ["(none)"]
-    pick = f3.selectbox("Scorer pick", scorer_options)
-    if f4.button("Save prediction", type="primary", width='stretch'):
-        mid = tracker.log_prediction(a, b, int(pred_a), int(pred_b), pick,
-                                     rec["expected_points"])
-        st.success(f"Saved as `{mid}` — enter the real result in the next tab "
-                   "after the final whistle.")
-
-# ============================================================== LOG RESULT
-with tab_result:
-    preds = tracker._load(tracker.PRED_LOG, tracker.PRED_COLS)
-    results = tracker._load(tracker.RESULT_LOG, tracker.RESULT_COLS)
-    pending = preds[~preds["match_id"].isin(results["match_id"])]
-    if pending.empty:
-        st.info("No pending matches. Save a prediction first.")
-    else:
-        row = pending.iloc[
-            [pending["match_id"].tolist().index(
-                st.selectbox("Match", pending["match_id"]))]].iloc[0]
-        st.write(f"Your prediction: **{row.team_a} {row.pred_a} – "
-                 f"{row.pred_b} {row.team_b}**, scorer **{row.scorer}**")
-        r1, r2, r3 = st.columns(3)
-        actual_a = r1.number_input(f"{row.team_a} actual goals", 0, 15, 0)
-        actual_b = r2.number_input(f"{row.team_b} actual goals", 0, 15, 0)
-        scored = r3.checkbox(f"{row.scorer} scored?")
-        if st.button("Save result", type="primary"):
-            tracker.log_result(row.match_id, int(actual_a), int(actual_b), scored)
-            pts = tracker.score_prediction(row.pred_a, row.pred_b,
-                                           int(actual_a), int(actual_b), scored)
-            st.success(f"Scored: **{pts['total']:+d} pts** "
-                       f"({pts['outcome']} {pts['scoreline_points']:+d}, "
-                       f"scorer {pts['scorer_points']:+d})")
-
-# ================================================================== REPORT
-with tab_report:
-    rep = tracker.feedback_report()
-    if rep["matches_scored"] == 0:
-        st.info(rep["message"])
-    else:
-        k1, k2, k3, k4 = st.columns(4)
-        k1.metric("Matches scored", rep["matches_scored"])
-        k2.metric("Total points", rep["total_points"])
-        k3.metric("Avg pts / match", rep["avg_points_per_match"])
-        k4.metric("Scorer hit rate", f"{rep['scorer_hit_rate']:.0%}")
-        st.write(f"Exact hits: **{rep['exact_hits']}** · "
-                 f"Correct results: **{rep['result_hits']}** · "
-                 f"Wrong winners: **{rep['wrong_winners']}**")
-        st.markdown("**Refinement hints**")
-        for h in rep["refinement_hints"]:
-            st.write(f"- {h}")
-        st.markdown("**Match by match**")
-        st.dataframe(rep["per_match"], hide_index=True, width='stretch')

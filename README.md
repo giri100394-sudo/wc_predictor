@@ -105,10 +105,8 @@ pip install streamlit
 streamlit run app.py
 ```
 
-Opens in your browser at http://localhost:8501 with three tabs:
-**Predict** (pick teams, see EV-ranked recommendations, save your pick),
-**Log result** (enter the real score after the whistle), and
-**Feedback report** (your points, hit rates, and data-driven refinement hints).
+Opens in your browser at http://localhost:8501 — pick two teams and host
+advantage to see EV-ranked scoreline and goalscorer recommendations.
 
 ## Putting it on GitHub
 

@@ -5,6 +5,7 @@ import Hero from './components/Hero'
 import Tabs from './components/Tabs'
 import DateNav from './components/DateNav'
 import MatchCard from './components/MatchCard'
+import RecentResults from './components/RecentResults'
 import FixturesOverview from './components/FixturesOverview'
 import GroupStage from './components/GroupStage'
 
@@ -48,7 +49,7 @@ export default function App() {
       )}
 
       {!fixtures && !error && (
-        <div className="text-center text-white/50 py-20">Loading fixtures…</div>
+        <div className="text-center text-ink-400 py-20">Loading fixtures…</div>
       )}
 
       {fixtures && (
@@ -57,6 +58,8 @@ export default function App() {
 
           {activeTab === 'matchday' && (
             <div>
+              <RecentResults fixtures={fixtures} />
+
               <DateNav
                 dates={dates}
                 counts={counts}
@@ -66,7 +69,7 @@ export default function App() {
               />
 
               {selectedDate && (
-                <p className="text-white/50 text-sm mt-3 mb-4">
+                <p className="text-ink-400 text-sm mt-3 mb-4">
                   {formatFullDate(selectedDate)} · {dayMatches.length} match
                   {dayMatches.length !== 1 ? 'es' : ''}
                 </p>

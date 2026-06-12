@@ -13,15 +13,15 @@ export default function DateNav({ dates, counts, selected, onSelect, today }) {
             onClick={() => onSelect(date)}
             className={`flex-shrink-0 flex flex-col items-center gap-0.5 rounded-xl px-4 py-2 border transition-all cursor-pointer
               ${isSelected
-                ? 'bg-gold-500 text-pitch-900 border-gold-500 shadow-lg shadow-gold-500/30 scale-[1.03]'
-                : 'bg-white/5 border-white/10 text-white/80 hover:bg-white/10'}
-              ${isToday && !isSelected ? 'ring-2 ring-gold-400/70' : ''}`}
+                ? 'bg-ink-900 text-white border-ink-900 shadow-md scale-[1.03]'
+                : 'bg-white border-line text-ink-700 hover:border-ink-400'}
+              ${isToday && !isSelected ? 'ring-2 ring-gold-500/60' : ''}`}
           >
-            <span className="text-[10px] uppercase tracking-wide opacity-70">
+            <span className={`text-[10px] uppercase tracking-wide ${isSelected ? 'text-white/60' : 'text-ink-400'}`}>
               {weekday}{isToday ? ' · Today' : ''}
             </span>
             <span className="text-lg font-bold leading-tight">{day} {month}</span>
-            <span className="text-[10px] opacity-70">
+            <span className={`text-[10px] ${isSelected ? 'text-white/60' : 'text-ink-400'}`}>
               {counts[date]} match{counts[date] !== 1 ? 'es' : ''}
             </span>
           </button>

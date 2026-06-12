@@ -39,8 +39,8 @@ export const HIT_LABELS = {
 }
 
 export const HIT_STYLES = {
-  exact: 'bg-mint-500 text-pitch-900',
-  result: 'bg-gold-500 text-pitch-900',
+  exact: 'bg-mint-500 text-white',
+  result: 'bg-gold-500 text-ink-900',
   wrong_winner: 'bg-coral-500 text-white',
-  wrong: 'bg-white/15 text-white/70',
+  wrong: 'bg-cloud-100 text-ink-400',
 }

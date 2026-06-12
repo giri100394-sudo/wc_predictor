@@ -85,18 +85,18 @@ st.set_page_config(page_title="WC Prediction Agent", page_icon="⚽", layout="wi
 # ----------------------------------------------------------------- caching
 @st.cache_resource(show_spinner="Fitting models on match history…")
 def get_models(matches_path: str, mtime: float) -> tuple[PoissonModel, MarkovModel]:
-    df = pd.read_csv(matches_path)
+    df = pd.read_csv(matches_path, encoding="utf-8")
     return PoissonModel().fit(df), MarkovModel().fit(df)
 
 
 @st.cache_data
 def get_players(players_path: str) -> pd.DataFrame:
-    return pd.read_csv(players_path)
+    return pd.read_csv(players_path, encoding="utf-8")
 
 
 @st.cache_data
 def load_fixtures(matches_path: str, mtime: float) -> pd.DataFrame:
-    df = pd.read_csv(matches_path)
+    df = pd.read_csv(matches_path, encoding="utf-8")
     df["date"] = pd.to_datetime(df["date"])
     wc = df[(df["date"] >= WC_START) & (df["tournament"] == WC_TOURNAMENT)]
     return wc.sort_values("date").reset_index(drop=True)

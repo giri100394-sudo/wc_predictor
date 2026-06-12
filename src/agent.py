@@ -32,13 +32,13 @@ def tool_predict_match(team_a: str, team_b: str, host: str | None = None,
     matches_csv = matches_csv or str(ROOT / "data" / "sample_matches.csv")
     players_csv = players_csv or str(ROOT / "data" / "sample_players.csv")
 
-    model = PoissonModel().fit(pd.read_csv(matches_csv))
+    model = PoissonModel().fit(pd.read_csv(matches_csv, encoding="utf-8"))
     neutral = host is None
     a, b = (team_b, team_a) if host == team_b else (team_a, team_b)
 
     mu_a, mu_b = model.expected_goals(a, b, neutral=neutral)
     grid = model.score_grid(a, b, neutral=neutral)
-    pdf = pd.read_csv(players_csv)
+    pdf = pd.read_csv(players_csv, encoding="utf-8")
     pa = pdf[pdf["team"].isin({a, PLAYER_TEAM_ALIASES.get(a, a)})].to_dict("records")
     pb = pdf[pdf["team"].isin({b, PLAYER_TEAM_ALIASES.get(b, b)})].to_dict("records")
     rec = best_prediction(grid, mu_a, mu_b, pa, pb)

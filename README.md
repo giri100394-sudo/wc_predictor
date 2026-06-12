@@ -108,6 +108,33 @@ streamlit run app.py
 Opens in your browser at http://localhost:8501 — pick two teams and host
 advantage to see EV-ranked scoreline and goalscorer recommendations.
 
+## React app (flashy World Cup dashboard)
+
+A separate React + Vite frontend (`frontend/`) backed by a small FastAPI
+service (`api/`) shows Poisson and Markov predictions for every World Cup
+group-stage fixture, grouped by matchday and defaulting to today's date.
+
+Terminal 1 — start the API (serves predictions, refits automatically when
+`data/sample_matches.csv` changes):
+
+```bash
+pip install -r api/requirements.txt
+uvicorn api.main:app --reload --port 8000
+```
+
+Terminal 2 — start the frontend:
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Opens at http://localhost:5173 — the dev server proxies `/api` requests to
+the FastAPI service on port 8000. Use the **Matchday**, **All fixtures**, and
+**Group stage so far** tabs to browse predictions and compare them against
+actual results as you fill them in.
+
 ## Putting it on GitHub
 
 1. Create a free account at github.com, click **New repository**, name it

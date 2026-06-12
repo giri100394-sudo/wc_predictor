@@ -1,32 +1,32 @@
 team,name,goal_share,p_start,minutes_frac
-France,Kylian Mbappé,0.38,0.95,1.00
+France,Kylian Mbappé,0.38,0.95,1
 France,Antoine Griezmann,0.15,0.85,0.95
-France,Ousmane Dembélé,0.14,0.80,0.85
-France,Marcus Thuram,0.12,0.60,0.70
-England,Harry Kane,0.34,0.95,1.00
-England,Bukayo Saka,0.16,0.90,0.95
-England,Jude Bellingham,0.15,0.90,0.95
-England,Phil Foden,0.12,0.70,0.80
-Argentina,Lionel Messi,0.30,0.90,0.95
-Argentina,Lautaro Martínez,0.25,0.80,0.85
-Argentina,Julián Álvarez,0.20,0.75,0.85
-Spain,Lamine Yamal,0.20,0.95,0.95
-Spain,Álvaro Morata,0.22,0.70,0.75
-Spain,Nico Williams,0.15,0.85,0.90
+France,Ousmane Dembélé,0.14,0.8,0.85
+France,Marcus Thuram,0.12,0.6,0.7
+England,Harry Kane,0.34,0.95,1
+England,Bukayo Saka,0.16,0.9,0.95
+England,Jude Bellingham,0.15,0.9,0.95
+England,Phil Foden,0.12,0.7,0.8
+Argentina,Lionel Messi,0.3,0.9,0.95
+Argentina,Lautaro Martínez,0.25,0.8,0.85
+Argentina,Julián Álvarez,0.2,0.75,0.85
+Spain,Lamine Yamal,0.2,0.95,0.95
+Spain,Álvaro Morata,0.22,0.7,0.75
+Spain,Nico Williams,0.15,0.85,0.9
 Brazil,Vinícius Júnior,0.25,0.95,0.95
-Brazil,Rodrygo,0.16,0.85,0.90
-Brazil,Raphinha,0.18,0.85,0.90
-Portugal,Cristiano Ronaldo,0.30,0.90,0.95
-Portugal,Bruno Fernandes,0.15,0.90,0.95
-Portugal,Rafael Leão,0.14,0.75,0.80
-Germany,Kai Havertz,0.20,0.85,0.90
-Germany,Jamal Musiala,0.18,0.90,0.95
-Germany,Florian Wirtz,0.16,0.90,0.95
+Brazil,Rodrygo,0.16,0.85,0.9
+Brazil,Raphinha,0.18,0.85,0.9
+Portugal,Cristiano Ronaldo,0.3,0.9,0.95
+Portugal,Bruno Fernandes,0.15,0.9,0.95
+Portugal,Rafael Leão,0.14,0.75,0.8
+Germany,Kai Havertz,0.2,0.85,0.9
+Germany,Jamal Musiala,0.18,0.9,0.95
+Germany,Florian Wirtz,0.16,0.9,0.95
 USA,Christian Pulisic,0.28,0.95,0.95
-USA,Folarin Balogun,0.18,0.70,0.75
-Mexico,Santiago Giménez,0.25,0.85,0.90
-Mexico,Raúl Jiménez,0.18,0.65,0.70
-Netherlands,Memphis Depay,0.25,0.75,0.80
-Netherlands,Cody Gakpo,0.20,0.85,0.90
-Canada,Jonathan David,0.30,0.95,0.95
-Canada,Alphonso Davies,0.15,0.90,0.95
+USA,Folarin Balogun,0.18,0.7,0.75
+Mexico,Santiago Giménez,0.25,0.85,0.9
+Mexico,Raúl Jiménez,0.18,0.65,0.7
+Netherlands,Memphis Depay,0.25,0.75,0.8
+Netherlands,Cody Gakpo,0.2,0.85,0.9
+Canada,Jonathan David,0.3,0.95,0.95
+Canada,Alphonso Davies,0.15,0.9,0.95

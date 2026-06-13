@@ -4,3 +4,5 @@ scipy>=1.10
 streamlit>=1.39
 openpyxl>=3.1  # Excel export (predict_fixtures.py --xlsx)
 anthropic==0.109.1  # only needed for src/agent.py (pinned: avoids pip resolver backtracking through old releases)
+fastapi>=0.110  # api/main.py
+uvicorn[standard]>=0.30  # api/main.py server

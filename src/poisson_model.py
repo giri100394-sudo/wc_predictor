@@ -21,7 +21,7 @@ MAX_GOALS = 10  # grid size; P(>10 goals) is negligible
 
 @dataclass
 class PoissonModel:
-    decay_halflife_days: float = 730.0   # recent matches weigh more (2yr halflife)
+    decay_halflife_days: float = 365.0   # recent matches weigh more (1yr halflife)
     home_advantage: float = field(default=0.0, init=False)
     base_rate: float = field(default=0.0, init=False)
     attack: dict = field(default_factory=dict, init=False)

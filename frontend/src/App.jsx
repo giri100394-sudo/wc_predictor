@@ -6,6 +6,7 @@ import Tabs from './components/Tabs'
 import DateNav from './components/DateNav'
 import MatchCard from './components/MatchCard'
 import RecentResults from './components/RecentResults'
+import ScorerRefresh from './components/ScorerRefresh'
 import FixturesOverview from './components/FixturesOverview'
 import GroupStage from './components/GroupStage'
 
@@ -69,11 +70,17 @@ export default function App() {
               />
 
               {selectedDate && (
-                <p className="text-ink-400 text-sm mt-3 mb-4">
+                <p className="text-ink-400 text-sm mt-3 mb-2">
                   {formatFullDate(selectedDate)} · {dayMatches.length} match
                   {dayMatches.length !== 1 ? 'es' : ''}
                 </p>
               )}
+
+              <ScorerRefresh
+                date={selectedDate}
+                matchCount={dayMatches.length}
+                onDone={() => fetchFixtures().then(setFixtures)}
+              />
 
               <div className="flex flex-col gap-4">
                 {dayMatches.map((f, i) => (

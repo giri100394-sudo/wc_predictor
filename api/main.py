@@ -25,6 +25,7 @@ from poisson_model import PoissonModel  # noqa: E402
 from markov_model import MarkovModel  # noqa: E402
 from ev_optimizer import scoreline_evs, scorer_evs  # noqa: E402
 from tracker import score_prediction  # noqa: E402
+from scorer_agent import web_top_scorers  # noqa: E402
 
 MATCHES_CSV = ROOT / "data" / "sample_matches.csv"
 PLAYERS_CSV = ROOT / "data" / "sample_players.csv"
@@ -56,6 +57,29 @@ def result_probs(grid: np.ndarray) -> tuple[float, float, float]:
     p_d = float(np.trace(grid))
     p_b = float(np.triu(grid, 1).sum())
     return p_a, p_d, p_b
+
+
+def team_recent_form(df: pd.DataFrame, team: str, before: pd.Timestamp, n: int = 5) -> list[dict]:
+    """Last n played results for `team` before `before`, most recent first."""
+    mask = ((df["home_team"] == team) | (df["away_team"] == team)) \
+        & (df["date"] < before) & df["home_score"].notna()
+    sub = df[mask].sort_values("date", ascending=False).head(n)
+
+    out = []
+    for _, m in sub.iterrows():
+        is_home = m.home_team == team
+        gf = int(m.home_score if is_home else m.away_score)
+        ga = int(m.away_score if is_home else m.home_score)
+        result = "W" if gf > ga else ("L" if gf < ga else "D")
+        out.append({
+            "date": m.date.strftime("%Y-%m-%d"),
+            "opponent": m.away_team if is_home else m.home_team,
+            "score_for": gf,
+            "score_against": ga,
+            "result": result,
+            "tournament": m.tournament,
+        })
+    return out
 
 
 def build_fixtures() -> list[dict]:
@@ -99,7 +123,19 @@ def build_fixtures() -> list[dict]:
         mu_a, mu_b = poisson.expected_goals(a, b, neutral=neutral)
         pa = team_players(players_df, a)
         pb = team_players(players_df, b)
-        top_scorers = scorer_evs(mu_a, mu_b, pa, pb)[:3]
+
+        web_scorers = web_top_scorers(a, b)
+        if web_scorers:
+            top_scorers_out = web_scorers[:3]
+            scorer_source = "web"
+        else:
+            top_scorers = scorer_evs(mu_a, mu_b, pa, pb)[:3]
+            top_scorers_out = [
+                {"player": s.player, "team": s.team,
+                 "probability_pct": round(s.p_scores * 100, 1)}
+                for s in top_scorers
+            ]
+            scorer_source = "model"
 
         fixtures.append({
             "id": int(i),
@@ -110,11 +146,12 @@ def build_fixtures() -> list[dict]:
             "venue": "Neutral" if neutral else f"{a} (host)",
             "actual": actual,
             "models": models,
-            "top_scorers": [
-                {"player": s.player, "team": s.team,
-                 "probability_pct": round(s.p_scores * 100, 1)}
-                for s in top_scorers
-            ],
+            "recent_form": {
+                "home": team_recent_form(df, a, m.date),
+                "away": team_recent_form(df, b, m.date),
+            },
+            "top_scorers": top_scorers_out,
+            "scorer_source": scorer_source,
         })
     return fixtures
 
@@ -135,3 +172,26 @@ def health():
 @app.get("/api/fixtures")
 def fixtures():
     return get_fixtures()
+
+
+@app.post("/api/refresh-scorers/{date}")
+def refresh_scorers(date: str):
+    """Force a live web lookup of scorer predictions for every WC2026 fixture
+    on `date` (YYYY-MM-DD), overwriting the cache. Costs real API calls."""
+    df = pd.read_csv(MATCHES_CSV, encoding="utf-8")
+    df["date"] = pd.to_datetime(df["date"])
+    day = df[(df["date"] == pd.Timestamp(date)) & (df["tournament"] == WC_TOURNAMENT)]
+
+    results = []
+    for _, m in day.iterrows():
+        a, b = m.home_team, m.away_team
+        data = web_top_scorers(a, b, use_cache=False, fetch_live=True)
+        results.append({"home_team": a, "away_team": b, "ok": data is not None})
+
+    _cache["mtime"] = None  # force fixtures rebuild on next /api/fixtures
+    return {
+        "date": date,
+        "total": len(results),
+        "updated": sum(1 for r in results if r["ok"]),
+        "results": results,
+    }

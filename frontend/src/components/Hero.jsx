@@ -1,22 +1,26 @@
+import stadiumImg from '../assets/stadium-night.avif'
+import emblemImg from '../assets/wc-emblem.webp'
+
 export default function Hero() {
   return (
-    <div className="relative overflow-hidden rounded-3xl border border-line bg-white p-6 sm:p-8 mb-6 shadow-sm">
-      <div className="pointer-events-none absolute -top-24 -right-24 w-72 h-72 bg-mint-50 rounded-full blur-3xl" />
-      <div className="pointer-events-none absolute -bottom-24 -left-24 w-72 h-72 bg-sky-50 rounded-full blur-3xl" />
+    <div className="relative overflow-hidden rounded-3xl mb-6 shadow-sm">
+      <img
+        src={stadiumImg}
+        alt=""
+        className="absolute inset-0 w-full h-full object-cover"
+      />
+      <div className="absolute inset-0 bg-gradient-to-r from-ink-900/90 via-ink-900/75 to-ink-900/40" />
 
-      <div className="relative">
-        <h1 className="font-display text-2xl sm:text-3xl tracking-tight text-ink-900">
+      <div className="relative p-6 sm:p-8 flex items-center justify-between gap-6">
+        <h1 className="font-display text-2xl sm:text-3xl tracking-tight text-white">
           World Cup 2026 Prediction Agent
         </h1>
-        <p className="text-gold-600 font-semibold mt-1">
-          Group Stage — 11 to 27 June · Canada · Mexico · USA
-        </p>
+        <img
+          src={emblemImg}
+          alt="FIFA World Cup 26"
+          className="hidden sm:block w-20 h-20 object-contain drop-shadow-lg shrink-0"
+        />
       </div>
-
-      <p className="relative text-ink-400 text-sm mt-3 max-w-2xl">
-        Poisson and Markov-chain models, optimized for your league:
-        5 exact · 3 result · −2 wrong winner (draws penalty-free) · +2 scorer
-      </p>
     </div>
   )
 }

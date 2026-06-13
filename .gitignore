@@ -3,5 +3,6 @@ __pycache__/
 .streamlit/secrets.toml
 data/predictions_log.csv
 data/results_log.csv
+data/scorer_cache/
 .DS_Store
 backtest_charts/

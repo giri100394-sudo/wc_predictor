@@ -1,9 +1,13 @@
 import Flag from './Flag'
 import { outcomeLabel, formatDayParts } from '../utils'
+import matchBallsImg from '../assets/match-balls.webp'
 
 export default function FixturesOverview({ fixtures }) {
   return (
-    <div className="rounded-2xl border border-line bg-white p-5 shadow-sm">
+    <div className="rounded-2xl border border-line bg-white shadow-sm overflow-hidden">
+      <img src={matchBallsImg} alt="" className="w-full h-28 sm:h-36 object-cover" />
+
+      <div className="p-5">
       <h2 className="text-lg font-bold text-ink-900 mb-1">All fixtures</h2>
       <p className="text-xs text-ink-400 mb-4">
         Each model's pick is its highest expected-value scoreline under your league's
@@ -52,6 +56,7 @@ export default function FixturesOverview({ fixtures }) {
             })}
           </tbody>
         </table>
+      </div>
       </div>
     </div>
   )

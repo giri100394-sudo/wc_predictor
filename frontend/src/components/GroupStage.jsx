@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Flag from './Flag'
 import { formatDayParts, HIT_LABELS, HIT_STYLES } from '../utils'
+import ballNetImg from '../assets/ball-net.webp'
 
 const MODELS = [
   { key: 'poisson', name: 'Poisson', accent: 'text-mint-600' },
@@ -18,7 +19,10 @@ export default function GroupStage({ fixtures }) {
   const played = fixtures.filter((f) => f.actual !== null)
 
   return (
-    <div className="rounded-2xl border border-line bg-white p-5 shadow-sm">
+    <div className="rounded-2xl border border-line bg-white shadow-sm overflow-hidden">
+      <img src={ballNetImg} alt="" className="w-full h-28 sm:h-36 object-cover" />
+
+      <div className="p-5">
       <h2 className="text-lg font-bold text-ink-900 mb-1">Model performance</h2>
 
       {played.length === 0 ? (
@@ -118,6 +122,7 @@ export default function GroupStage({ fixtures }) {
           )}
         </>
       )}
+      </div>
     </div>
   )
 }

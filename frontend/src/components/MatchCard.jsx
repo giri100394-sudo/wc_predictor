@@ -1,9 +1,10 @@
 import Flag from './Flag'
 import ModelPanel from './ModelPanel'
 import ScorerChips from './ScorerChips'
+import TeamForm from './TeamForm'
 
 export default function MatchCard({ fixture, index }) {
-  const { home_team, away_team, venue, actual, models, top_scorers } = fixture
+  const { home_team, away_team, venue, actual, models, top_scorers, recent_form, scorer_source } = fixture
   const played = actual !== null
 
   return (
@@ -31,7 +32,21 @@ export default function MatchCard({ fixture, index }) {
         </div>
       )}
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-3">
+      <div className="mt-4 pt-4 border-t border-line">
+        <div className="text-xs font-semibold text-ink-400 uppercase tracking-wide mb-2">
+          Recent form (last 5)
+        </div>
+        <div className="flex flex-wrap gap-4">
+          <TeamForm team={home_team} form={recent_form?.home} />
+          <TeamForm team={away_team} form={recent_form?.away} />
+        </div>
+      </div>
+
+      <div className="mt-4 pt-4 border-t border-line">
+        <ScorerChips scorers={top_scorers} source={scorer_source} />
+      </div>
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-4 pt-4 border-t border-line">
         <ModelPanel
           name="Poisson"
           accent="mint"
@@ -49,8 +64,6 @@ export default function MatchCard({ fixture, index }) {
           played={played}
         />
       </div>
-
-      <ScorerChips scorers={top_scorers} />
     </div>
   )
 }

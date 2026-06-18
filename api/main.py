@@ -93,7 +93,8 @@ def build_fixtures() -> list[dict]:
 
     wc = df[(df["date"] >= WC_START) & (df["tournament"] == WC_TOURNAMENT)]
     wc = wc[wc["home_team"].isin(known) & wc["away_team"].isin(known)]
-    wc = wc.sort_values("date").reset_index(drop=True)
+    sort_cols = ["date", "match_time_et"] if "match_time_et" in wc.columns else ["date"]
+    wc = wc.sort_values(sort_cols).reset_index(drop=True)
 
     fixtures = []
     for i, m in wc.iterrows():

@@ -3,6 +3,6 @@ __pycache__/
 .streamlit/secrets.toml
 data/predictions_log.csv
 data/results_log.csv
-data/scorer_cache/
+# data/scorer_cache/ — tracked so deployed Render instance has web-sourced predictions
 .DS_Store
 backtest_charts/

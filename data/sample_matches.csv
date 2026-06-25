@@ -49447,12 +49447,12 @@ date,home_team,away_team,home_score,away_score,tournament,neutral,match_time_et
 2026-06-23,Colombia,DR Congo,1,0,FIFA World Cup,TRUE,22:00
 2026-06-23,England,Ghana,0,0,FIFA World Cup,TRUE,16:00
 2026-06-23,Panama,Croatia,0,1,FIFA World Cup,TRUE,19:00
-2026-06-24,Mexico,Czech Republic,,,FIFA World Cup,FALSE,21:00
-2026-06-24,South Africa,South Korea,,,FIFA World Cup,TRUE,21:00
+2026-06-24,Mexico,Czech Republic,3,0,FIFA World Cup,FALSE,21:00
+2026-06-24,South Africa,South Korea,1,0,FIFA World Cup,TRUE,21:00
 2026-06-24,Canada,Switzerland,1,2,FIFA World Cup,FALSE,15:00
 2026-06-24,Bosnia and Herzegovina,Qatar,3,1,FIFA World Cup,TRUE,15:00
-2026-06-24,Scotland,Brazil,,,FIFA World Cup,TRUE,18:00
-2026-06-24,Morocco,Haiti,,,FIFA World Cup,TRUE,18:00
+2026-06-24,Scotland,Brazil,0,3,FIFA World Cup,TRUE,18:00
+2026-06-24,Morocco,Haiti,4,2,FIFA World Cup,TRUE,18:00
 2026-06-25,United States,Turkey,,,FIFA World Cup,FALSE,22:00
 2026-06-25,Paraguay,Australia,,,FIFA World Cup,TRUE,22:00
 2026-06-25,Curaçao,Ivory Coast,,,FIFA World Cup,TRUE,16:00
